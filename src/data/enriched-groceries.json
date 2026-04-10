@@ -1,0 +1,1612 @@
+{
+  "metadata": {
+    "source": "sayweee.com",
+    "generated_date": "2026-04-10",
+    "criteria": "Low LDL cholesterol impact, low glycemic index, low sodium, low saturated fat. Suitable for borderline high LDL, hypertension, fatty liver.",
+    "store": "Chinese (default)",
+    "base_url": "https://www.sayweee.com/en/product",
+    "note": "Product URL format: {base_url}/{slug}/{product_id}"
+  },
+  "categories": {
+    "vegetables": {
+      "health_rationale": "Fresh vegetables are universally beneficial for LDL, hypertension, and fatty liver. Leafy greens, cruciferous vegetables, and mushrooms are particularly valuable. Zero saturated fat, low sodium, high fiber, rich in antioxidants.",
+      "items": [
+        {
+          "product_id": "87080",
+          "slug": "Beet-Loose",
+          "name": "Beet Loose 2 lb",
+          "price": "$2.49",
+          "unit_price": "$1.24/lb",
+          "health_note": "Excellent for blood pressure - contains nitrates that dilate blood vessels. High in fiber and folate.",
+          "name_zh": "新鲜甜菜根 2 磅",
+          "image_url": "https://img06.weeecdn.com/item/image/325/053/43DFF17A73B23FF3.jpg",
+          "product_url": "https://www.sayweee.com/zh/product/Beet-Loose/87080"
+        },
+        {
+          "product_id": "94800",
+          "slug": "Shanghai-Bok-Choy",
+          "name": "Shanghai Bok Choy 2 lb",
+          "price": "$2.98",
+          "unit_price": "$1.49/lb",
+          "health_note": "Leafy green rich in calcium, vitamin K, and antioxidants. Very low calorie.",
+          "name_zh": "青江菜 2 磅",
+          "image_url": "https://img06.weeecdn.com/product/image/659/968/573FC6AF9F9C81.png",
+          "product_url": "https://www.sayweee.com/zh/product/Shanghai-Bok-Choy/94800"
+        },
+        {
+          "product_id": "58586",
+          "slug": "Cilantro",
+          "name": "Cilantro 1 bunch",
+          "price": "$0.59",
+          "unit_price": null,
+          "health_note": "Contains compounds that may help lower blood sugar and cholesterol. Rich in antioxidants.",
+          "name_zh": "香菜 1 把",
+          "image_url": "https://img06.weeecdn.com/product/image/952/568/4BC2C8CF67C84ECF.png",
+          "product_url": "https://www.sayweee.com/zh/product/Cilantro/58586"
+        },
+        {
+          "product_id": "62662",
+          "slug": "Green-Cabbage",
+          "name": "Green Cabbage 1 count",
+          "price": "$1.99",
+          "unit_price": null,
+          "health_note": "Cruciferous vegetable excellent for liver detoxification. High in vitamin C and fiber.",
+          "name_zh": " 绿色卷心菜 1 个",
+          "image_url": "https://img06.weeecdn.com/product/image/052/118/6D491D9B1E40B83C.png",
+          "product_url": "https://www.sayweee.com/zh/product/Green-Cabbage/62662"
+        },
+        {
+          "product_id": "46269",
+          "slug": "Japanese-White-Daikon-Radish",
+          "name": "Japanese White Daikon Radish 1.6-2 lb",
+          "price": "$1.49",
+          "unit_price": "$0.82/lb",
+          "health_note": "Very low calorie, high in vitamin C. Digestive enzyme support.",
+          "name_zh": "日本白萝卜 1.6-2 磅",
+          "image_url": "https://img06.weeecdn.com/item/image/835/856/29C82D0D4097B62D.jpg",
+          "product_url": "https://www.sayweee.com/zh/product/Japanese-White-Daikon-Radish/46269"
+        },
+        {
+          "product_id": "46130",
+          "slug": "Gai-Lan-Mieu",
+          "name": "Gai Lan Mieu 1 lb",
+          "price": "$3.99",
+          "unit_price": "$3.99/lb",
+          "health_note": "Chinese broccoli variety - cruciferous vegetable, excellent for liver health and cholesterol.",
+          "name_zh": "新鲜芥兰苗 1 磅",
+          "image_url": "https://img06.weeecdn.com/product/image/255/947/1DA9269D719EB4E1.png",
+          "product_url": "https://www.sayweee.com/zh/product/Gai-Lan-Mieu/46130"
+        },
+        {
+          "product_id": "53561",
+          "slug": "King-Oyster-Mushrooms",
+          "name": "King Oyster Mushrooms 1 lb",
+          "price": "$1.99",
+          "unit_price": "$0.12/oz",
+          "health_note": "Beta-glucans in mushrooms actively lower LDL cholesterol. Excellent meat substitute.",
+          "name_zh": "杏鲍菇 1 磅",
+          "image_url": "https://img06.weeecdn.com/product/image/135/121/417F1D955B93BC0C.png",
+          "product_url": "https://www.sayweee.com/zh/product/King-Oyster-Mushrooms/53561"
+        },
+        {
+          "product_id": "64427",
+          "slug": "Shimeji-Brown-Mushroom",
+          "name": "Shimeji Brown Mushroom 150 g",
+          "price": "$1.49",
+          "unit_price": "$0.28/oz",
+          "health_note": "Rich in beta-glucans, ergothioneine. Supports immune function and heart health.",
+          "name_zh": "蟹味菇 150 克",
+          "image_url": "https://img06.weeecdn.com/product/image/897/333/48D3E664D579FBCF.png",
+          "product_url": "https://www.sayweee.com/zh/product/Shimeji-Brown-Mushroom/64427"
+        },
+        {
+          "product_id": "38441",
+          "slug": "Enoki-Mushrooms",
+          "name": "Enoki Mushrooms 200 g",
+          "price": "$1.48",
+          "unit_price": "$0.20/oz",
+          "health_note": "Very low calorie, high in B vitamins. Contains compounds that support liver function.",
+          "name_zh": "金针菇 200 克",
+          "image_url": "https://img06.weeecdn.com/item/image/937/076/36F20AB7F2F3A538.jpg",
+          "product_url": "https://www.sayweee.com/zh/product/Enoki-Mushrooms/38441"
+        },
+        {
+          "product_id": "46407",
+          "slug": "Maitake-Mushrooms",
+          "name": "Maitake Mushrooms 150 g",
+          "price": "$3.99",
+          "unit_price": "$0.75/oz",
+          "health_note": "Maitake has strong evidence for lowering blood sugar and cholesterol. Anti-inflammatory.",
+          "name_zh": "新鲜舞茸菇 150 克",
+          "image_url": "https://img06.weeecdn.com/product/image/336/043/55240AF5B425BD8D.png",
+          "product_url": "https://www.sayweee.com/zh/product/Maitake-Mushrooms/46407"
+        },
+        {
+          "product_id": "97338",
+          "slug": "Soy-Bean-Sprouts",
+          "name": "Soy Bean Sprouts 1 lb",
+          "price": "$2.29",
+          "unit_price": "$2.29/lb",
+          "health_note": "Plant protein, very low calorie, high in vitamin C and folate.",
+          "name_zh": "黄豆芽 1 磅",
+          "image_url": "https://img06.weeecdn.com/product/image/377/210/4FF5E774F2453737.png",
+          "product_url": "https://www.sayweee.com/zh/product/Soy-Bean-Sprouts/97338"
+        },
+        {
+          "product_id": "58576",
+          "slug": "Yu-Choy-Mieu",
+          "name": "Yu Choy Mieu 0.95-1 lb",
+          "price": "$2.99",
+          "unit_price": "$3.05/lb",
+          "health_note": "Nutrient-dense leafy green. Rich in calcium, iron, and vitamins A and C.",
+          "name_zh": "油菜苗 0.95-1 磅",
+          "image_url": "https://img06.weeecdn.com/product/image/343/640/197D632D5F62B5D9.png",
+          "product_url": "https://www.sayweee.com/zh/product/Yu-Choy-Mieu/58576"
+        },
+        {
+          "product_id": "94799",
+          "slug": "Tong-Ho--Chrysanthemum-Greens",
+          "name": "Tong Ho (Chrysanthemum Greens) 1 lb",
+          "price": "$1.69",
+          "unit_price": "$1.69/lb",
+          "health_note": "Traditional medicinal green. Anti-inflammatory, supports liver and digestive health.",
+          "name_zh": "新鲜小叶茼蒿 1 磅",
+          "image_url": "https://img06.weeecdn.com/product/image/270/058/E8AF3BB586051ED.png",
+          "product_url": "https://www.sayweee.com/zh/product/Tong-Ho--Chrysanthemum-Greens/94799"
+        },
+        {
+          "product_id": "40503",
+          "slug": "Chinese-Broccoli",
+          "name": "Chinese Broccoli 2 lb",
+          "price": "$5.99",
+          "unit_price": "$2.99/lb",
+          "health_note": "Cruciferous vegetable - sulforaphane supports liver detox. High in calcium and iron.",
+          "name_zh": "芥兰 2 磅",
+          "image_url": "https://img06.weeecdn.com/product/image/896/482/1D6A77892C67C718.jpeg",
+          "product_url": "https://www.sayweee.com/zh/product/Chinese-Broccoli/40503"
+        },
+        {
+          "product_id": "94631",
+          "slug": "Taiwan-Cabbage",
+          "name": "Taiwan Cabbage 2.5-3.3 lb",
+          "price": "$5.99",
+          "unit_price": "$2.06/lb",
+          "health_note": "Cruciferous, tender variety. Excellent source of vitamin C and fiber.",
+          "name_zh": "台湾高丽菜 卷心菜 2.5-3.3 磅",
+          "image_url": "https://img06.weeecdn.com/item/image/980/570/10076D6493AEC672.jpg",
+          "product_url": "https://www.sayweee.com/zh/product/Taiwan-Cabbage/94631"
+        },
+        {
+          "product_id": "12397",
+          "slug": "Baby-Napa-Cabbage",
+          "name": "Baby Napa Cabbage 2-2.5 lb",
+          "price": "$5.99",
+          "unit_price": "$2.66/lb",
+          "health_note": "Mild, versatile cruciferous vegetable. Low calorie, good for soups and stir-fry.",
+          "name_zh": "皇帝白菜 2-2.5 磅",
+          "image_url": "https://img06.weeecdn.com/product/image/300/178/3F16BF9E91ED5F53.png",
+          "product_url": "https://www.sayweee.com/zh/product/Baby-Napa-Cabbage/12397"
+        },
+        {
+          "product_id": "95272",
+          "slug": "A-Choy-Sum",
+          "name": "A Choy Sum 2.3-2.6 lb",
+          "price": "$2.98",
+          "unit_price": "$1.21/lb",
+          "health_note": "Leafy green flowering cabbage. Rich in folate, vitamin C, and calcium.",
+          "name_zh": "莴笋 2.3-2.6 磅",
+          "image_url": "https://img06.weeecdn.com/item/image/265/905/1AAE9F5509AFD1FD.jpg",
+          "product_url": "https://www.sayweee.com/zh/product/A-Choy-Sum/95272"
+        },
+        {
+          "product_id": "52157",
+          "slug": "Chinese-Celery",
+          "name": "Chinese Celery 1.95-2.05 lb",
+          "price": "$2.99",
+          "unit_price": "$1.49/lb",
+          "health_note": "Contains phthalides which may help lower blood pressure. Very low calorie.",
+          "name_zh": "新鲜芹菜  1.95-2.05 磅",
+          "image_url": "https://img06.weeecdn.com/product/image/022/292/74EFECA1A67B4D4.png",
+          "product_url": "https://www.sayweee.com/zh/product/Chinese-Celery/52157"
+        },
+        {
+          "product_id": "99229",
+          "slug": "Snow-Pea-Tips",
+          "name": "Snow Pea Tips 1 lb",
+          "price": "$5.99",
+          "unit_price": "$5.99/lb",
+          "health_note": "Tender leafy shoots, excellent fiber and vitamin C. Very low calorie.",
+          "name_zh": "新鲜大豆苗  1 磅",
+          "image_url": "https://img06.weeecdn.com/product/image/703/458/3281876A68C81864.png",
+          "product_url": "https://www.sayweee.com/zh/product/Snow-Pea-Tips/99229"
+        },
+        {
+          "product_id": "99195",
+          "slug": "Snow-Peas",
+          "name": "Snow Peas 1 lb",
+          "price": "$3.99",
+          "unit_price": "$3.99/lb",
+          "health_note": "Legume vegetable - high fiber, plant protein, very low GI.",
+          "name_zh": "新鲜雪豆(荷兰豆)  1 磅",
+          "image_url": "https://img06.weeecdn.com/item/image/988/348/47DB4BC1E6AC8491.jpg",
+          "product_url": "https://www.sayweee.com/zh/product/Snow-Peas/99195"
+        },
+        {
+          "product_id": "96545",
+          "slug": "Long-Bok-Choy",
+          "name": "Long Bok Choy 2 lb",
+          "price": "$4.29",
+          "unit_price": "$2.14/lb",
+          "health_note": "Calcium-rich leafy green. Excellent anti-inflammatory properties.",
+          "name_zh": "长白菜苗 2 磅",
+          "image_url": "https://img06.weeecdn.com/product/image/405/582/722EDA6793DE2590.png",
+          "product_url": "https://www.sayweee.com/zh/product/Long-Bok-Choy/96545"
+        },
+        {
+          "product_id": "68297",
+          "slug": "Taiwan-Spinach",
+          "name": "Taiwan Spinach 0.95-1.05 lb",
+          "price": "$2.99",
+          "unit_price": "$2.99/lb",
+          "health_note": "High in nitrates (blood pressure), folate, iron, and vitamin K.",
+          "name_zh": "台湾菠菜 0.95-1.05 磅",
+          "image_url": "https://img06.weeecdn.com/product/image/287/883/2E42F6BC974F0CB8.png",
+          "product_url": "https://www.sayweee.com/zh/product/Taiwan-Spinach/68297"
+        },
+        {
+          "product_id": "13240",
+          "slug": "Green-Leaf-Lettuce-Bunch",
+          "name": "Green Leaf Lettuce Bunch 1 count",
+          "price": "$0.99",
+          "unit_price": null,
+          "health_note": "Very low calorie base for salads. Contains lactucarium, mild sedative.",
+          "name_zh": "长生菜 1 个",
+          "image_url": "https://img06.weeecdn.com/product/image/693/547/7240625782490C5B.png",
+          "product_url": "https://www.sayweee.com/zh/product/Green-Leaf-Lettuce-Bunch/13240"
+        },
+        {
+          "product_id": "48517",
+          "slug": "Chinese-Cauliflower",
+          "name": "Chinese Cauliflower 2.3-2.5 lb",
+          "price": "$6.99",
+          "unit_price": "$2.91/lb",
+          "health_note": "Cruciferous, excellent for liver detoxification. Rich in vitamin C.",
+          "name_zh": "台山花菜  2.3-2.5 磅",
+          "image_url": "https://img06.weeecdn.com/item/image/022/990/5036A000D9D406BA.jpg",
+          "product_url": "https://www.sayweee.com/zh/product/Chinese-Cauliflower/48517"
+        },
+        {
+          "product_id": "96100",
+          "slug": "Fuzzy-Squash",
+          "name": "Fuzzy Squash 3-3.5 lb",
+          "price": "$5.99",
+          "unit_price": "$1.84/lb",
+          "health_note": "Very low calorie, hydrating. Traditional Chinese medicine cooling food.",
+          "name_zh": "毛瓜 3-3.5 磅",
+          "image_url": "https://img06.weeecdn.com/item/image/611/144/56D7556AAD410682.jpg",
+          "product_url": "https://www.sayweee.com/zh/product/Fuzzy-Squash/96100"
+        },
+        {
+          "product_id": "96230",
+          "slug": "Opo-Squash",
+          "name": "Opo Squash 2.4-2.8 lb",
+          "price": "$3.99",
+          "unit_price": "$1.53/lb",
+          "health_note": "Extremely low calorie (15 cal/cup), hydrating. Good for weight management.",
+          "name_zh": "蒲瓜  2.4-2.8 磅",
+          "image_url": "https://img06.weeecdn.com/product/image/800/424/34F38FA5E3052A30.png",
+          "product_url": "https://www.sayweee.com/zh/product/Opo-Squash/96230"
+        },
+        {
+          "product_id": "71123",
+          "slug": "Sweet-Pepper",
+          "name": "Sweet Pepper 8 oz",
+          "price": "$3.99",
+          "unit_price": "$7.98/lb",
+          "health_note": "Very high in vitamin C and antioxidants. Supports immune function.",
+          "name_zh": "彩色小甜椒 8 盎司",
+          "image_url": "https://img06.weeecdn.com/product/image/460/096/52AFB0E7F7324907.png",
+          "product_url": "https://www.sayweee.com/zh/product/Sweet-Pepper/71123"
+        },
+        {
+          "product_id": "67149",
+          "slug": "Green-Papaya",
+          "name": "Green Papaya 1 count",
+          "price": "$2.99",
+          "unit_price": null,
+          "health_note": "Contains papain enzyme for digestion. Low GI, rich in vitamins.",
+          "name_zh": "青木瓜 1个 1 个",
+          "image_url": "https://img06.weeecdn.com/item/image/578/559/5F11A8008003EED9.jpg",
+          "product_url": "https://www.sayweee.com/zh/product/Green-Papaya/67149"
+        },
+        {
+          "product_id": "94449",
+          "slug": "Organic-Fresh-Ginger",
+          "name": "Organic Fresh Ginger 8 oz",
+          "price": "$2.99",
+          "unit_price": "$5.98/lb",
+          "health_note": "Powerful anti-inflammatory. Helps lower blood sugar and cholesterol.",
+          "name_zh": "有机生姜 8 盎司",
+          "image_url": "https://img06.weeecdn.com/product/image/007/173/38A74720C5545D37.png",
+          "product_url": "https://www.sayweee.com/zh/product/Organic-Fresh-Ginger/94449"
+        },
+        {
+          "product_id": "53542",
+          "slug": "Lemon-Grass",
+          "name": "Lemon Grass 1 lb",
+          "price": "$1.49",
+          "unit_price": "$1.49/lb",
+          "health_note": "Anti-inflammatory, antimicrobial. May help reduce cholesterol.",
+          "name_zh": "新鲜柠檬草 1 磅",
+          "image_url": "https://img06.weeecdn.com/product/image/870/252/EC9F2A69AE83E1E.png",
+          "product_url": "https://www.sayweee.com/zh/product/Lemon-Grass/53542"
+        },
+        {
+          "product_id": "97092",
+          "slug": "Black-Wood-Ear-Mushroom-Fungus",
+          "name": "Black Wood Ear Mushroom Fungus 6 oz",
+          "price": "$2.99",
+          "unit_price": "$0.49/oz",
+          "health_note": "Traditional blood health food. Contains polysaccharides that support cardiovascular health.",
+          "name_zh": "鲜黑木耳 6 盎司",
+          "image_url": "https://img06.weeecdn.com/product/image/676/557/65D0D58C72CB0F87.png",
+          "product_url": "https://www.sayweee.com/zh/product/Black-Wood-Ear-Mushroom-Fungus/97092"
+        },
+        {
+          "product_id": "100765",
+          "slug": "Hokto-Organic-White-Beech-Mushroom",
+          "name": "Hokto Organic White Beech Mushroom 100 g",
+          "price": "$3.29",
+          "unit_price": "$0.93/oz",
+          "health_note": "Organic mushroom, rich in antioxidants and beta-glucans.",
+          "name_zh": "Hokto有机白玉菇 100 克",
+          "image_url": "https://img06.weeecdn.com/product/image/945/043/165B842551080CCE.png",
+          "product_url": "https://www.sayweee.com/zh/product/Hokto-Organic-White-Beech-Mushroom/100765"
+        },
+        {
+          "product_id": "25438",
+          "slug": "Winter-Bamboo-Shoots",
+          "name": "Winter Bamboo Shoots 1-1.3 lb",
+          "price": "$8.99",
+          "unit_price": "$7.81/lb",
+          "health_note": "High in fiber, very low calorie. Contains phytosterols that block cholesterol absorption.",
+          "name_zh": "新鲜冬笋 1-2根 1-1.3 磅",
+          "image_url": "https://img06.weeecdn.com/product/image/953/891/37FAE32D7A8E58CB.png",
+          "product_url": "https://www.sayweee.com/zh/product/Winter-Bamboo-Shoots/25438"
+        },
+        {
+          "product_id": "88064",
+          "slug": "Baby-French-Carrot",
+          "name": "Baby French Carrot 1 bunch",
+          "price": "$2.29",
+          "unit_price": null,
+          "health_note": "Rich in beta-carotene, supports liver health. Moderate GI.",
+          "name_zh": "法国小萝卜 1 把",
+          "image_url": "https://img06.weeecdn.com/product/image/969/339/16F234667BB99ED9.png",
+          "product_url": "https://www.sayweee.com/zh/product/Baby-French-Carrot/88064"
+        }
+      ]
+    },
+    "fruits": {
+      "health_rationale": "Selected for lower glycemic index. Berries and citrus are particularly beneficial - high in antioxidants, vitamin C, and fiber while being lower GI. Avoid overconsuming high-sugar tropical fruits.",
+      "items": [
+        {
+          "product_id": "94835",
+          "slug": "Blueberry",
+          "name": "Blueberry 6 oz",
+          "price": "$4.99",
+          "unit_price": "$0.83/oz",
+          "health_note": "Exceptional for heart health. Anthocyanins lower LDL and blood pressure. Low GI.",
+          "name_zh": "蓝莓 6 盎司",
+          "image_url": "https://img06.weeecdn.com/product/image/580/226/BA6204FA00E173C.png",
+          "product_url": "https://www.sayweee.com/zh/product/Blueberry/94835"
+        },
+        {
+          "product_id": "97553",
+          "slug": "Blackberries",
+          "name": "Blackberries 6 oz",
+          "price": "$3.99",
+          "unit_price": "$0.66/oz",
+          "health_note": "Very low GI, extremely high in fiber and antioxidants.",
+          "name_zh": "黑莓 大号 6 盎司",
+          "image_url": "https://img06.weeecdn.com/item/image/007/264/2086A819B32AF57E.png",
+          "product_url": "https://www.sayweee.com/zh/product/Blackberries/97553"
+        },
+        {
+          "product_id": "93839",
+          "slug": "Guava",
+          "name": "Guava 2.8-3.2 lb",
+          "price": "$16.99",
+          "unit_price": "$5.66/lb",
+          "health_note": "Low GI, exceptionally high in vitamin C. May help lower blood pressure and cholesterol.",
+          "name_zh": "芭乐 番石榴 2.8-3.2 磅",
+          "image_url": "https://img06.weeecdn.com/product/image/258/255/7D0EFF14BA5D053F.jpeg",
+          "product_url": "https://www.sayweee.com/zh/product/Guava/93839"
+        },
+        {
+          "product_id": "14760",
+          "slug": "Lemon-1-Bag",
+          "name": "Lemon 1 Bag 2 lb",
+          "price": "$2.99",
+          "unit_price": "$1.49/lb",
+          "health_note": "Very low GI. Vitamin C, citric acid aids mineral absorption. Alkalizing effect.",
+          "name_zh": "黄柠檬 1袋 2 磅",
+          "image_url": "https://img06.weeecdn.com/product/image/737/605/E0FE1926F6BD2C6.png",
+          "product_url": "https://www.sayweee.com/zh/product/Lemon-1-Bag/14760"
+        },
+        {
+          "product_id": "95097",
+          "slug": "Limes",
+          "name": "Limes 5 count",
+          "price": "$2.99",
+          "unit_price": null,
+          "health_note": "Very low GI. Flavonoids support liver function.",
+          "name_zh": "青柠檬 5 个",
+          "image_url": "https://img06.weeecdn.com/item/image/332/437/69C8B0ECD8039BFB.jpg",
+          "product_url": "https://www.sayweee.com/zh/product/Limes/95097"
+        },
+        {
+          "product_id": "54673",
+          "slug": "Key-Limes",
+          "name": "Key Limes 1 lb",
+          "price": "$2.99",
+          "unit_price": "$2.99/lb",
+          "health_note": "Rich in antioxidants and vitamin C. Very low GI.",
+          "name_zh": "小青柠 1 磅",
+          "image_url": "https://img06.weeecdn.com/item/image/683/063/626C35417CFA2C5A.jpg",
+          "product_url": "https://www.sayweee.com/zh/product/Key-Limes/54673"
+        },
+        {
+          "product_id": "5869",
+          "slug": "Asian-Honey-Pears-3ct",
+          "name": "Asian Honey Pears 3ct 2.5-2.75 lb",
+          "price": "$6.99",
+          "unit_price": "$2.65/lb",
+          "health_note": "Moderate GI, good fiber. Asian pears are hydrating and aid digestion.",
+          "name_zh": "冰糖润心秋月梨 3颗装 2.5-2.75 磅",
+          "image_url": "https://img06.weeecdn.com/product/image/289/132/FA8F2DCC66603E.png",
+          "product_url": "https://www.sayweee.com/zh/product/Asian-Honey-Pears-3ct/5869"
+        },
+        {
+          "product_id": "16704",
+          "slug": "Golden-Berry-with-Husk",
+          "name": "Golden Berry with Husk 3 oz",
+          "price": "$3.99",
+          "unit_price": "$1.33/oz",
+          "health_note": "Low GI superfruit. High in withanolides (anti-inflammatory), vitamin C, and fiber.",
+          "name_zh": "带叶黄金莓 3 盎司",
+          "image_url": "https://img06.weeecdn.com/product/image/001/741/4F2FE96C00045380.png",
+          "product_url": "https://www.sayweee.com/zh/product/Golden-Berry-with-Husk/16704"
+        },
+        {
+          "product_id": "5922",
+          "slug": "Green-Dragon-Apples",
+          "name": "Green Dragon Apples 2 lb",
+          "price": "$3.99",
+          "unit_price": "$1.99/lb",
+          "health_note": "Green apples are lower GI than sweet varieties. Pectin fiber helps lower cholesterol.",
+          "name_zh": "青龙苹果 2 磅",
+          "image_url": "https://img06.weeecdn.com/product/image/234/919/14C7F6808C678700.png",
+          "product_url": "https://www.sayweee.com/zh/product/Green-Dragon-Apples/5922"
+        },
+        {
+          "product_id": "62973",
+          "slug": "Honey-Crisp-Apples",
+          "name": "Honey Crisp Apples 2.8-3.2 lb",
+          "price": "$5.99",
+          "unit_price": "$1.99/lb",
+          "health_note": "Moderate GI. Pectin fiber binds cholesterol. Good source of quercetin.",
+          "name_zh": "蜜脆苹果 中号 2.8-3.2 磅",
+          "image_url": "https://img06.weeecdn.com/product/image/657/193/247D8550678C817F.png",
+          "product_url": "https://www.sayweee.com/zh/product/Honey-Crisp-Apples/62973"
+        },
+        {
+          "product_id": "36978",
+          "slug": "Rockit-Apples",
+          "name": "Rockit Apples 3 lb",
+          "price": "$5.88",
+          "unit_price": "$1.96/lb",
+          "health_note": "Miniature apples - built-in portion control. Good fiber content.",
+          "name_zh": "乐淇 小苹果 3 磅",
+          "image_url": "https://img06.weeecdn.com/product/image/056/276/175BF0A557D9493.png",
+          "product_url": "https://www.sayweee.com/zh/product/Rockit-Apples/36978"
+        },
+        {
+          "product_id": "23716",
+          "slug": "Brown-Coconut",
+          "name": "Brown Coconut 1 count",
+          "price": "$3.49",
+          "unit_price": null,
+          "health_note": "Coconut water is low GI, rich in potassium (blood pressure). Use meat sparingly (saturated fat).",
+          "name_zh": "椰皇老椰子 1 个",
+          "image_url": "https://img06.weeecdn.com/product/image/882/512/425FA83EFC6F8EE0.png",
+          "product_url": "https://www.sayweee.com/zh/product/Brown-Coconut/23716"
+        },
+        {
+          "product_id": "29766",
+          "slug": "Ready-To-Drink-Young-Coconut",
+          "name": "Ready-To-Drink Young Coconut 1 count",
+          "price": "$2.49",
+          "unit_price": null,
+          "health_note": "Natural electrolyte drink. High potassium supports blood pressure regulation.",
+          "name_zh": "椰青 超级易开 1 个",
+          "image_url": "https://img06.weeecdn.com/product/image/845/700/3775A6FE5620EAA9.png",
+          "product_url": "https://www.sayweee.com/zh/product/Ready-To-Drink-Young-Coconut/29766"
+        },
+        {
+          "product_id": "94379",
+          "slug": "Korean-Melon",
+          "name": "Korean Melon 4-4.5 lb",
+          "price": "$7.99",
+          "unit_price": "$1.88/lb",
+          "health_note": "Low calorie, moderate GI. High water content, good for hydration.",
+          "name_zh": "韩国香瓜 4-4.5 磅",
+          "image_url": "https://img06.weeecdn.com/item/image/914/119/71DD24D5A616F43D.jpg",
+          "product_url": "https://www.sayweee.com/zh/product/Korean-Melon/94379"
+        },
+        {
+          "product_id": "18438",
+          "slug": "Red-Dragon-Fruit",
+          "name": "Red Dragon Fruit 2.7-3.3 lb",
+          "price": "$23.99",
+          "unit_price": null,
+          "health_note": "Rich in betalains (antioxidant), prebiotic fiber. Supports gut and liver health.",
+          "name_zh": "红心火龙果 2.7-3.3 磅",
+          "image_url": "https://img06.weeecdn.com/product/image/505/270/432B45779BD015DE.jpeg",
+          "product_url": "https://www.sayweee.com/zh/product/Red-Dragon-Fruit/18438"
+        },
+        {
+          "product_id": "96354",
+          "slug": "White-Dragon-Fruit--1-Box",
+          "name": "White Dragon Fruit, 1 Box 10 lb",
+          "price": "$26.88",
+          "unit_price": "$2.68/lb",
+          "health_note": "High in prebiotic fiber, vitamin C, and magnesium. Moderate GI.",
+          "name_zh": "白心火龙果，一箱 10 磅",
+          "image_url": "https://img06.weeecdn.com/product/image/599/996/41AEF4575C165856.png",
+          "product_url": "https://www.sayweee.com/zh/product/White-Dragon-Fruit--1-Box/96354"
+        },
+        {
+          "product_id": "97722",
+          "slug": "Red-Plum",
+          "name": "Red Plum 2 lb",
+          "price": "$5.99",
+          "unit_price": "$2.99/lb",
+          "health_note": "Low GI stone fruit. Rich in anthocyanins and polyphenols.",
+          "name_zh": "红李子 2 磅",
+          "image_url": "https://img06.weeecdn.com/product/image/403/548/13A3A34991459BF1.png",
+          "product_url": "https://www.sayweee.com/zh/product/Red-Plum/97722"
+        },
+        {
+          "product_id": "33367",
+          "slug": "Kumquat",
+          "name": "Kumquat 8 oz",
+          "price": "$6.99",
+          "unit_price": "$13.98/lb",
+          "health_note": "Eat whole with peel - very high in fiber and flavonoids. Low GI.",
+          "name_zh": "金桔 8 盎司",
+          "image_url": "https://img06.weeecdn.com/product/image/909/295/24A9A7128F2FF0CF.png",
+          "product_url": "https://www.sayweee.com/zh/product/Kumquat/33367"
+        },
+        {
+          "product_id": "45721",
+          "slug": "Pepino-Melon",
+          "name": "Pepino Melon 1 count",
+          "price": "$2.99",
+          "unit_price": null,
+          "health_note": "Very low calorie, low GI. Good source of vitamin C.",
+          "name_zh": "厄瓜多尔 人参果 1 个",
+          "image_url": "https://img06.weeecdn.com/product/image/404/330/632B9054D40AC8BF.png",
+          "product_url": "https://www.sayweee.com/zh/product/Pepino-Melon/45721"
+        }
+      ]
+    },
+    "tofu_and_vegan": {
+      "health_rationale": "Soy protein actively lowers LDL cholesterol (FDA approved health claim: 25g soy protein/day). Tofu is low in saturated fat, zero cholesterol, and excellent for fatty liver. Shirataki/konjac noodles are essentially zero calorie.",
+      "items": [
+        {
+          "product_id": "9819",
+          "slug": "Sansui-Silken-Tofu",
+          "name": "Sansui Silken Tofu 454 g",
+          "price": "$1.99",
+          "unit_price": "$0.12/oz",
+          "health_note": "Silken tofu - versatile for soups, smoothies, desserts. Complete soy protein.",
+          "name_zh": "山水 嫩豆腐 454 克",
+          "image_url": "https://img06.weeecdn.com/product/image/684/188/188D06C8D5C22BD6.png",
+          "product_url": "https://www.sayweee.com/zh/product/Sansui-Silken-Tofu/9819"
+        },
+        {
+          "product_id": "37890",
+          "slug": "Ichiban-Tofu-Medium-Firm",
+          "name": "Ichiban Tofu Medium Firm 14 oz",
+          "price": "$1.99",
+          "unit_price": "$0.14/oz",
+          "health_note": "Good for stir-fry. Soy isoflavones support cardiovascular health.",
+          "name_zh": "一级棒 中等硬度豆腐  14 盎司",
+          "image_url": "https://img06.weeecdn.com/product/image/769/945/2715F5DA0FF71F60.png",
+          "product_url": "https://www.sayweee.com/zh/product/Ichiban-Tofu-Medium-Firm/37890"
+        },
+        {
+          "product_id": "37897",
+          "slug": "Ichiban-Tofu-Soft",
+          "name": "Ichiban Tofu Soft 14 oz",
+          "price": "$1.99",
+          "unit_price": "$0.14/oz",
+          "health_note": "Soft tofu for soups and steaming. Low calorie, high protein.",
+          "name_zh": "一级棒 嫩豆腐 14 盎司",
+          "image_url": "https://img06.weeecdn.com/product/image/234/322/324587CA8410F8F6.png",
+          "product_url": "https://www.sayweee.com/zh/product/Ichiban-Tofu-Soft/37897"
+        },
+        {
+          "product_id": "45433",
+          "slug": "Nature-s-Soy-Soft-Tofu",
+          "name": "Nature's Soy Soft Tofu 16 oz",
+          "price": "$2.29",
+          "unit_price": "$0.14/oz",
+          "health_note": "Quality soft tofu. Soy protein lowers LDL by 3-5%.",
+          "name_zh": "大田 滑豆腐 16 盎司",
+          "image_url": "https://img06.weeecdn.com/product/image/979/647/6D3DBAA3336A43B1.png",
+          "product_url": "https://www.sayweee.com/zh/product/Nature-s-Soy-Soft-Tofu/45433"
+        },
+        {
+          "product_id": "106674",
+          "slug": "Havista-Shirataki-Noodles",
+          "name": "Havista Shirataki Noodles 500 g",
+          "price": "$3.09",
+          "unit_price": "$0.17/oz",
+          "health_note": "Zero calorie, zero GI. Glucomannan fiber lowers cholesterol and supports weight loss. Excellent pasta substitute.",
+          "name_zh": "五谷丰 爽脆素爆肚 素毛肚 500 克",
+          "image_url": "https://img06.weeecdn.com/product/image/522/198/4ED87291DCDC3714.png",
+          "product_url": "https://www.sayweee.com/zh/product/Havista-Shirataki-Noodles/106674"
+        },
+        {
+          "product_id": "22176",
+          "slug": "Zuming-Dried-Bean-Cake",
+          "name": "Zuming Dried Bean Cake 500 g",
+          "price": "$6.99",
+          "unit_price": "$0.39/oz",
+          "health_note": "Concentrated soy protein. Great stir-fry ingredient.",
+          "name_zh": "祖名 多味干 多味豆腐干 500 克",
+          "image_url": "https://img06.weeecdn.com/product/image/894/519/6D8EF61E8E741A88.png",
+          "product_url": "https://www.sayweee.com/zh/product/Zuming-Dried-Bean-Cake/22176"
+        },
+        {
+          "product_id": "22175",
+          "slug": "Zuming-Soft-Beancurd-Snack",
+          "name": "Zuming Soft Beancurd Snack 500 g",
+          "price": "$4.69",
+          "unit_price": "$0.26/oz",
+          "health_note": "Soy-based snack. Good source of plant protein and calcium.",
+          "name_zh": "祖名 软香玉豆腐干 500 克",
+          "image_url": "https://img06.weeecdn.com/product/image/341/434/36F1C96D89416F15.png",
+          "product_url": "https://www.sayweee.com/zh/product/Zuming-Soft-Beancurd-Snack/22175"
+        },
+        {
+          "product_id": "49005",
+          "slug": "Watson-Dried-Tofu-Sheets",
+          "name": "Watson Dried Tofu Sheets 250 g",
+          "price": "$3.59",
+          "unit_price": "$0.40/oz",
+          "health_note": "Versatile soy product for wraps and stir-fry. High protein.",
+          "name_zh": "Watson 锦州 干豆腐皮 250 克",
+          "image_url": "https://img06.weeecdn.com/product/image/623/213/193C99B6211A1189.png",
+          "product_url": "https://www.sayweee.com/zh/product/Watson-Dried-Tofu-Sheets/49005"
+        },
+        {
+          "product_id": "105735",
+          "slug": "Feitian-Potato-Noodle--Round",
+          "name": "Feitian Potato Noodle (Round) 280 g",
+          "price": "$2.79",
+          "unit_price": "$0.28/oz",
+          "health_note": "Potato starch noodle - gluten-free alternative for hot pot.",
+          "name_zh": "飞天 鲜土豆粉 粉条 280 克",
+          "image_url": "https://img06.weeecdn.com/product/image/968/827/3FEB664EAD30DAAD.png",
+          "product_url": "https://www.sayweee.com/zh/product/Feitian-Potato-Noodle--Round/105735"
+        },
+        {
+          "product_id": "105886",
+          "slug": "Nature-s-Soy-Mapo-Tofu--Mild",
+          "name": "Nature's Soy Mapo Tofu (Mild) 16.8 oz",
+          "price": "$4.79",
+          "unit_price": "$0.28/oz",
+          "health_note": "Ready-to-eat tofu dish. Check sodium on label - convenient protein source.",
+          "name_zh": "大田 麻婆豆腐 (微辣) 16.8 盎司",
+          "image_url": "https://img06.weeecdn.com/product/image/121/616/405E68672B28BF87.png",
+          "product_url": "https://www.sayweee.com/zh/product/Nature-s-Soy-Mapo-Tofu--Mild/105886"
+        },
+        {
+          "product_id": "81813",
+          "slug": "Mandarin-Soyfoods-Japanese-Egg-Tofu",
+          "name": "Mandarin Soyfoods Japanese Egg Tofu 245 g",
+          "price": "$3.29",
+          "unit_price": "$0.38/oz",
+          "health_note": "Silky smooth tofu, good for steaming. Low calorie.",
+          "name_zh": "中华 玉子豆腐 日式豆腐 245 克",
+          "image_url": "https://img06.weeecdn.com/product/image/142/795/6ABC1F1053DA2853.png",
+          "product_url": "https://www.sayweee.com/zh/product/Mandarin-Soyfoods-Japanese-Egg-Tofu/81813"
+        }
+      ]
+    },
+    "seafood": {
+      "health_rationale": "Omega-3 fatty acids in fish actively lower triglycerides and inflammation. Fish is the primary dietary source of EPA/DHA. Lean white fish is extremely low in saturated fat. Aim for 2+ servings per week.",
+      "items": [
+        {
+          "product_id": "97711",
+          "slug": "Swai-Fillets-Frozen-1",
+          "name": "Swai Fillets, Frozen 2 lb",
+          "price": "$7.99",
+          "unit_price": "$0.24/oz",
+          "health_note": "Very lean white fish. Extremely low saturated fat, good protein source.",
+          "name_zh": "巴沙鱼片 冷冻 2 磅",
+          "image_url": "https://img06.weeecdn.com/product/image/846/197/377147C30D895AC2.png",
+          "product_url": "https://www.sayweee.com/zh/product/Swai-Fillets-Frozen-1/97711"
+        },
+        {
+          "product_id": "83266",
+          "slug": "TSF-Barramundi-Whole-Cleaned",
+          "name": "TSF Barramundi Whole Cleaned 500-550 g",
+          "price": "$7.99",
+          "unit_price": "$6.88/lb",
+          "health_note": "Lean white fish with mild flavor. Good source of omega-3 and protein.",
+          "name_zh": "金目鲈魚三清(去内脏，鳞，鳃） 500-550 克",
+          "image_url": "https://img06.weeecdn.com/product/image/240/231/179154C79E5B5685.jpeg",
+          "product_url": "https://www.sayweee.com/zh/product/TSF-Barramundi-Whole-Cleaned/83266"
+        },
+        {
+          "product_id": "2551",
+          "slug": "Yellowfin-Tuna-Sashimi-Frozen-1",
+          "name": "Yellowfin Tuna Sashimi, Frozen 9-12 oz",
+          "price": "$13.99",
+          "unit_price": "$1.33/oz",
+          "health_note": "Rich in omega-3 fatty acids and selenium. Very lean protein. Limit to 2x/week (mercury).",
+          "name_zh": "黄鳍金枪鱼刺身 冷冻 9-12 盎司",
+          "image_url": "https://img06.weeecdn.com/product/image/951/415/2A14CEA9699A86EF.png",
+          "product_url": "https://www.sayweee.com/zh/product/Yellowfin-Tuna-Sashimi-Frozen-1/2551"
+        },
+        {
+          "product_id": "5883",
+          "slug": "New-Zealand-Half-Shell-Greenshell-Mussels",
+          "name": "New Zealand Half Shell Greenshell Mussels 2 lb",
+          "price": "$14.99",
+          "unit_price": "$0.46/oz",
+          "health_note": "Exceptionally rich in omega-3, zinc, selenium, and B12. Anti-inflammatory.",
+          "name_zh": "新西兰大半壳青口贝 冷冻 2 磅",
+          "image_url": "https://img06.weeecdn.com/product/image/240/178/6D3C0F1E45802751.png",
+          "product_url": "https://www.sayweee.com/zh/product/New-Zealand-Half-Shell-Greenshell-Mussels/5883"
+        },
+        {
+          "product_id": "79524",
+          "slug": "New-Port-Whole-Cooked-Steamer-Clams-Frozen-1",
+          "name": "New Port Whole Cooked Steamer Clams, Frozen 1 lb",
+          "price": "$3.99",
+          "unit_price": "$0.24/oz",
+          "health_note": "Excellent source of iron, B12, and omega-3. Very low in saturated fat.",
+          "name_zh": "New Port 大蛤蜊 真空装 Size 20/30 冷冻 1 磅",
+          "image_url": "https://img06.weeecdn.com/product/image/129/459/33EA1C2FE0AA52F1.png",
+          "product_url": "https://www.sayweee.com/zh/product/New-Port-Whole-Cooked-Steamer-Clams-Frozen-1/79524"
+        },
+        {
+          "product_id": "5884",
+          "slug": "Clearwater-Arctic-Surf-Clams--Frozen-1",
+          "name": "Clearwater Arctic Surf Clams, Frozen 400 g",
+          "price": "$7.98",
+          "unit_price": "$0.56/oz",
+          "health_note": "High-quality protein, rich in iron and B12. Low fat.",
+          "name_zh": "Clearwater 野生捕获北极贝 冷冻 400 克",
+          "image_url": "https://img06.weeecdn.com/item/image/394/879/15EE0521CB9A75F5.jpg",
+          "product_url": "https://www.sayweee.com/zh/product/Clearwater-Arctic-Surf-Clams--Frozen-1/5884"
+        },
+        {
+          "product_id": "15684",
+          "slug": "Wild-Argentine-Red-Shrimp--Peeled-and-Deveined-16-30ct--Frozen-1",
+          "name": "Wild Argentine Red Shrimp, Peeled and Deveined 16-30ct, Frozen 1 lb",
+          "price": "$11.99",
+          "unit_price": "$11.99/lb",
+          "health_note": "Wild-caught, lean protein. Rich in astaxanthin antioxidant. Low in saturated fat.",
+          "name_zh": "生阿根廷红虾 去尾虾仁 (16-30ct) 冷冻 1 磅",
+          "image_url": "https://img06.weeecdn.com/product/image/424/704/3977A8086E3C2D53.png",
+          "product_url": "https://www.sayweee.com/zh/product/Wild-Argentine-Red-Shrimp--Peeled-and-Deveined-16-30ct--Frozen-1/15684"
+        },
+        {
+          "product_id": "106240",
+          "slug": "Chaimi-Light-Salted-Chilean-Coho-Salmon-Slices-Frozen-1",
+          "name": "Chaimi Light Salted Chilean Coho Salmon Slices, Frozen 1 lb",
+          "price": "$12.99",
+          "unit_price": "$0.81/oz",
+          "health_note": "Salmon is the gold standard for omega-3. Note: lightly salted - rinse before cooking if hypertensive.",
+          "name_zh": "柴米 盐渍斜切智利银鲑 1 磅",
+          "image_url": "https://img06.weeecdn.com/product/image/151/511/6795542047696952.png",
+          "product_url": "https://www.sayweee.com/zh/product/Chaimi-Light-Salted-Chilean-Coho-Salmon-Slices-Frozen-1/106240"
+        },
+        {
+          "product_id": "102916",
+          "slug": "Xiangtai-Whole-Tilapia-Gilled--Gutted--Scaled--Frozen-1",
+          "name": "Whole Tilapia Gilled, Gutted, Scaled, Frozen 2 lb",
+          "price": "$6.99",
+          "unit_price": "$3.49/lb",
+          "health_note": "Very lean white fish. Affordable protein source, very low saturated fat.",
+          "name_zh": "三去整条罗非鱼 2条装 冷冻 2 磅",
+          "image_url": "https://img06.weeecdn.com/product/image/816/532/1A16FB0DCCE3F720.png",
+          "product_url": "https://www.sayweee.com/zh/product/Xiangtai-Whole-Tilapia-Gilled--Gutted--Scaled--Frozen-1/102916"
+        },
+        {
+          "product_id": "51248",
+          "slug": "Evergreen-Food-Snakehead-Fish-Slices-Frozen-1",
+          "name": "Evergreen Food Snakehead Fish Slices Frozen 250 g",
+          "price": "$5.49",
+          "unit_price": "$0.62/oz",
+          "health_note": "Lean freshwater fish. Traditional healing food in Chinese medicine - supports liver recovery.",
+          "name_zh": "恒兴食品 灯影鱼片 黑鱼 冷冻 250 克",
+          "image_url": "https://img06.weeecdn.com/product/image/371/666/5C5EDAB3C2584254.png",
+          "product_url": "https://www.sayweee.com/zh/product/Evergreen-Food-Snakehead-Fish-Slices-Frozen-1/51248"
+        },
+        {
+          "product_id": "91612",
+          "slug": "Talassa-Wild-Caught-Whole-Round-Silver-Pomfret-4-5pcs-Frozen-1",
+          "name": "Talassa Wild Caught Whole Round Silver Pomfret 4-5pcs, Frozen 500 g",
+          "price": "$5.99",
+          "unit_price": "$5.44/lb",
+          "health_note": "Wild-caught lean fish. Good source of protein with moderate omega-3.",
+          "name_zh": "Talassa  野生整条银鲳鱼 4-5条 冷冻 500 克",
+          "image_url": "https://img06.weeecdn.com/product/image/537/245/24C89A400F3D5EEB.png",
+          "product_url": "https://www.sayweee.com/zh/product/Talassa-Wild-Caught-Whole-Round-Silver-Pomfret-4-5pcs-Frozen-1/91612"
+        },
+        {
+          "product_id": "10235",
+          "slug": "Skinless-Tilapia-Fillet--Individually-Vacuum-Packed--Frozen-1",
+          "name": "Skinless Tilapia Fillet, Individually Vacuum Packed, Frozen 2 lb",
+          "price": "$9.29",
+          "unit_price": "$0.29/oz",
+          "health_note": "Convenient individually packed fillets. Very lean, low calorie protein.",
+          "name_zh": "香甜红葡萄 1袋 1.9-2.1 磅",
+          "image_url": "https://img06.weeecdn.com/product/image/146/125/3FC9EFC386A8980D.png",
+          "product_url": "https://www.sayweee.com/zh/product/Skinless-Tilapia-Fillet--Individually-Vacuum-Packed--Frozen-1/10235"
+        }
+      ]
+    },
+    "meat_lean_options": {
+      "health_rationale": "Meat should be consumed in moderation for these conditions. Only the leanest cuts are included. Skinless poultry and pork tenderloin are the best options. Avoid processed meats, sausages, and high-fat cuts entirely.",
+      "items": [
+        {
+          "product_id": "37447",
+          "slug": "Boneless---Skinless-Chicken-Thighs-Frozen-1",
+          "name": "Boneless & Skinless Chicken Thighs Frozen 1.5 lb",
+          "price": "$5.99",
+          "unit_price": "$3.99/lb",
+          "health_note": "Skinless chicken is lean protein. Thighs have slightly more fat than breast but more flavor and iron.",
+          "name_zh": "无骨去皮鸡腿肉 冷冻 1.5 磅",
+          "image_url": "https://img06.weeecdn.com/product/image/208/525/802D4813AE6390A.png",
+          "product_url": "https://www.sayweee.com/zh/product/Boneless---Skinless-Chicken-Thighs-Frozen-1/37447"
+        },
+        {
+          "product_id": "9329",
+          "slug": "Pork-Tenderloin--Frozen-1",
+          "name": "Pork Tenderloin, Frozen 2-2.5 lb",
+          "price": "$9.29",
+          "unit_price": "$4.12/lb",
+          "health_note": "Leanest cut of pork - comparable to chicken breast in fat content. Excellent protein.",
+          "name_zh": "肉末茄子 1 份",
+          "image_url": "https://img06.weeecdn.com/item/image/677/743/7B623814986D33A7.jpg",
+          "product_url": "https://www.sayweee.com/zh/product/Pork-Tenderloin--Frozen-1/9329"
+        },
+        {
+          "product_id": "5549",
+          "slug": "The-Original-B-B-Stewing-Hen--Frozen-1",
+          "name": "The Original B&B Stewing Hen, Frozen 1.5-2.5 lb",
+          "price": "$5.49",
+          "unit_price": "$2.74/lb",
+          "health_note": "For making bone broth - rich in collagen and minerals. Remove skin and fat before eating.",
+          "name_zh": "茴香水饺 12个 1 份",
+          "image_url": "https://img06.weeecdn.com/item/image/542/423/2F3FB7BB232BD8F9.jpg",
+          "product_url": "https://www.sayweee.com/zh/product/The-Original-B-B-Stewing-Hen--Frozen-1/5549"
+        }
+      ]
+    },
+    "frozen_healthy_picks": {
+      "health_rationale": "Most frozen items are processed and high in sodium. These selections focus on frozen vegetables, simple preparations, and items with minimal processing.",
+      "items": [
+        {
+          "product_id": "27483",
+          "slug": "Spring-Home-Spring-Roll-Wrappers-8--25pc--Frozen-1",
+          "name": "Spring Home Spring Roll Wrappers 8\" 25pc, Frozen 340 g",
+          "price": "$2.29",
+          "unit_price": "$0.19/oz",
+          "health_note": "Use for fresh (not fried) spring rolls packed with vegetables. Very low calorie wrapper.",
+          "name_zh": "第一家  新加坡 春卷皮 25片装 冷冻 340 克",
+          "image_url": "https://img06.weeecdn.com/product/image/546/321/9C58C61F20EE15C.png",
+          "product_url": "https://www.sayweee.com/zh/product/Spring-Home-Spring-Roll-Wrappers-8--25pc--Frozen-1/27483"
+        },
+        {
+          "product_id": "96920",
+          "slug": "Wei-Chuan-Flat-Beans--Frozen-1",
+          "name": "Wei-Chuan Flat Beans, Frozen 1 lb",
+          "price": "$3.29",
+          "unit_price": "$0.20/oz",
+          "health_note": "Frozen vegetables retain nutrients. Convenient fiber and vitamin source.",
+          "name_zh": "有机杏鲍菇 300 克",
+          "image_url": "https://img06.weeecdn.com/product/image/298/557/B0CC060ACAB3702.png",
+          "product_url": "https://www.sayweee.com/zh/product/Wei-Chuan-Flat-Beans--Frozen-1/96920"
+        },
+        {
+          "product_id": "85929",
+          "slug": "October-Wing-Green-Broad-Bean-Skinless--Frozen-1",
+          "name": "October Wing Green Broad Bean Skinless, Frozen 454 g",
+          "price": "$4.79",
+          "unit_price": "$0.29/oz",
+          "health_note": "Broad beans are excellent - high fiber, plant protein, folate. Great for cholesterol.",
+          "name_zh": "红油耳片 1 份",
+          "image_url": "https://img06.weeecdn.com/item/image/683/714/2CBC0A86076D29BD.jpg",
+          "product_url": "https://www.sayweee.com/zh/product/October-Wing-Green-Broad-Bean-Skinless--Frozen-1/85929"
+        },
+        {
+          "product_id": "79544",
+          "slug": "Dianfa-Chiba-Tofu-Frozen-1",
+          "name": "Dianfa Chiba Tofu Frozen 400 g",
+          "price": "$2.98",
+          "unit_price": "$0.21/oz",
+          "health_note": "Frozen tofu with a firmer texture. Good plant protein option for hot pot.",
+          "name_zh": "典发 千页豆腐 冷冻 400 克",
+          "image_url": "https://img06.weeecdn.com/product/image/054/516/5BA6F6EA8FC44DBF.png",
+          "product_url": "https://www.sayweee.com/zh/product/Dianfa-Chiba-Tofu-Frozen-1/79544"
+        }
+      ]
+    },
+    "dry_goods": {
+      "health_rationale": "Whole grains, beans, and legumes are foundational for heart health. Soluble fiber in oats and barley directly lowers LDL. Beans provide plant protein that replaces animal protein. Dried mushrooms retain their cholesterol-lowering beta-glucans.",
+      "items": [
+        {
+          "product_id": "60782",
+          "slug": "Chimes-Garden-Organic-Pearl-Barley",
+          "name": "Chimes Garden Organic Pearl Barley 16 oz",
+          "price": "$4.29",
+          "unit_price": "$0.26/oz",
+          "health_note": "Barley has the highest beta-glucan content - directly proven to lower LDL cholesterol. Low GI.",
+          "name_zh": "随园 有机栽种薏仁 精制大麦 16 盎司",
+          "image_url": "https://img06.weeecdn.com/item/image/209/244/459AFE083D62F2C6.jpg",
+          "product_url": "https://www.sayweee.com/zh/product/Chimes-Garden-Organic-Pearl-Barley/60782"
+        },
+        {
+          "product_id": "60726",
+          "slug": "Chimes-Garden-Organic-Soybeans",
+          "name": "Chimes Garden Organic Soybeans 16 oz",
+          "price": "$4.29",
+          "unit_price": "$0.26/oz",
+          "health_note": "Whole soybeans - cook for edamame or soups. 25g soy protein/day lowers LDL (FDA claim).",
+          "name_zh": "随园 有机栽种黄豆 16 盎司",
+          "image_url": "https://img06.weeecdn.com/product/image/869/170/741D76A1CB76867B.png",
+          "product_url": "https://www.sayweee.com/zh/product/Chimes-Garden-Organic-Soybeans/60726"
+        },
+        {
+          "product_id": "5549b",
+          "slug": "Chimes-Garden-Organic-Mung-Beans",
+          "name": "Chimes Garden Organic Mung Beans 16 oz",
+          "price": "$5.99",
+          "unit_price": "$0.37/oz",
+          "health_note": "Low GI, high in potassium (blood pressure), folate, and fiber. Traditional cooling food.",
+          "name_zh": "随园 有机栽种绿豆 16 盎司",
+          "image_url": "https://img06.weeecdn.com/item/image/066/048/5596AE17D314E0BD.jpg",
+          "product_url": "https://www.sayweee.com/zh/product/Chimes-Garden-Organic-Mung-Beans/60668"
+        },
+        {
+          "product_id": "65828",
+          "slug": "GongHe-NingXia-Goji-Berry",
+          "name": "GongHe NingXia Goji Berry 227 g",
+          "price": "$6.79",
+          "unit_price": "$0.84/oz",
+          "health_note": "Antioxidant superfood. Contains betaine which supports liver function and fat metabolism.",
+          "name_zh": "功合农产 臻选宁夏枸杞 227 克",
+          "image_url": "https://img06.weeecdn.com/product/image/355/942/589D8EAB89236073.png",
+          "product_url": "https://www.sayweee.com/zh/product/GongHe-NingXia-Goji-Berry/65828"
+        },
+        {
+          "product_id": "75262",
+          "slug": "Dried-Lion-s-Mane",
+          "name": "Dried Lion's Mane 6 oz",
+          "price": "$9.49",
+          "unit_price": "$1.58/oz",
+          "health_note": "Medicinal mushroom - studies show it may reduce blood lipids and support liver health.",
+          "name_zh": "黄府山珍 上等猴头菇  6 盎司",
+          "image_url": "https://img06.weeecdn.com/item/image/600/628/481429477F4DA490.jpg",
+          "product_url": "https://www.sayweee.com/zh/product/Dried-Lion-s-Mane/75262"
+        },
+        {
+          "product_id": "86084",
+          "slug": "Longkou-Vermicelli--Bean-Thread",
+          "name": "Longkou Vermicelli (Bean Thread) 272 g",
+          "price": "$2.79",
+          "unit_price": "$0.29/oz",
+          "health_note": "Made from mung beans - lower GI than wheat noodles. Good fiber content.",
+          "name_zh": "龙口粉丝 272 克",
+          "image_url": "https://img06.weeecdn.com/product/image/602/685/2BFC7D422F44ECD6.png",
+          "product_url": "https://www.sayweee.com/zh/product/Longkou-Vermicelli--Bean-Thread/86084"
+        },
+        {
+          "product_id": "65830",
+          "slug": "Pure-Mung-Bean-Thread-Noodles",
+          "name": "Pure Mung Bean Thread Noodles 180 g",
+          "price": "$9.29",
+          "unit_price": "$1.46/oz",
+          "health_note": "Pure mung bean starch - low GI noodle alternative.",
+          "name_zh": "中农宝鼎 100％纯绿豆粉丝 180 克",
+          "image_url": "https://img06.weeecdn.com/product/image/007/979/3BB846A4E2B1530C.png",
+          "product_url": "https://www.sayweee.com/zh/product/Pure-Mung-Bean-Thread-Noodles/65830"
+        },
+        {
+          "product_id": "87333",
+          "slug": "Kokuho-Calrose-Rice-Yellow-California-Premium",
+          "name": "Kokuho Calrose Rice California Premium 15 lb",
+          "price": "$13.99",
+          "unit_price": "$0.93/lb",
+          "health_note": "Staple rice. Moderate GI - pair with vegetables and protein to lower glycemic impact.",
+          "name_zh": "国宝米 黄国宝米 15 磅",
+          "image_url": "https://img06.weeecdn.com/product/image/936/657/6F3D26270D3A49C4.png",
+          "product_url": "https://www.sayweee.com/zh/product/Kokuho-Calrose-Rice-Yellow-California-Premium/87333"
+        },
+        {
+          "product_id": "55490",
+          "slug": "Big-Green-Organic-Black-Beans",
+          "name": "Big Green Organic Black Beans 16 oz",
+          "price": "$5.49",
+          "unit_price": "$0.34/oz",
+          "health_note": "Black beans are exceptionally heart-healthy. High in anthocyanins, fiber, and plant protein.",
+          "name_zh": "滑蛋牛肉饭 1 份",
+          "image_url": "https://img06.weeecdn.com/item/image/732/769/65F511C3422C3108.png",
+          "product_url": "https://www.sayweee.com/zh/product/Big-Green-Organic-Black-Beans/55490"
+        },
+        {
+          "product_id": "42900",
+          "slug": "Big-Green-Spring-Farm-Organic-Millet",
+          "name": "Big Green Spring Farm Organic Millet 14 oz",
+          "price": "$4.29",
+          "unit_price": "$0.30/oz",
+          "health_note": "Whole grain - higher in protein and fiber than white rice. Lower GI than rice.",
+          "name_zh": "Golden Koi's 腌山陀儿罐头 4 磅",
+          "image_url": "https://img06.weeecdn.com/item/image/754/909/3D9E6E3FF532D983.jpg",
+          "product_url": "https://www.sayweee.com/zh/product/Big-Green-Spring-Farm-Organic-Millet/42900"
+        },
+        {
+          "product_id": "52900",
+          "slug": "Organic-Barley-Kernels",
+          "name": "Organic Barley Kernels 12 oz",
+          "price": "$5.29",
+          "unit_price": "$0.44/oz",
+          "health_note": "Whole barley - highest beta-glucan content of any grain. Proven to lower LDL.",
+          "name_zh": "避风塘炒虾 1 份",
+          "image_url": "https://img06.weeecdn.com/item/image/052/853/22A760E9AAE5F5C7.jpg",
+          "product_url": "https://www.sayweee.com/zh/product/Organic-Barley-Kernels/52900"
+        },
+        {
+          "product_id": "28200",
+          "slug": "Hunsty-Red-Beans",
+          "name": "Hunsty Red Beans 12 oz",
+          "price": "$2.79",
+          "unit_price": "$0.23/oz",
+          "health_note": "Adzuki beans - high in potassium (blood pressure), fiber, and plant protein. Traditional kidney/liver tonic.",
+          "name_zh": "蜀香烤鱼 1 份",
+          "image_url": "https://img06.weeecdn.com/item/image/270/711/4A55F1286A5100CE.jpg",
+          "product_url": "https://www.sayweee.com/zh/product/Hunsty-Red-Beans/28200"
+        },
+        {
+          "product_id": "67573",
+          "slug": "Si-Hong-Food-Pitted-Dates--Dried",
+          "name": "Si Hong Food Pitted Dates, Dried 1000 g",
+          "price": "$13.79",
+          "unit_price": "$0.39/oz",
+          "health_note": "In moderation - rich in potassium, magnesium, and iron. Traditional blood-building food. Higher GI.",
+          "name_zh": "思宏 去核灰枣 1000 克",
+          "image_url": "https://img06.weeecdn.com/item/image/259/168/72F904A1E69F0546.jpg",
+          "product_url": "https://www.sayweee.com/zh/product/Si-Hong-Food-Pitted-Dates--Dried/67573"
+        },
+        {
+          "product_id": "44900",
+          "slug": "Dried-Monk-Fruit-Luo-Han-Guo",
+          "name": "Dried Monk Fruit Luo Han Guo 2 count",
+          "price": "$4.49",
+          "unit_price": null,
+          "health_note": "Zero-calorie natural sweetener. Zero GI impact. Excellent sugar substitute.",
+          "name_zh": "真味 阳春面 冷冻 340 克",
+          "image_url": "https://img06.weeecdn.com/item/image/183/507/FF752B26F215D73.jpg",
+          "product_url": "https://www.sayweee.com/zh/product/Dried-Monk-Fruit-Luo-Han-Guo/44900"
+        },
+        {
+          "product_id": "18099",
+          "slug": "Sailing-Zhangzhou-Dried-Snow-White-Fungus",
+          "name": "Sailing Zhangzhou Dried Snow White Fungus 12 oz",
+          "price": "$18.99",
+          "unit_price": "$1.58/oz",
+          "health_note": "Traditional longevity food. Polysaccharides support immune function and skin health. Low calorie.",
+          "name_zh": "芭乐绿茶 (正常糖正常冰) 500cc 1 份",
+          "image_url": "https://img06.weeecdn.com/item/image/440/987/22B432F894A7FD3A.jpg",
+          "product_url": "https://www.sayweee.com/zh/product/Sailing-Zhangzhou-Dried-Snow-White-Fungus/18099"
+        },
+        {
+          "product_id": "65145",
+          "slug": "Shuang-Li-Dried-Skin-Peanuts",
+          "name": "Shuang Li Dried Skin Peanuts 12 oz",
+          "price": "$1.99",
+          "unit_price": "$0.16/oz",
+          "health_note": "Peanuts are rich in monounsaturated fat (heart-healthy). Good plant protein. Eat in moderation.",
+          "name_zh": "双鲤牌 特级有衣花生  12 盎司",
+          "image_url": "https://img06.weeecdn.com/product/image/998/902/405376F57830D740.png",
+          "product_url": "https://www.sayweee.com/zh/product/Shuang-Li-Dried-Skin-Peanuts/65145"
+        }
+      ]
+    },
+    "instant_and_prepackaged": {
+      "health_rationale": "Most instant foods are very high in sodium - a major concern for hypertension. These picks are the healthiest options found in the category. Always check sodium content on labels.",
+      "items": [
+        {
+          "product_id": "10817",
+          "slug": "Yuanxian-Konjac-Jelly-Noodle",
+          "name": "Yuanxian Konjac Jelly Noodle 268 g",
+          "price": "$2.49",
+          "unit_price": "$0.26/oz",
+          "health_note": "Konjac/glucomannan noodle - essentially zero calorie, zero GI. Excellent for weight management.",
+          "name_zh": "袁鲜 酸辣粉 268 克",
+          "image_url": "https://img06.weeecdn.com/product/image/883/477/44602B2A51E12C69.png",
+          "product_url": "https://www.sayweee.com/zh/product/Yuanxian-Konjac-Jelly-Noodle/10817"
+        },
+        {
+          "product_id": "87480",
+          "slug": "YINLU-Longan-and-Lotus-Seed-Congee",
+          "name": "YINLU Longan and Lotus Seed Congee 360 g",
+          "price": "$2.29",
+          "unit_price": "$0.18/oz",
+          "health_note": "Traditional congee - easy to digest. Longan and lotus seed are traditional nourishing ingredients.",
+          "name_zh": "银鹭 桂圆莲子八宝粥 360 克",
+          "image_url": "https://img06.weeecdn.com/product/image/236/119/12CC3AEC6D9FDE9F.png",
+          "product_url": "https://www.sayweee.com/zh/product/YINLU-Longan-and-Lotus-Seed-Congee/87480"
+        },
+        {
+          "product_id": "87300",
+          "slug": "DaliGroup-Black-Rice-Purple-Potato-Mixed-Congee",
+          "name": "DaliGroup Black Rice Purple Potato Mixed Congee 360 g",
+          "price": "$1.99",
+          "unit_price": "$0.15/oz",
+          "health_note": "Black rice is rich in anthocyanins (antioxidant). Purple potato has lower GI than regular potato.",
+          "name_zh": "Mtt 甜瓜奇亚籽药草茶 10.5 盎司",
+          "image_url": "https://img06.weeecdn.com/item/image/144/058/6F8D7301C48E3F9B.jpg",
+          "product_url": "https://www.sayweee.com/zh/product/DaliGroup-Black-Rice-Purple-Potato-Mixed-Congee/87300"
+        },
+        {
+          "product_id": "88159",
+          "slug": "Subo-Seaweed-Egg-Soup",
+          "name": "Subo Seaweed Egg Soup 32 g",
+          "price": "$3.49",
+          "unit_price": "$3.08/oz",
+          "health_note": "Seaweed is rich in iodine and minerals. Lower sodium than most instant soups.",
+          "name_zh": "苏伯 紫菜蛋花汤(8g*4) 32 克",
+          "image_url": "https://img06.weeecdn.com/item/image/730/602/6416739033B0489D.jpg",
+          "product_url": "https://www.sayweee.com/zh/product/Subo-Seaweed-Egg-Soup/88159"
+        },
+        {
+          "product_id": "62900",
+          "slug": "Xiangyuan-Roasted-Black-Sesame-Powder",
+          "name": "Xiangyuan Roasted Black Sesame Powder 250 g",
+          "price": "$6.29",
+          "unit_price": "$0.71/oz",
+          "health_note": "Black sesame is rich in calcium, iron, and healthy fats. Traditional kidney/liver tonic in TCM.",
+          "name_zh": "蒜茸菠菜 1 份",
+          "image_url": "https://img06.weeecdn.com/item/image/675/998/22546EED66DA97BE.png",
+          "product_url": "https://www.sayweee.com/zh/product/Xiangyuan-Roasted-Black-Sesame-Powder/62900"
+        }
+      ]
+    },
+    "beverages": {
+      "health_rationale": "Most Asian beverages are high in sugar. These picks focus on unsweetened options, herbal teas, and plant-based milks. Unsweetened tea and soy milk are the best daily choices.",
+      "items": [
+        {
+          "product_id": "19221",
+          "slug": "Nature-s-Soy-Unsweetened-Soy-Milk",
+          "name": "Nature's Soy Unsweetened Soy Milk 1890 ml",
+          "price": "$5.49",
+          "unit_price": "$0.08/fl.oz",
+          "health_note": "Unsweetened soy milk - plant protein that lowers LDL. No added sugar, low GI.",
+          "name_zh": "大田 无糖豆浆 1890 毫升",
+          "image_url": "https://img06.weeecdn.com/product/image/171/950/58E2A585CA8C1186.png",
+          "product_url": "https://www.sayweee.com/zh/product/Nature-s-Soy-Unsweetened-Soy-Milk/19221"
+        },
+        {
+          "product_id": "34900",
+          "slug": "Zu-Ming-ORGANIC-SOY-MILK",
+          "name": "Zu Ming Organic Soy Milk 1000 ml",
+          "price": "$3.49",
+          "unit_price": "$0.10/fl.oz",
+          "health_note": "Organic soy milk. Soy isoflavones support heart health.",
+          "name_zh": "苏轼焖肉汤面 1 份",
+          "image_url": "https://img06.weeecdn.com/item/image/080/643/4A09C37874055016.jpg",
+          "product_url": "https://www.sayweee.com/zh/product/Zu-Ming-ORGANIC-SOY-MILK/34900"
+        },
+        {
+          "product_id": "16937",
+          "slug": "Chaokoh-Coconut-Water",
+          "name": "Chaokoh Coconut Water 1000 ml",
+          "price": "$2.49",
+          "unit_price": "$0.07/fl.oz",
+          "health_note": "Natural electrolytes, rich in potassium. No added sugar. Supports blood pressure regulation.",
+          "name_zh": "Chaokoh 椰子水  1000 毫升",
+          "image_url": "https://img06.weeecdn.com/description/image/298/815/4E0A5628EB527C8.png",
+          "product_url": "https://www.sayweee.com/zh/product/Chaokoh-Coconut-Water/16937"
+        },
+        {
+          "product_id": "14900",
+          "slug": "Wei-Chuan-100-Coconut-Water",
+          "name": "Wei Chuan 100% Coconut Water 500 ml",
+          "price": "$1.49",
+          "unit_price": "$0.08/fl.oz",
+          "health_note": "Pure coconut water - natural potassium source for blood pressure support.",
+          "name_zh": "酸豆角肉沫米粉 1 份",
+          "image_url": "https://img06.weeecdn.com/item/image/600/040/49624E0C4338C654.jpg",
+          "product_url": "https://www.sayweee.com/zh/product/Wei-Chuan-100-Coconut-Water/14900"
+        },
+        {
+          "product_id": "52528",
+          "slug": "Vita-Chrysanthemum-Tea",
+          "name": "Vita Chrysanthemum Tea 250 ml x 6 pack",
+          "price": "$5.49",
+          "unit_price": "$0.10/fl.oz",
+          "health_note": "Traditional cooling herbal tea. Chrysanthemum has anti-inflammatory and liver-protective properties.",
+          "name_zh": "维他 菊花茶 250 毫升*6 包",
+          "image_url": "https://img06.weeecdn.com/item/image/662/184/7870CD2D1A69D831.jpg",
+          "product_url": "https://www.sayweee.com/zh/product/Vita-Chrysanthemum-Tea/52528"
+        },
+        {
+          "product_id": "52413",
+          "slug": "Genki-Forest-Sparkling-Water-White-Peach-Flavor",
+          "name": "Genki Forest Sparkling Water, White Peach Flavor 330 ml x 6",
+          "price": "$7.59",
+          "unit_price": "$0.11/fl.oz",
+          "health_note": "Zero sugar, zero calorie sparkling water. Good soda substitute.",
+          "name_zh": "元气森林 白桃苏打气泡 330 毫升*6 罐",
+          "image_url": "https://img06.weeecdn.com/product/image/495/940/18520D5BBC8B42C1.png",
+          "product_url": "https://www.sayweee.com/zh/product/Genki-Forest-Sparkling-Water-White-Peach-Flavor/52413"
+        },
+        {
+          "product_id": "6138",
+          "slug": "Genki-Forest-Sparkling-Water-Grape-Delight-Flavor",
+          "name": "Genki Forest Sparkling Water, Grape Delight Flavor 330 ml x 6",
+          "price": "$7.59",
+          "unit_price": "$0.11/fl.oz",
+          "health_note": "Zero sugar sparkling water variety. Satisfies carbonation craving without sugar.",
+          "name_zh": "元气森林 苏打气泡水 夏黑葡萄味 330 毫升*6 罐",
+          "image_url": "https://img06.weeecdn.com/product/image/174/566/3368782FF480261A.png",
+          "product_url": "https://www.sayweee.com/zh/product/Genki-Forest-Sparkling-Water-Grape-Delight-Flavor/6138"
+        },
+        {
+          "product_id": "72300",
+          "slug": "Oatly-Oat-Milk--Original-Flavor",
+          "name": "Oatly Oat Milk, Original Flavor 64 fl.oz",
+          "price": "$6.79",
+          "unit_price": "$0.10/fl.oz",
+          "health_note": "Oat-based milk - oat beta-glucans help lower cholesterol. No saturated fat.",
+          "name_zh": "【美美小厨】重庆肥肠鸡，啤酒猪蹄，酸汤牛杂套餐 | 组合包 VV 1 份",
+          "image_url": "https://img06.weeecdn.com/item/image/500/537/48DEF897D730A10B.jpg",
+          "product_url": "https://www.sayweee.com/zh/product/Oatly-Oat-Milk--Original-Flavor/72300"
+        },
+        {
+          "product_id": "73200",
+          "slug": "Califia-Farms-Unsweetened-Almond-Milk",
+          "name": "Califia Farms Unsweetened Almond Milk 48 fl.oz",
+          "price": "$7.29",
+          "unit_price": "$0.15/fl.oz",
+          "health_note": "Unsweetened, very low calorie. No saturated fat. Good vitamin E source.",
+          "name_zh": "澳门烧腩仔 1 份",
+          "image_url": "https://img06.weeecdn.com/item/image/550/231/1C2664698942BE2C.png",
+          "product_url": "https://www.sayweee.com/zh/product/Califia-Farms-Unsweetened-Almond-Milk/73200"
+        },
+        {
+          "product_id": "nongfu1",
+          "slug": "Nongfu-Spring-Eastern-Leaves-Jasmine-Tea",
+          "name": "Nongfu Spring Eastern Leaves Jasmine Tea 500 ml",
+          "price": "$2.29",
+          "unit_price": "$0.13/fl.oz",
+          "health_note": "Unsweetened jasmine green tea. Catechins in green tea support cardiovascular health.",
+          "name_zh": "农夫山泉 东方树叶 茉莉花茶 无糖 500 毫升",
+          "image_url": "https://img06.weeecdn.com/product/image/958/498/5CA4A2A916334A0F.png",
+          "product_url": "https://www.sayweee.com/zh/product/Nongfu-Spring-Eastern-Leaves-Jasmine-Tea/4881"
+        }
+      ]
+    },
+    "snacks": {
+      "health_rationale": "Snacking is where most people fall off track. These picks focus on seaweed (iodine, minerals), konjac (zero calorie), nuts/seeds in moderation (unsaturated fats), and naturally dried fruits.",
+      "items": [
+        {
+          "product_id": "50679",
+          "slug": "Orihiro-Konjac-Jelly-0-Calories--Kyoho-Grape--Muscat---Mango-Flavor--24pcs",
+          "name": "Orihiro Konjac Jelly 0 Calories, Kyoho Grape, Muscat & Mango Flavor 24pcs 432 g",
+          "price": "$6.49",
+          "unit_price": "$0.42/oz",
+          "health_note": "Zero calorie snack! Konjac/glucomannan fiber is filling and supports digestion.",
+          "name_zh": "Orihiro 蒟蒻零卡果冻 巨峰葡萄味/青葡萄味/芒果味 24个 432 克",
+          "image_url": "https://img06.weeecdn.com/product/image/485/656/1008139E24F74CF3.png",
+          "product_url": "https://www.sayweee.com/zh/product/Orihiro-Konjac-Jelly-0-Calories--Kyoho-Grape--Muscat---Mango-Flavor--24pcs/50679"
+        },
+        {
+          "product_id": "2139097",
+          "slug": "Kimnori-Organic-Sushi-Nori-Roasted-Seaweed-Sheets",
+          "name": "Kimnori Organic Sushi Nori Roasted Seaweed Sheets 1 each",
+          "price": "$7.00",
+          "unit_price": null,
+          "health_note": "Organic seaweed - rich in iodine, minerals, and fucoxanthin (supports fat metabolism).",
+          "name_zh": "Kimnori - Organic Sushi Nori Roasted Seaweed Sheets 1 份",
+          "image_url": "https://img06.weeecdn.com/item/image/862/039/46BC30060FBAA5B8.jpeg",
+          "product_url": "https://www.sayweee.com/zh/product/Kimnori-Organic-Sushi-Nori-Roasted-Seaweed-Sheets/2139097"
+        },
+        {
+          "product_id": "68991",
+          "slug": "ChaCha-Roasted-Sunflower-Seeds-Original-Flavor",
+          "name": "ChaCha Roasted Sunflower Seeds Original Flavor 250 g",
+          "price": "$3.29",
+          "unit_price": "$0.37/oz",
+          "health_note": "Rich in vitamin E and phytosterols (block cholesterol absorption). Moderate portions.",
+          "name_zh": "洽洽 原香瓜子 原味 250 克",
+          "image_url": "https://img06.weeecdn.com/product/image/999/541/781725FA14D1415F.png",
+          "product_url": "https://www.sayweee.com/zh/product/ChaCha-Roasted-Sunflower-Seeds-Original-Flavor/68991"
+        },
+        {
+          "product_id": "8920",
+          "slug": "Big-Green-Organic-Hawthorn-Berry-Chips",
+          "name": "Big Green Organic Hawthorn Berry Chips 100 g",
+          "price": "$2.99",
+          "unit_price": "$0.84/oz",
+          "health_note": "Hawthorn berry is a traditional heart tonic. Contains flavonoids that support cardiovascular health.",
+          "name_zh": "家乡味 有机天然山楂片 100 克",
+          "image_url": "https://img06.weeecdn.com/product/image/961/499/75A836613B444F4E.png",
+          "product_url": "https://www.sayweee.com/zh/product/Big-Green-Organic-Hawthorn-Berry-Chips/8920"
+        },
+        {
+          "product_id": "56194",
+          "slug": "Pacific-Soda-Crackers-Sesame-Flavor",
+          "name": "Pacific Soda Crackers, Sesame Flavor 400 g",
+          "price": "$5.99",
+          "unit_price": "$0.42/oz",
+          "health_note": "Sesame adds healthy fats. Lower sodium than many cracker options. Check label.",
+          "name_zh": "太平 苏打饼干 芝麻味 400 克",
+          "image_url": "https://img06.weeecdn.com/product/image/200/630/7F2180F8896977E.png",
+          "product_url": "https://www.sayweee.com/zh/product/Pacific-Soda-Crackers-Sesame-Flavor/56194"
+        },
+        {
+          "product_id": "99975",
+          "slug": "LYFEN-Kelp-Crisp-Bamboo-Shoots",
+          "name": "LYFEN Kelp Crisp Bamboo Shoots 160 g",
+          "price": "$3.99",
+          "unit_price": "$0.70/oz",
+          "health_note": "Kelp is rich in iodine and alginates that support metabolism. Bamboo shoots add fiber.",
+          "name_zh": "来伊份 牛肉味兰花豆 205 克",
+          "image_url": "https://img06.weeecdn.com/product/image/357/048/14D788ED1B273F4A.png",
+          "product_url": "https://www.sayweee.com/zh/product/LYFEN-Kelp-Crisp-Bamboo-Shoots/99975"
+        },
+        {
+          "product_id": "79800",
+          "slug": "Taokaenoi-Big-Roll-Classic-Grilled-Seaweed",
+          "name": "Taokaenoi Big Roll Classic Grilled Seaweed 9pc 27 g",
+          "price": "$3.99",
+          "unit_price": "$4.20/oz",
+          "health_note": "Low calorie seaweed snack. Rich in minerals and iodine. Check sodium on label.",
+          "name_zh": "Honyaradoh 绵羊抱枕(大号) 1 个",
+          "image_url": "https://img06.weeecdn.com/item/image/625/803/37DA57DEFD33F530.jpg",
+          "product_url": "https://www.sayweee.com/zh/product/Taokaenoi-Big-Roll-Classic-Grilled-Seaweed/79800"
+        },
+        {
+          "product_id": "57900",
+          "slug": "Weilong-Spicy-Konjac-Snack",
+          "name": "Weilong Spicy Konjac Snack 20pcs 360 g",
+          "price": "$5.49",
+          "unit_price": "$0.43/oz",
+          "health_note": "Konjac-based snack - very low calorie. Note: may have moderate sodium from seasoning.",
+          "name_zh": "打卤面 1 份",
+          "image_url": "https://img06.weeecdn.com/item/image/041/553/50BE618D547D6454.png",
+          "product_url": "https://www.sayweee.com/zh/product/Weilong-Spicy-Konjac-Snack/57900"
+        }
+      ]
+    },
+    "dairy_and_eggs": {
+      "health_rationale": "Low-fat/non-fat dairy and plant-based alternatives are best for high LDL. Greek yogurt provides probiotics for gut health. Eggs are fine in moderation (dietary cholesterol has less impact than saturated fat). Plant-based milks avoid saturated fat entirely.",
+      "items": [
+        {
+          "product_id": "chobani1",
+          "slug": "Chobani-Greek-Yogurt-Non-Fat-Plain",
+          "name": "Chobani Greek Yogurt Non Fat Plain 32 oz",
+          "price": "$7.99",
+          "unit_price": "$0.24/oz",
+          "health_note": "Non-fat Greek yogurt - high protein, probiotics, zero fat. Excellent for gut health.",
+          "name_zh": "Chobani 0脂肪希腊酸奶 32 盎司",
+          "image_url": "https://img06.weeecdn.com/product/image/725/881/66D59D6A07935335.png",
+          "product_url": "https://www.sayweee.com/zh/product/Chobani-Greek-Yogurt-Non-Fat-Plain/100783"
+        },
+        {
+          "product_id": "stonyfield1",
+          "slug": "Stonyfield-Organic-Probiotic-Plain-Whole-milk-Yogurt",
+          "name": "Stonyfield Organic Probiotic Plain Whole Milk Yogurt 32 oz",
+          "price": "$6.49",
+          "unit_price": "$0.20/oz",
+          "health_note": "Organic with live cultures. Probiotics support gut-liver axis health.",
+          "name_zh": "斯多尼菲尔德 有机益生菌全脂原味酸奶 32 盎司",
+          "image_url": "https://img06.weeecdn.com/product/image/526/166/6BDF394B98F4D876.png",
+          "product_url": "https://www.sayweee.com/zh/product/Stonyfield-0--Fat-Plain-Yogurt/100784"
+        },
+        {
+          "product_id": "greekgods1",
+          "slug": "GREEK-GODS-Plain-Traditional-Greek-Yogurt",
+          "name": "Greek Gods Plain Traditional Greek Yogurt 24 oz",
+          "price": "$6.99",
+          "unit_price": "$0.29/oz",
+          "health_note": "Plain yogurt - no added sugar. Good calcium and protein source.",
+          "name_zh": "Greek Gods 传统希腊酸奶 原味 24 盎司",
+          "image_url": "https://img06.weeecdn.com/product/image/286/331/627C4B7F7239395D.png",
+          "product_url": "https://www.sayweee.com/zh/product/GREEK-GODS-Plain-Traditional-Greek-Yogurt/90902"
+        },
+        {
+          "product_id": "yakult1",
+          "slug": "Yakult-Light-Nonfat-Probiotic-Drink",
+          "name": "Yakult Light Nonfat Probiotic Drink 2.7 fl.oz x 5",
+          "price": "$3.79",
+          "unit_price": null,
+          "health_note": "Light version - fewer calories. Probiotics support immune and gut health.",
+          "name_zh": "养乐多 低糖活性乳酸菌饮品 2.7液盎司x5",
+          "image_url": "https://img06.weeecdn.com/product/image/704/636/49599F378BE0B635.png",
+          "product_url": "https://www.sayweee.com/zh/product/Yakult-Light-Nonfat-Probiotic-Drink/21833"
+        },
+        {
+          "product_id": "beijing_lowfat",
+          "slug": "Beijing-Yogurt-Low-Fat-Yogurt",
+          "name": "Beijing Yogurt Low Fat Yogurt 6 oz x 6",
+          "price": "$11.59",
+          "unit_price": "$0.32/oz",
+          "health_note": "Low fat yogurt - reduces saturated fat intake while maintaining calcium and probiotics.",
+          "name_zh": "北京酸奶 低脂酸奶 6盎司x6",
+          "image_url": "https://img06.weeecdn.com/product/image/558/853/344285ADC3D0D11D.png",
+          "product_url": "https://www.sayweee.com/zh/product/Beijing-Yogurt--Plain-Low-Fat-24ct/93558"
+        },
+        {
+          "product_id": "vitalfarms1",
+          "slug": "Vital-Farms-Organic-Pasture-Raised-Large-Grade-A-Eggs",
+          "name": "Vital Farms Organic Pasture-Raised Eggs 18 ct",
+          "price": "$14.99",
+          "unit_price": "$0.83/count",
+          "health_note": "Pasture-raised eggs have more omega-3. 1-2 eggs/day is fine - dietary cholesterol has minimal LDL impact.",
+          "name_zh": "Vital Farms 有机散养鸡蛋 大号 18颗",
+          "image_url": "https://img06.weeecdn.com/product/image/506/619/98766CFFEC713E9.png",
+          "product_url": "https://www.sayweee.com/zh/product/Vital-Farms-Organic-Pasture-Raised-Large-Grade-A-Eggs-18-ct/103744"
+        },
+        {
+          "product_id": "quaileggs1",
+          "slug": "Quail-Eggs-15ct",
+          "name": "Quail Eggs 15ct",
+          "price": "$4.49",
+          "unit_price": "$0.29/count",
+          "health_note": "Small portions, rich in B12 and selenium. Traditional nourishing food.",
+          "name_zh": "鹌鹑蛋 15颗",
+          "image_url": "https://img06.weeecdn.com/item/image/823/241/4EB874CAF8E857CA.jpg",
+          "product_url": "https://www.sayweee.com/zh/product/Quail-Eggs-15ct/33405"
+        },
+        {
+          "product_id": "lactaid1",
+          "slug": "Lactaid-Lactose-Free-2-Reduced-Fat-Milk",
+          "name": "Lactaid Lactose-Free 2% Reduced Fat Milk 63.9 fl.oz",
+          "price": "$5.19",
+          "unit_price": "$0.08/fl.oz",
+          "health_note": "Reduced fat, lactose-free. Good calcium source with less saturated fat than whole milk.",
+          "name_zh": "Lactaid 无乳糖 2%低脂牛奶 63.9液盎司",
+          "image_url": "https://img06.weeecdn.com/product/image/366/332/EB9715A0750C8A2.png",
+          "product_url": "https://www.sayweee.com/zh/product/Lactaid-Lactose-Free-2--Reduced-Fat-Milk/95353"
+        }
+      ]
+    },
+    "seasoning_healthy_picks": {
+      "health_rationale": "Seasonings are critical - they determine sodium intake. Use reduced-sodium soy sauce, vinegar (acetic acid helps blood sugar), and spices/herbs instead of salt. Avoid heavy sauces.",
+      "items": [
+        {
+          "product_id": "leekumkee_reduced",
+          "slug": "Lee-Kum-Kee-Sodium-Reduced-Seasoning-Soy-Sauce",
+          "name": "Lee Kum Kee Sodium Reduced Seasoning Soy Sauce 16.9 g",
+          "price": "$6.29",
+          "unit_price": "$10.48/oz",
+          "health_note": "ESSENTIAL - reduced sodium soy sauce. Switch from regular soy sauce to cut sodium significantly.",
+          "name_zh": "李锦记 薄盐味极鲜 16.9 盎司",
+          "image_url": "https://img06.weeecdn.com/product/image/117/833/2EBBFE382C4A6578.png",
+          "product_url": "https://www.sayweee.com/zh/product/Lee-Kum-Kee-Sodium-Reduced-Seasoning-Soy-Sauce/71478"
+        },
+        {
+          "product_id": "hengshun1",
+          "slug": "Hengshun-Zhenjiang-Vinegar",
+          "name": "Hengshun Zhenjiang Vinegar 18.6 fl.oz",
+          "price": "$3.49",
+          "unit_price": "$0.18/fl.oz",
+          "health_note": "Vinegar helps lower blood sugar after meals. Use liberally as a condiment - zero calories.",
+          "name_zh": "恒顺 金山 镇江香醋 18.6 液盎司",
+          "image_url": "https://img06.weeecdn.com/product/image/630/056/52A405917BB9F377.png",
+          "product_url": "https://www.sayweee.com/zh/product/Hengshun-Zhenjiang-Vinegar/99090"
+        },
+        {
+          "product_id": "kongyen1",
+          "slug": "Kong-Yen-Rice-Vinegar",
+          "name": "Kong Yen Rice Vinegar 20.2 fl.oz",
+          "price": "$3.29",
+          "unit_price": "$0.16/fl.oz",
+          "health_note": "Milder vinegar for dressings and cooking. Acetic acid supports blood sugar control.",
+          "name_zh": "工研 白米醋 20.2 液盎司",
+          "image_url": "https://img06.weeecdn.com/product/image/351/148/1C23B5D038B184B6.png",
+          "product_url": "https://www.sayweee.com/zh/product/Kong-Yen-Rice-Vinegar/8420"
+        },
+        {
+          "product_id": "whitepep1",
+          "slug": "White-Pepper-Powder",
+          "name": "White Pepper Powder 32 g",
+          "price": "$1.99",
+          "unit_price": "$1.76/oz",
+          "health_note": "Adds flavor without sodium. Piperine enhances nutrient absorption.",
+          "name_zh": "小磨坊 白胡椒粉 32 克",
+          "image_url": "https://img06.weeecdn.com/product/image/715/726/3DFD11942D9C71AA.png",
+          "product_url": "https://www.sayweee.com/zh/product/White-Pepper-Powder/53078"
+        },
+        {
+          "product_id": "fivespice1",
+          "slug": "Tomax-Five-Spice-Powder",
+          "name": "Tomax Five Spice Powder 20 g",
+          "price": "$1.99",
+          "unit_price": "$2.80/oz",
+          "health_note": "Star anise, cloves, cinnamon, Sichuan pepper, fennel - all spices with anti-inflammatory properties. Zero sodium.",
+          "name_zh": "小磨坊 五香粉 20 克",
+          "image_url": "https://img06.weeecdn.com/product/image/141/296/690A3FCB2EDE830E.png",
+          "product_url": "https://www.sayweee.com/zh/product/Tomax-Five-Spice-Powder/13937"
+        },
+        {
+          "product_id": "kadoya1",
+          "slug": "Kadoya-Roasted-Sesame-Oil",
+          "name": "Kadoya Roasted Sesame Oil 163 ml",
+          "price": "$4.49",
+          "unit_price": "$0.81/fl.oz",
+          "health_note": "Sesame oil has sesamol - a powerful antioxidant. Use as finishing oil (small amounts). Monounsaturated fat.",
+          "name_zh": "角屋 纯正麻油 163 毫升",
+          "image_url": "https://img06.weeecdn.com/product/image/402/874/41FE27A4A34CC5B9.png",
+          "product_url": "https://www.sayweee.com/zh/product/Kadoya-Roasted-Sesame-Oil/96942"
+        },
+        {
+          "product_id": "arowana1",
+          "slug": "Arowana-Brand-Golden-Ratio-Vegetable-Cooking-Oil",
+          "name": "Arowana Brand Golden Ratio Vegetable Cooking Oil 900 ml",
+          "price": "$6.99",
+          "unit_price": "$0.22/fl.oz",
+          "health_note": "Blended vegetable oil - lower in saturated fat than lard or palm oil.",
+          "name_zh": "金龙鱼 黄金比例食用调和油 900 毫升",
+          "image_url": "https://img06.weeecdn.com/product/image/037/461/3163DE7B4133EE15.jpeg",
+          "product_url": "https://www.sayweee.com/zh/product/Arowana-Brand-Golden-Ratio-Vegetable-Cooking-Oil/30503"
+        },
+        {
+          "product_id": "haidilao_mushroom",
+          "slug": "Haidilao-Hot-Pot-Mushroom-Soup-Base",
+          "name": "Haidilao Hot Pot Mushroom Soup Base 150 g",
+          "price": "$5.49",
+          "unit_price": "$1.03/oz",
+          "health_note": "Mushroom-based soup base - lighter than spicy or beef tallow versions. Still check sodium.",
+          "name_zh": "海底捞 菌汤火锅底料 150 克",
+          "image_url": "https://img06.weeecdn.com/product/image/666/870/56E2C0CB03CE7D84.png",
+          "product_url": "https://www.sayweee.com/zh/product/Haidilao-Hot-Pot-Mushroom-Soup-Base/1763"
+        },
+        {
+          "product_id": "haidilao_tomato",
+          "slug": "Haidilao-Hot-Pot-Tomato-Soup-Base",
+          "name": "Haidilao Hot Pot Tomato Soup Base 200 g",
+          "price": "$3.99",
+          "unit_price": "$0.56/oz",
+          "health_note": "Tomato-based - lycopene is a powerful antioxidant for heart health. Lighter than oil-based bases.",
+          "name_zh": "海底捞 番茄火锅底料 200 克",
+          "image_url": "https://img06.weeecdn.com/product/image/090/749/325786031AEB116.png",
+          "product_url": "https://www.sayweee.com/zh/product/Haidilao-Hot-Pot-Tomato-Soup-Base/3569"
+        },
+        {
+          "product_id": "goldplum1",
+          "slug": "Gold-Plum-Chinkiang-Vinegar",
+          "name": "Gold-Plum Chinkiang Vinegar 550 ml",
+          "price": "$5.29",
+          "unit_price": "$0.28/fl.oz",
+          "health_note": "Black vinegar - traditional condiment. Acetic acid helps blood sugar regulation.",
+          "name_zh": "金梅 镇江香醋 550 毫升",
+          "image_url": "https://img06.weeecdn.com/product/image/723/161/28AB838A93F1F8BF.jpeg",
+          "product_url": "https://www.sayweee.com/zh/product/Gold-Plum-Chinkiang-Vinegar-regular-package-and-with-foam-box-package-randomly-shipping-/70806"
+        }
+      ]
+    }
+  }
+}

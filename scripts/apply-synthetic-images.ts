@@ -4,7 +4,7 @@ import { fileURLToPath } from "url";
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
-const ENRICHED_FILE = path.resolve(__dirname, "../src/data/enriched-groceries.json");
+const ENRICHED_FILE = path.resolve(__dirname, "../src/data/grocery-items.json");
 
 // Data found by the background agent - real Weee product URLs, images, and Chinese names
 const SYNTHETIC_DATA: Record<string, { image_url: string; name_zh: string; product_url: string }> = {

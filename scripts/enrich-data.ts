@@ -7,7 +7,7 @@ const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
 const SOURCE_FILE = path.resolve(__dirname, "../weee-healthy-groceries.json");
-const OUTPUT_FILE = path.resolve(__dirname, "../src/data/enriched-groceries.json");
+const OUTPUT_FILE = path.resolve(__dirname, "../src/data/grocery-items.json");
 const DELAY_MS = 300;
 const BASE_URL = "https://www.sayweee.com/zh/product";
 

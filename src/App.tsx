@@ -1,5 +1,5 @@
 import { useState, useMemo, useCallback, useEffect } from "react";
-import groceryData from "./data/enriched-groceries.json";
+import groceryData from "./data/grocery-items.json";
 import type { CategoryKey, GroceryData, GroceryItem } from "./data/types";
 import { CATEGORY_KEYS } from "./data/types";
 import Header from "./components/Header";

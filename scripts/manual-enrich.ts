@@ -4,7 +4,7 @@ import { fileURLToPath } from "url";
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
-const ENRICHED_FILE = path.resolve(__dirname, "../src/data/enriched-groceries.json");
+const ENRICHED_FILE = path.resolve(__dirname, "../src/data/grocery-items.json");
 
 // Manual enrichment data for the 20 synthetic-ID items
 const MANUAL_DATA: Record<string, { name_zh: string; image_url?: string }> = {

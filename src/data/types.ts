@@ -1,3 +1,5 @@
+export type Language = "en" | "zh";
+
 export interface GroceryItem {
   product_id: string;
   slug: string;
@@ -42,4 +44,61 @@ export interface GroceryData {
     note: string;
   };
   categories: Record<CategoryKey, Category>;
+}
+
+// Dish-related types
+
+export interface GroceryMatch {
+  product_id: string;
+  name: string;
+  category: string;
+}
+
+export interface DishIngredient {
+  name_zh: string;
+  name_en: string;
+  amount: string;
+  grocery_match: GroceryMatch | null;
+  missing_importance?: "low" | "med" | "high";
+}
+
+export type DishCategory = "热菜" | "主食" | "凉菜";
+export type DishDifficulty = "简单" | "普通" | "高级" | "神级";
+
+export interface Dish {
+  id: string;
+  name_zh: string;
+  name_en: string;
+  description_zh: string;
+  recipe_url: string;
+  topic_url: string;
+  category: DishCategory;
+  flavor: string;
+  cooking_method: string;
+  time_required: string | null;
+  difficulty: DishDifficulty;
+  ingredients: {
+    main: DishIngredient[];
+    auxiliary?: DishIngredient[];
+    seasonings?: DishIngredient[];
+  };
+}
+
+export interface DishData {
+  metadata: {
+    source_url: string;
+    source_name: string;
+    scraped_date: string;
+    description: string;
+    total_dishes: number;
+    selection_criteria: string;
+  };
+  dishes: Dish[];
+}
+
+export interface RankedDish extends Dish {
+  totalIngredients: number;
+  matchedIngredients: number;
+  missingIngredients: number;
+  healthScore: number;
 }

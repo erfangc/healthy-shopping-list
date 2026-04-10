@@ -1,19 +1,23 @@
 import { useState } from "react";
-import type { GroceryItem } from "../data/types";
+import { Link } from "react-router-dom";
+import type { Dish, GroceryItem, Language } from "../data/types";
 
 interface ProductCardProps {
   item: GroceryItem;
-  language: "en" | "zh";
+  language: Language;
   categoryEmoji: string;
+  usedInDishes?: Dish[];
 }
 
 export default function ProductCard({
   item,
   language,
   categoryEmoji,
+  usedInDishes,
 }: ProductCardProps) {
   const [imgError, setImgError] = useState(false);
   const [expanded, setExpanded] = useState(false);
+  const [dishesExpanded, setDishesExpanded] = useState(false);
 
   const displayName =
     language === "zh" && item.name_zh ? item.name_zh : item.name;
@@ -107,6 +111,42 @@ export default function ProductCard({
             </button>
           )}
         </div>
+
+        {/* Used in dishes */}
+        {usedInDishes && usedInDishes.length > 0 && (
+          <div className="mt-2 pt-2 border-t border-gray-100 dark:border-gray-700">
+            <button
+              onClick={() => setDishesExpanded(!dishesExpanded)}
+              className="text-xs font-medium text-primary-600 dark:text-primary-400 hover:text-primary-700 dark:hover:text-primary-300 cursor-pointer flex items-center gap-1"
+            >
+              <span>🍳</span>
+              {language === "zh"
+                ? `用于 ${usedInDishes.length} 道菜`
+                : `Used in ${usedInDishes.length} dish${usedInDishes.length > 1 ? "es" : ""}`}
+              <svg
+                className={`w-3 h-3 transition-transform ${dishesExpanded ? "rotate-180" : ""}`}
+                fill="none"
+                stroke="currentColor"
+                viewBox="0 0 24 24"
+              >
+                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M19 9l-7 7-7-7" />
+              </svg>
+            </button>
+            {dishesExpanded && (
+              <div className="mt-1.5 space-y-0.5">
+                {usedInDishes.map((dish) => (
+                  <Link
+                    key={dish.id}
+                    to={`/dishes/${dish.id}`}
+                    className="block text-xs text-gray-500 dark:text-gray-400 hover:text-primary-600 dark:hover:text-primary-400 transition-colors truncate"
+                  >
+                    {language === "zh" ? dish.name_zh : dish.name_en}
+                  </Link>
+                ))}
+              </div>
+            )}
+          </div>
+        )}
       </div>
     </div>
   );

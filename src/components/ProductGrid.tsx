@@ -1,13 +1,14 @@
 import { CATEGORY_LABELS } from "../data/categories";
-import type { CategoryKey, GroceryItem } from "../data/types";
+import type { CategoryKey, Dish, GroceryItem, Language } from "../data/types";
 import ProductCard from "./ProductCard";
 
 interface ProductGridProps {
   items: GroceryItem[];
-  language: "en" | "zh";
+  language: Language;
   selectedCategory: CategoryKey | "all";
   categoryForItem?: Map<string, CategoryKey>;
   searchQuery: string;
+  groceryToDishMap?: Map<string, Dish[]>;
 }
 
 export default function ProductGrid({
@@ -16,6 +17,7 @@ export default function ProductGrid({
   selectedCategory,
   categoryForItem,
   searchQuery,
+  groceryToDishMap,
 }: ProductGridProps) {
   if (items.length === 0) {
     return (
@@ -66,6 +68,7 @@ export default function ProductGrid({
                     item={item}
                     language={language}
                     categoryEmoji={label.emoji}
+                    usedInDishes={groceryToDishMap?.get(item.product_id)}
                   />
                 ))}
               </div>
@@ -96,6 +99,7 @@ export default function ProductGrid({
               item={item}
               language={language}
               categoryEmoji={itemEmoji}
+              usedInDishes={groceryToDishMap?.get(item.product_id)}
             />
           );
         })}

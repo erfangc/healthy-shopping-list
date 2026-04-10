@@ -879,26 +879,26 @@
           "product_url": "https://www.sayweee.com/zh/product/Boneless---Skinless-Chicken-Thighs-Frozen-1/37447"
         },
         {
-          "product_id": "9329",
+          "product_id": "105407",
           "slug": "Pork-Tenderloin--Frozen-1",
           "name": "Pork Tenderloin, Frozen 2-2.5 lb",
           "price": "$9.29",
           "unit_price": "$4.12/lb",
           "health_note": "Leanest cut of pork - comparable to chicken breast in fat content. Excellent protein.",
-          "name_zh": "肉末茄子 1 份",
-          "image_url": "https://img06.weeecdn.com/item/image/677/743/7B623814986D33A7.jpg",
-          "product_url": "https://www.sayweee.com/zh/product/Pork-Tenderloin--Frozen-1/9329"
+          "name_zh": "猪小里脊 冷冻 2-2.5 磅",
+          "image_url": "https://img06.weeecdn.com/item/image/294/984/21600AF5EE6EF6A.jpg",
+          "product_url": "https://www.sayweee.com/zh/product/Pork-Tenderloin--Frozen-1/105407"
         },
         {
-          "product_id": "5549",
+          "product_id": "460",
           "slug": "The-Original-B-B-Stewing-Hen--Frozen-1",
           "name": "The Original B&B Stewing Hen, Frozen 1.5-2.5 lb",
           "price": "$5.49",
           "unit_price": "$2.74/lb",
           "health_note": "For making bone broth - rich in collagen and minerals. Remove skin and fat before eating.",
-          "name_zh": "茴香水饺 12个 1 份",
-          "image_url": "https://img06.weeecdn.com/item/image/542/423/2F3FB7BB232BD8F9.jpg",
-          "product_url": "https://www.sayweee.com/zh/product/The-Original-B-B-Stewing-Hen--Frozen-1/5549"
+          "name_zh": "炖汤小老母鸡 冷冻 1.5-2.5 磅",
+          "image_url": "https://img06.weeecdn.com/product/image/590/333/4C75BAEF212E8A59.png",
+          "product_url": "https://www.sayweee.com/zh/product/The-Original-B-B-Stewing-Hen--Frozen-1/460"
         }
       ]
     },

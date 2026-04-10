@@ -26,8 +26,11 @@
             "name_zh": "五花肉",
             "name_en": "pork belly",
             "amount": "500g",
-            "grocery_match": null,
-            "missing_importance": "high"
+            "grocery_match": {
+              "product_id": "pork_belly1",
+              "name": "Pork Belly, Frozen 2 lb",
+              "category": "meat_lean_options"
+            }
           }
         ],
         "seasonings": [
@@ -42,8 +45,11 @@
             "name_zh": "花雕酒",
             "name_en": "Shaoxing wine",
             "amount": "1 bowl",
-            "grocery_match": null,
-            "missing_importance": "high"
+            "grocery_match": {
+              "product_id": "cooking_wine1",
+              "name": "Shaoxing Cooking Wine 750 ml",
+              "category": "seasoning_healthy_picks"
+            }
           },
           {
             "name_zh": "生抽",
@@ -59,8 +65,11 @@
             "name_zh": "老抽",
             "name_en": "dark soy sauce",
             "amount": "20g",
-            "grocery_match": null,
-            "missing_importance": "high"
+            "grocery_match": {
+              "product_id": "dark_soy_sauce1",
+              "name": "Dark Soy Sauce 500 ml",
+              "category": "seasoning_healthy_picks"
+            }
           },
           {
             "name_zh": "八角",
@@ -87,15 +96,21 @@
             "name_zh": "香葱",
             "name_en": "scallion",
             "amount": "1 bunch",
-            "grocery_match": null,
-            "missing_importance": "high"
+            "grocery_match": {
+              "product_id": "green_onion1",
+              "name": "Green Onion (Scallion) 1 bunch",
+              "category": "vegetables"
+            }
           },
           {
             "name_zh": "葱",
             "name_en": "green onion",
             "amount": "to taste",
-            "grocery_match": null,
-            "missing_importance": "high"
+            "grocery_match": {
+              "product_id": "green_onion1",
+              "name": "Green Onion (Scallion) 1 bunch",
+              "category": "vegetables"
+            }
           },
           {
             "name_zh": "姜",
@@ -128,8 +143,11 @@
             "name_zh": "排骨",
             "name_en": "pork ribs",
             "amount": "500g",
-            "grocery_match": null,
-            "missing_importance": "high"
+            "grocery_match": {
+              "product_id": "pork_ribs1",
+              "name": "Pork Ribs, Frozen 2 lb",
+              "category": "meat_lean_options"
+            }
           }
         ],
         "auxiliary": [
@@ -180,8 +198,11 @@
             "name_zh": "料酒",
             "name_en": "cooking wine",
             "amount": "to taste",
-            "grocery_match": null,
-            "missing_importance": "high"
+            "grocery_match": {
+              "product_id": "cooking_wine1",
+              "name": "Shaoxing Cooking Wine 750 ml",
+              "category": "seasoning_healthy_picks"
+            }
           },
           {
             "name_zh": "白砂糖",
@@ -287,15 +308,21 @@
             "name_zh": "料酒",
             "name_en": "cooking wine",
             "amount": "to taste",
-            "grocery_match": null,
-            "missing_importance": "high"
+            "grocery_match": {
+              "product_id": "cooking_wine1",
+              "name": "Shaoxing Cooking Wine 750 ml",
+              "category": "seasoning_healthy_picks"
+            }
           },
           {
             "name_zh": "老抽",
             "name_en": "dark soy sauce",
             "amount": "to taste",
-            "grocery_match": null,
-            "missing_importance": "high"
+            "grocery_match": {
+              "product_id": "dark_soy_sauce1",
+              "name": "Dark Soy Sauce 500 ml",
+              "category": "seasoning_healthy_picks"
+            }
           },
           {
             "name_zh": "白酒",
@@ -390,8 +417,11 @@
             "name_zh": "豆瓣酱",
             "name_en": "doubanjiang (broad bean paste)",
             "amount": "1-2 tbsp",
-            "grocery_match": null,
-            "missing_importance": "high"
+            "grocery_match": {
+              "product_id": "doubanjiang1",
+              "name": "Pixian Doubanjiang (Broad Bean Chili Paste) 500 g",
+              "category": "seasoning_healthy_picks"
+            }
           },
           {
             "name_zh": "盐",
@@ -438,8 +468,11 @@
             "name_zh": "蚝油",
             "name_en": "oyster sauce",
             "amount": "1 tbsp",
-            "grocery_match": null,
-            "missing_importance": "high"
+            "grocery_match": {
+              "product_id": "oyster_sauce1",
+              "name": "Oyster Sauce 510 g",
+              "category": "seasoning_healthy_picks"
+            }
           },
           {
             "name_zh": "玉米淀粉",
@@ -561,15 +594,21 @@
             "name_zh": "料酒",
             "name_en": "cooking wine",
             "amount": "to taste",
-            "grocery_match": null,
-            "missing_importance": "high"
+            "grocery_match": {
+              "product_id": "cooking_wine1",
+              "name": "Shaoxing Cooking Wine 750 ml",
+              "category": "seasoning_healthy_picks"
+            }
           },
           {
             "name_zh": "蚝油",
             "name_en": "oyster sauce",
             "amount": "1 tbsp",
-            "grocery_match": null,
-            "missing_importance": "high"
+            "grocery_match": {
+              "product_id": "oyster_sauce1",
+              "name": "Oyster Sauce 510 g",
+              "category": "seasoning_healthy_picks"
+            }
           },
           {
             "name_zh": "香醋",
@@ -585,8 +624,11 @@
             "name_zh": "郫县豆瓣酱",
             "name_en": "Pixian doubanjiang",
             "amount": "1 tbsp",
-            "grocery_match": null,
-            "missing_importance": "high"
+            "grocery_match": {
+              "product_id": "doubanjiang1",
+              "name": "Pixian Doubanjiang (Broad Bean Chili Paste) 500 g",
+              "category": "seasoning_healthy_picks"
+            }
           },
           {
             "name_zh": "味精",
@@ -766,8 +808,11 @@
             "name_zh": "番茄",
             "name_en": "tomato",
             "amount": "2",
-            "grocery_match": null,
-            "missing_importance": "high"
+            "grocery_match": {
+              "product_id": "tomato1",
+              "name": "Tomato 2 lb",
+              "category": "vegetables"
+            }
           }
         ],
         "auxiliary": [
@@ -806,8 +851,11 @@
             "name_zh": "土豆",
             "name_en": "potato",
             "amount": "1",
-            "grocery_match": null,
-            "missing_importance": "high"
+            "grocery_match": {
+              "product_id": "potato1",
+              "name": "Potato 2 lb",
+              "category": "vegetables"
+            }
           }
         ],
         "auxiliary": [
@@ -877,8 +925,11 @@
             "name_zh": "五花肉",
             "name_en": "pork belly",
             "amount": "to taste",
-            "grocery_match": null,
-            "missing_importance": "high"
+            "grocery_match": {
+              "product_id": "pork_belly1",
+              "name": "Pork Belly, Frozen 2 lb",
+              "category": "meat_lean_options"
+            }
           }
         ],
         "auxiliary": [
@@ -1179,8 +1230,11 @@
             "name_zh": "西红柿",
             "name_en": "tomato",
             "amount": "1",
-            "grocery_match": null,
-            "missing_importance": "high"
+            "grocery_match": {
+              "product_id": "tomato1",
+              "name": "Tomato 2 lb",
+              "category": "vegetables"
+            }
           },
           {
             "name_zh": "青椒",
@@ -1379,15 +1433,21 @@
             "name_zh": "鱼",
             "name_en": "fish (grass carp)",
             "amount": "1 whole",
-            "grocery_match": null,
-            "missing_importance": "high"
+            "grocery_match": {
+              "product_id": "grass_carp1",
+              "name": "Grass Carp Whole Cleaned, Frozen 2 lb",
+              "category": "seafood"
+            }
           },
           {
             "name_zh": "酸菜",
             "name_en": "pickled mustard greens",
             "amount": "1 handful",
-            "grocery_match": null,
-            "missing_importance": "high"
+            "grocery_match": {
+              "product_id": "pickled_mustard1",
+              "name": "Pickled Mustard Greens (Suan Cai) 1 pack",
+              "category": "vegetables"
+            }
           },
           {
             "name_zh": "菜籽油",
@@ -1678,8 +1738,11 @@
             "name_zh": "排骨",
             "name_en": "pork ribs",
             "amount": "600g",
-            "grocery_match": null,
-            "missing_importance": "high"
+            "grocery_match": {
+              "product_id": "pork_ribs1",
+              "name": "Pork Ribs, Frozen 2 lb",
+              "category": "meat_lean_options"
+            }
           }
         ],
         "auxiliary": [
@@ -2146,8 +2209,11 @@
             "name_zh": "鲫鱼",
             "name_en": "crucian carp",
             "amount": "2",
-            "grocery_match": null,
-            "missing_importance": "high"
+            "grocery_match": {
+              "product_id": "crucian_carp1",
+              "name": "Crucian Carp Whole Cleaned, Frozen 1.5 lb",
+              "category": "seafood"
+            }
           }
         ],
         "auxiliary": [
@@ -2292,8 +2358,11 @@
             "name_zh": "干辣椒",
             "name_en": "dried chili pepper",
             "amount": "to taste",
-            "grocery_match": null,
-            "missing_importance": "high"
+            "grocery_match": {
+              "product_id": "dried_chili1",
+              "name": "Dried Red Chili Pepper 100 g",
+              "category": "seasoning_healthy_picks"
+            }
           },
           {
             "name_zh": "姜末",
@@ -2309,22 +2378,31 @@
             "name_zh": "葱末",
             "name_en": "minced green onion",
             "amount": "to taste",
-            "grocery_match": null,
-            "missing_importance": "high"
+            "grocery_match": {
+              "product_id": "green_onion1",
+              "name": "Green Onion (Scallion) 1 bunch",
+              "category": "vegetables"
+            }
           },
           {
             "name_zh": "花椒",
             "name_en": "Sichuan peppercorn",
             "amount": "to taste",
-            "grocery_match": null,
-            "missing_importance": "high"
+            "grocery_match": {
+              "product_id": "sichuan_pepper1",
+              "name": "Sichuan Peppercorn 50 g",
+              "category": "seasoning_healthy_picks"
+            }
           },
           {
             "name_zh": "蒜末",
             "name_en": "minced garlic",
             "amount": "to taste",
-            "grocery_match": null,
-            "missing_importance": "high"
+            "grocery_match": {
+              "product_id": "garlic1",
+              "name": "Garlic 1 head",
+              "category": "vegetables"
+            }
           }
         ]
       }
@@ -2347,8 +2425,11 @@
             "name_zh": "胖头鱼头",
             "name_en": "bighead carp head",
             "amount": "650g",
-            "grocery_match": null,
-            "missing_importance": "high"
+            "grocery_match": {
+              "product_id": "bighead_carp_head1",
+              "name": "Bighead Carp Head, Frozen 2-3 lb",
+              "category": "seafood"
+            }
           },
           {
             "name_zh": "盐",
@@ -2371,8 +2452,11 @@
             "name_zh": "黄酒",
             "name_en": "yellow rice wine",
             "amount": "10g",
-            "grocery_match": null,
-            "missing_importance": "high"
+            "grocery_match": {
+              "product_id": "cooking_wine1",
+              "name": "Shaoxing Cooking Wine 750 ml",
+              "category": "seasoning_healthy_picks"
+            }
           },
           {
             "name_zh": "姜丝",
@@ -2455,8 +2539,11 @@
             "name_zh": "五花肉",
             "name_en": "pork belly",
             "amount": "500g",
-            "grocery_match": null,
-            "missing_importance": "high"
+            "grocery_match": {
+              "product_id": "pork_belly1",
+              "name": "Pork Belly, Frozen 2 lb",
+              "category": "meat_lean_options"
+            }
           },
           {
             "name_zh": "蒸肉米粉",
@@ -2597,8 +2684,11 @@
             "name_zh": "土豆",
             "name_en": "potato",
             "amount": "to taste",
-            "grocery_match": null,
-            "missing_importance": "high"
+            "grocery_match": {
+              "product_id": "potato1",
+              "name": "Potato 2 lb",
+              "category": "vegetables"
+            }
           },
           {
             "name_zh": "豇豆",
@@ -2764,22 +2854,31 @@
             "name_zh": "花椒",
             "name_en": "Sichuan peppercorn",
             "amount": "1 tsp",
-            "grocery_match": null,
-            "missing_importance": "high"
+            "grocery_match": {
+              "product_id": "sichuan_pepper1",
+              "name": "Sichuan Peppercorn 50 g",
+              "category": "seasoning_healthy_picks"
+            }
           },
           {
             "name_zh": "干红辣椒",
             "name_en": "dried red chili",
             "amount": "1 small bowl",
-            "grocery_match": null,
-            "missing_importance": "high"
+            "grocery_match": {
+              "product_id": "dried_chili1",
+              "name": "Dried Red Chili Pepper 100 g",
+              "category": "seasoning_healthy_picks"
+            }
           },
           {
             "name_zh": "葱",
             "name_en": "green onion",
             "amount": "3 stalks",
-            "grocery_match": null,
-            "missing_importance": "high"
+            "grocery_match": {
+              "product_id": "green_onion1",
+              "name": "Green Onion (Scallion) 1 bunch",
+              "category": "vegetables"
+            }
           },
           {
             "name_zh": "姜",
@@ -2795,8 +2894,11 @@
             "name_zh": "蒜",
             "name_en": "garlic",
             "amount": "4 cloves",
-            "grocery_match": null,
-            "missing_importance": "high"
+            "grocery_match": {
+              "product_id": "garlic1",
+              "name": "Garlic 1 head",
+              "category": "vegetables"
+            }
           },
           {
             "name_zh": "生抽",
@@ -2812,15 +2914,21 @@
             "name_zh": "蚝油",
             "name_en": "oyster sauce",
             "amount": "1 tsp",
-            "grocery_match": null,
-            "missing_importance": "high"
+            "grocery_match": {
+              "product_id": "oyster_sauce1",
+              "name": "Oyster Sauce 510 g",
+              "category": "seasoning_healthy_picks"
+            }
           },
           {
             "name_zh": "料酒",
             "name_en": "cooking wine",
             "amount": "1/2 tsp",
-            "grocery_match": null,
-            "missing_importance": "high"
+            "grocery_match": {
+              "product_id": "cooking_wine1",
+              "name": "Shaoxing Cooking Wine 750 ml",
+              "category": "seasoning_healthy_picks"
+            }
           },
           {
             "name_zh": "白胡椒粉",
@@ -2904,8 +3012,11 @@
             "name_zh": "五花肉末",
             "name_en": "minced pork belly",
             "amount": "150g",
-            "grocery_match": null,
-            "missing_importance": "high"
+            "grocery_match": {
+              "product_id": "pork_belly1",
+              "name": "Pork Belly, Frozen 2 lb",
+              "category": "meat_lean_options"
+            }
           }
         ],
         "auxiliary": [
@@ -3149,8 +3260,11 @@
             "name_zh": "大葱",
             "name_en": "green onion",
             "amount": "to taste",
-            "grocery_match": null,
-            "missing_importance": "high"
+            "grocery_match": {
+              "product_id": "green_onion1",
+              "name": "Green Onion (Scallion) 1 bunch",
+              "category": "vegetables"
+            }
           }
         ],
         "auxiliary": [
@@ -3235,8 +3349,11 @@
             "name_zh": "大葱",
             "name_en": "green onion",
             "amount": "to taste",
-            "grocery_match": null,
-            "missing_importance": "high"
+            "grocery_match": {
+              "product_id": "green_onion1",
+              "name": "Green Onion (Scallion) 1 bunch",
+              "category": "vegetables"
+            }
           },
           {
             "name_zh": "生姜",
@@ -3252,15 +3369,21 @@
             "name_zh": "蚝油",
             "name_en": "oyster sauce",
             "amount": "15g",
-            "grocery_match": null,
-            "missing_importance": "high"
+            "grocery_match": {
+              "product_id": "oyster_sauce1",
+              "name": "Oyster Sauce 510 g",
+              "category": "seasoning_healthy_picks"
+            }
           },
           {
             "name_zh": "老抽",
             "name_en": "dark soy sauce",
             "amount": "15g",
-            "grocery_match": null,
-            "missing_importance": "high"
+            "grocery_match": {
+              "product_id": "dark_soy_sauce1",
+              "name": "Dark Soy Sauce 500 ml",
+              "category": "seasoning_healthy_picks"
+            }
           },
           {
             "name_zh": "白砂糖",
@@ -3324,8 +3447,11 @@
             "name_zh": "土豆",
             "name_en": "potato",
             "amount": "1",
-            "grocery_match": null,
-            "missing_importance": "high"
+            "grocery_match": {
+              "product_id": "potato1",
+              "name": "Potato 2 lb",
+              "category": "vegetables"
+            }
           },
           {
             "name_zh": "胡萝卜",

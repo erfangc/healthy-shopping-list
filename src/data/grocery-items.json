@@ -384,6 +384,61 @@
           "name_zh": "法国小萝卜 1 把",
           "image_url": "https://img06.weeecdn.com/product/image/969/339/16F234667BB99ED9.png",
           "product_url": "https://www.sayweee.com/zh/product/Baby-French-Carrot/88064"
+        },
+        {
+          "product_id": "green_onion1",
+          "slug": "",
+          "name": "Green Onion (Scallion) 1 bunch",
+          "price": "",
+          "unit_price": null,
+          "health_note": "Very low calorie, rich in vitamin K and vitamin C. Contains quercetin, an antioxidant that supports heart health.",
+          "name_zh": "香葱 1 把",
+          "image_url": "",
+          "product_url": ""
+        },
+        {
+          "product_id": "garlic1",
+          "slug": "",
+          "name": "Garlic 1 head",
+          "price": "",
+          "unit_price": null,
+          "health_note": "Contains allicin which may help lower LDL cholesterol and blood pressure. Anti-inflammatory and antibacterial.",
+          "name_zh": "大蒜 1 头",
+          "image_url": "",
+          "product_url": ""
+        },
+        {
+          "product_id": "potato1",
+          "slug": "",
+          "name": "Potato 2 lb",
+          "price": "",
+          "unit_price": null,
+          "health_note": "⚠️ MODERATE-HIGH GLYCEMIC INDEX (GI ~78 boiled). High in potassium which helps blood pressure, but raises blood sugar quickly. Use in moderation; pair with vegetables or vinegar to blunt glycemic response.",
+          "name_zh": "土豆 2 磅",
+          "image_url": "",
+          "product_url": ""
+        },
+        {
+          "product_id": "tomato1",
+          "slug": "",
+          "name": "Tomato 2 lb",
+          "price": "",
+          "unit_price": null,
+          "health_note": "Rich in lycopene, a powerful antioxidant for heart health. Cooking increases lycopene bioavailability. Low calorie, low GI.",
+          "name_zh": "番茄 2 磅",
+          "image_url": "",
+          "product_url": ""
+        },
+        {
+          "product_id": "pickled_mustard1",
+          "slug": "",
+          "name": "Pickled Mustard Greens (Suan Cai) 1 pack",
+          "price": "",
+          "unit_price": null,
+          "health_note": "Fermented vegetable with probiotics. ⚠️ HIGH SODIUM — rinse thoroughly before cooking. Use sparingly for hypertension.",
+          "name_zh": "酸菜 1 包",
+          "image_url": "",
+          "product_url": ""
         }
       ]
     },
@@ -861,6 +916,39 @@
           "name_zh": "真空罗非鱼鱼片 冷冻 2 磅",
           "image_url": "https://img06.weeecdn.com/product/image/941/327/4E0FC3B7821A0644.png",
           "product_url": "https://www.sayweee.com/zh/product/Skinless-Tilapia-Fillet-Individually-Vacuum-Packed-Frozen-1/44378"
+        },
+        {
+          "product_id": "grass_carp1",
+          "slug": "",
+          "name": "Grass Carp Whole Cleaned, Frozen 2 lb",
+          "price": "",
+          "unit_price": null,
+          "health_note": "Lean freshwater fish, very low in saturated fat. Good source of protein and omega-3. Common in Sichuan fish dishes.",
+          "name_zh": "草鱼 三清 冷冻 2 磅",
+          "image_url": "",
+          "product_url": ""
+        },
+        {
+          "product_id": "crucian_carp1",
+          "slug": "",
+          "name": "Crucian Carp Whole Cleaned, Frozen 1.5 lb",
+          "price": "",
+          "unit_price": null,
+          "health_note": "Small freshwater fish, very lean. Traditional for red-braised preparations. High protein, low fat.",
+          "name_zh": "鲫鱼 三清 冷冻 1.5 磅",
+          "image_url": "",
+          "product_url": ""
+        },
+        {
+          "product_id": "bighead_carp_head1",
+          "slug": "",
+          "name": "Bighead Carp Head, Frozen 2-3 lb",
+          "price": "",
+          "unit_price": null,
+          "health_note": "Fish head is rich in DHA/EPA omega-3 fatty acids and collagen. Very low in saturated fat. Traditional for steamed preparations.",
+          "name_zh": "胖头鱼头 冷冻 2-3 磅",
+          "image_url": "",
+          "product_url": ""
         }
       ]
     },
@@ -899,6 +987,28 @@
           "name_zh": "炖汤小老母鸡 冷冻 1.5-2.5 磅",
           "image_url": "https://img06.weeecdn.com/product/image/590/333/4C75BAEF212E8A59.png",
           "product_url": "https://www.sayweee.com/zh/product/The-Original-B-B-Stewing-Hen--Frozen-1/460"
+        },
+        {
+          "product_id": "pork_belly1",
+          "slug": "",
+          "name": "Pork Belly, Frozen 2 lb",
+          "price": "",
+          "unit_price": null,
+          "health_note": "⚠️ HIGH SATURATED FAT — significantly raises LDL cholesterol. ~14g saturated fat per 100g serving. Limit portions to 2-3 oz. Consider substituting with pork tenderloin for a leaner option.",
+          "name_zh": "五花肉 冷冻 2 磅",
+          "image_url": "",
+          "product_url": ""
+        },
+        {
+          "product_id": "pork_ribs1",
+          "slug": "",
+          "name": "Pork Ribs, Frozen 2 lb",
+          "price": "",
+          "unit_price": null,
+          "health_note": "⚠️ HIGH SATURATED FAT — contributes to LDL cholesterol. ~10g saturated fat per 100g. Trim visible fat and limit portions. Braising and discarding fat helps reduce intake.",
+          "name_zh": "排骨 冷冻 2 磅",
+          "image_url": "",
+          "product_url": ""
         }
       ]
     },
@@ -1605,6 +1715,72 @@
           "name_zh": "金梅 镇江香醋 550 毫升",
           "image_url": "https://img06.weeecdn.com/product/image/723/161/28AB838A93F1F8BF.jpeg",
           "product_url": "https://www.sayweee.com/zh/product/Gold-Plum-Chinkiang-Vinegar-regular-package-and-with-foam-box-package-randomly-shipping-/70806"
+        },
+        {
+          "product_id": "cooking_wine1",
+          "slug": "",
+          "name": "Shaoxing Cooking Wine 750 ml",
+          "price": "",
+          "unit_price": null,
+          "health_note": "Essential for Chinese cooking — removes gamey flavors from meat. Alcohol evaporates during cooking. Minimal health impact in cooking amounts.",
+          "name_zh": "绍兴料酒 750 毫升",
+          "image_url": "",
+          "product_url": ""
+        },
+        {
+          "product_id": "oyster_sauce1",
+          "slug": "",
+          "name": "Oyster Sauce 510 g",
+          "price": "",
+          "unit_price": null,
+          "health_note": "⚠️ HIGH SODIUM — ~490mg sodium per tablespoon. Adds umami depth. Use reduced amounts and compensate by reducing soy sauce in the same dish.",
+          "name_zh": "蚝油 510 克",
+          "image_url": "",
+          "product_url": ""
+        },
+        {
+          "product_id": "dark_soy_sauce1",
+          "slug": "",
+          "name": "Dark Soy Sauce 500 ml",
+          "price": "",
+          "unit_price": null,
+          "health_note": "⚠️ HIGH SODIUM — used for color more than flavor, so smaller amounts suffice. ~920mg sodium per tablespoon. Use sparingly alongside reduced-sodium light soy sauce.",
+          "name_zh": "老抽 500 毫升",
+          "image_url": "",
+          "product_url": ""
+        },
+        {
+          "product_id": "sichuan_pepper1",
+          "slug": "",
+          "name": "Sichuan Peppercorn 50 g",
+          "price": "",
+          "unit_price": null,
+          "health_note": "Zero sodium, zero calories. Contains hydroxy-alpha-sanshool with anti-inflammatory properties. Adds numbing heat without salt.",
+          "name_zh": "花椒 50 克",
+          "image_url": "",
+          "product_url": ""
+        },
+        {
+          "product_id": "doubanjiang1",
+          "slug": "",
+          "name": "Pixian Doubanjiang (Broad Bean Chili Paste) 500 g",
+          "price": "",
+          "unit_price": null,
+          "health_note": "⚠️ HIGH SODIUM — ~1100mg sodium per tablespoon. Fermented bean paste adds deep umami. Use measured amounts; reduce other salt/soy sauce when using this.",
+          "name_zh": "郫县豆瓣酱 500 克",
+          "image_url": "",
+          "product_url": ""
+        },
+        {
+          "product_id": "dried_chili1",
+          "slug": "",
+          "name": "Dried Red Chili Pepper 100 g",
+          "price": "",
+          "unit_price": null,
+          "health_note": "Capsaicin boosts metabolism and has anti-inflammatory properties. Zero sodium. May support cardiovascular health in moderate amounts.",
+          "name_zh": "干红辣椒 100 克",
+          "image_url": "",
+          "product_url": ""
         }
       ]
     }

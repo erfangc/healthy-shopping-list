@@ -22,19 +22,91 @@
       "difficulty": "普通",
       "ingredients": {
         "main": [
-          { "name_zh": "五花肉", "name_en": "pork belly", "amount": "500g" }
+          {
+            "name_zh": "五花肉",
+            "name_en": "pork belly",
+            "amount": "500g",
+            "grocery_match": null,
+            "missing_importance": "high"
+          }
         ],
         "seasonings": [
-          { "name_zh": "冰糖", "name_en": "rock sugar", "amount": "50g" },
-          { "name_zh": "花雕酒", "name_en": "Shaoxing wine", "amount": "1 bowl" },
-          { "name_zh": "生抽", "name_en": "light soy sauce", "amount": "50g" },
-          { "name_zh": "老抽", "name_en": "dark soy sauce", "amount": "20g" },
-          { "name_zh": "八角", "name_en": "star anise", "amount": "2 pieces" },
-          { "name_zh": "桂皮", "name_en": "cinnamon bark", "amount": "1 small piece" },
-          { "name_zh": "红曲米", "name_en": "red yeast rice", "amount": "10g" },
-          { "name_zh": "香葱", "name_en": "scallion", "amount": "1 bunch" },
-          { "name_zh": "葱", "name_en": "green onion", "amount": "to taste" },
-          { "name_zh": "姜", "name_en": "ginger", "amount": "to taste" }
+          {
+            "name_zh": "冰糖",
+            "name_en": "rock sugar",
+            "amount": "50g",
+            "grocery_match": null,
+            "missing_importance": "low"
+          },
+          {
+            "name_zh": "花雕酒",
+            "name_en": "Shaoxing wine",
+            "amount": "1 bowl",
+            "grocery_match": null,
+            "missing_importance": "high"
+          },
+          {
+            "name_zh": "生抽",
+            "name_en": "light soy sauce",
+            "amount": "50g",
+            "grocery_match": {
+              "product_id": "leekumkee_reduced",
+              "name": "Lee Kum Kee Sodium Reduced Seasoning Soy Sauce 16.9 g",
+              "category": "seasoning_healthy_picks"
+            }
+          },
+          {
+            "name_zh": "老抽",
+            "name_en": "dark soy sauce",
+            "amount": "20g",
+            "grocery_match": null,
+            "missing_importance": "high"
+          },
+          {
+            "name_zh": "八角",
+            "name_en": "star anise",
+            "amount": "2 pieces",
+            "grocery_match": null,
+            "missing_importance": "low"
+          },
+          {
+            "name_zh": "桂皮",
+            "name_en": "cinnamon bark",
+            "amount": "1 small piece",
+            "grocery_match": null,
+            "missing_importance": "low"
+          },
+          {
+            "name_zh": "红曲米",
+            "name_en": "red yeast rice",
+            "amount": "10g",
+            "grocery_match": null,
+            "missing_importance": "low"
+          },
+          {
+            "name_zh": "香葱",
+            "name_en": "scallion",
+            "amount": "1 bunch",
+            "grocery_match": null,
+            "missing_importance": "high"
+          },
+          {
+            "name_zh": "葱",
+            "name_en": "green onion",
+            "amount": "to taste",
+            "grocery_match": null,
+            "missing_importance": "high"
+          },
+          {
+            "name_zh": "姜",
+            "name_en": "ginger",
+            "amount": "to taste",
+            "grocery_match": {
+              "product_id": "94449",
+              "name": "Organic Fresh Ginger 8 oz",
+              "category": "vegetables"
+            }
+          }
         ]
       }
     },
@@ -52,18 +124,72 @@
       "difficulty": "高级",
       "ingredients": {
         "main": [
-          { "name_zh": "排骨", "name_en": "pork ribs", "amount": "500g" }
+          {
+            "name_zh": "排骨",
+            "name_en": "pork ribs",
+            "amount": "500g",
+            "grocery_match": null,
+            "missing_importance": "high"
+          }
         ],
         "auxiliary": [
-          { "name_zh": "姜", "name_en": "ginger", "amount": "1 piece" },
-          { "name_zh": "大葱", "name_en": "green onion", "amount": "1 stalk" }
+          {
+            "name_zh": "姜",
+            "name_en": "ginger",
+            "amount": "1 piece",
+            "grocery_match": {
+              "product_id": "94449",
+              "name": "Organic Fresh Ginger 8 oz",
+              "category": "vegetables"
+            }
+          },
+          {
+            "name_zh": "大葱",
+            "name_en": "green onion",
+            "amount": "1 stalk",
+            "grocery_match": null,
+            "missing_importance": "high"
+          }
         ],
         "seasonings": [
-          { "name_zh": "精盐", "name_en": "salt", "amount": "to taste" },
-          { "name_zh": "冰糖", "name_en": "rock sugar", "amount": "50g" },
-          { "name_zh": "陈醋", "name_en": "aged vinegar", "amount": "50g" },
-          { "name_zh": "料酒", "name_en": "cooking wine", "amount": "to taste" },
-          { "name_zh": "白砂糖", "name_en": "white sugar", "amount": "50g" }
+          {
+            "name_zh": "精盐",
+            "name_en": "salt",
+            "amount": "to taste",
+            "grocery_match": null,
+            "missing_importance": "low"
+          },
+          {
+            "name_zh": "冰糖",
+            "name_en": "rock sugar",
+            "amount": "50g",
+            "grocery_match": null,
+            "missing_importance": "low"
+          },
+          {
+            "name_zh": "陈醋",
+            "name_en": "aged vinegar",
+            "amount": "50g",
+            "grocery_match": {
+              "product_id": "hengshun1",
+              "name": "Hengshun Zhenjiang Vinegar 18.6 fl.oz",
+              "category": "seasoning_healthy_picks"
+            }
+          },
+          {
+            "name_zh": "料酒",
+            "name_en": "cooking wine",
+            "amount": "to taste",
+            "grocery_match": null,
+            "missing_importance": "high"
+          },
+          {
+            "name_zh": "白砂糖",
+            "name_en": "white sugar",
+            "amount": "50g",
+            "grocery_match": null,
+            "missing_importance": "low"
+          }
         ]
       }
     },
@@ -81,22 +207,103 @@
       "difficulty": "简单",
       "ingredients": {
         "main": [
-          { "name_zh": "鸡翅", "name_en": "chicken wings", "amount": "to taste" },
-          { "name_zh": "百事可乐", "name_en": "Pepsi Cola", "amount": "600ml" }
+          {
+            "name_zh": "鸡翅",
+            "name_en": "chicken wings",
+            "amount": "to taste",
+            "grocery_match": null,
+            "missing_importance": "med"
+          },
+          {
+            "name_zh": "百事可乐",
+            "name_en": "Pepsi Cola",
+            "amount": "600ml",
+            "grocery_match": null,
+            "missing_importance": "low"
+          }
         ],
         "auxiliary": [
-          { "name_zh": "葱", "name_en": "green onion", "amount": "to taste" },
-          { "name_zh": "姜", "name_en": "ginger", "amount": "to taste" },
-          { "name_zh": "白芝麻", "name_en": "white sesame seeds", "amount": "to taste" }
+          {
+            "name_zh": "葱",
+            "name_en": "green onion",
+            "amount": "to taste",
+            "grocery_match": null,
+            "missing_importance": "high"
+          },
+          {
+            "name_zh": "姜",
+            "name_en": "ginger",
+            "amount": "to taste",
+            "grocery_match": {
+              "product_id": "94449",
+              "name": "Organic Fresh Ginger 8 oz",
+              "category": "vegetables"
+            }
+          },
+          {
+            "name_zh": "白芝麻",
+            "name_en": "white sesame seeds",
+            "amount": "to taste",
+            "grocery_match": null,
+            "missing_importance": "low"
+          }
         ],
         "seasonings": [
-          { "name_zh": "油", "name_en": "cooking oil", "amount": "to taste" },
-          { "name_zh": "盐", "name_en": "salt", "amount": "to taste" },
-          { "name_zh": "冰糖", "name_en": "rock sugar", "amount": "to taste" },
-          { "name_zh": "酱油", "name_en": "soy sauce", "amount": "to taste" },
-          { "name_zh": "料酒", "name_en": "cooking wine", "amount": "to taste" },
-          { "name_zh": "老抽", "name_en": "dark soy sauce", "amount": "to taste" },
-          { "name_zh": "白酒", "name_en": "Chinese baijiu", "amount": "to taste" }
+          {
+            "name_zh": "油",
+            "name_en": "cooking oil",
+            "amount": "to taste",
+            "grocery_match": {
+              "product_id": "arowana1",
+              "name": "Arowana Brand Golden Ratio Vegetable Cooking Oil 900 ml",
+              "category": "seasoning_healthy_picks"
+            }
+          },
+          {
+            "name_zh": "盐",
+            "name_en": "salt",
+            "amount": "to taste",
+            "grocery_match": null,
+            "missing_importance": "low"
+          },
+          {
+            "name_zh": "冰糖",
+            "name_en": "rock sugar",
+            "amount": "to taste",
+            "grocery_match": null,
+            "missing_importance": "low"
+          },
+          {
+            "name_zh": "酱油",
+            "name_en": "soy sauce",
+            "amount": "to taste",
+            "grocery_match": {
+              "product_id": "leekumkee_reduced",
+              "name": "Lee Kum Kee Sodium Reduced Seasoning Soy Sauce 16.9 g",
+              "category": "seasoning_healthy_picks"
+            }
+          },
+          {
+            "name_zh": "料酒",
+            "name_en": "cooking wine",
+            "amount": "to taste",
+            "grocery_match": null,
+            "missing_importance": "high"
+          },
+          {
+            "name_zh": "老抽",
+            "name_en": "dark soy sauce",
+            "amount": "to taste",
+            "grocery_match": null,
+            "missing_importance": "high"
+          },
+          {
+            "name_zh": "白酒",
+            "name_en": "Chinese baijiu",
+            "amount": "to taste",
+            "grocery_match": null,
+            "missing_importance": "low"
+          }
         ]
       }
     },
@@ -114,25 +321,133 @@
       "difficulty": "普通",
       "ingredients": {
         "main": [
-          { "name_zh": "鸡胸肉", "name_en": "chicken breast", "amount": "1 piece" },
-          { "name_zh": "胡萝卜", "name_en": "carrot", "amount": "0.5" },
-          { "name_zh": "花生", "name_en": "peanuts", "amount": "1 handful" },
-          { "name_zh": "黄瓜", "name_en": "cucumber", "amount": "0.5" }
+          {
+            "name_zh": "鸡胸肉",
+            "name_en": "chicken breast",
+            "amount": "1 piece",
+            "grocery_match": {
+              "product_id": "37447",
+              "name": "Boneless & Skinless Chicken Thighs Frozen 1.5 lb",
+              "category": "meat_lean_options"
+            }
+          },
+          {
+            "name_zh": "胡萝卜",
+            "name_en": "carrot",
+            "amount": "0.5",
+            "grocery_match": {
+              "product_id": "88064",
+              "name": "Baby French Carrot 1 bunch",
+              "category": "vegetables"
+            }
+          },
+          {
+            "name_zh": "花生",
+            "name_en": "peanuts",
+            "amount": "1 handful",
+            "grocery_match": {
+              "product_id": "65145",
+              "name": "Shuang Li Dried Skin Peanuts 12 oz",
+              "category": "dry_goods"
+            }
+          },
+          {
+            "name_zh": "黄瓜",
+            "name_en": "cucumber",
+            "amount": "0.5",
+            "grocery_match": null,
+            "missing_importance": "med"
+          }
         ],
         "auxiliary": [
-          { "name_zh": "葱", "name_en": "green onion", "amount": "1 stalk" },
-          { "name_zh": "姜", "name_en": "ginger", "amount": "1 piece" },
-          { "name_zh": "蒜", "name_en": "garlic", "amount": "2 cloves" }
+          {
+            "name_zh": "葱",
+            "name_en": "green onion",
+            "amount": "1 stalk",
+            "grocery_match": null,
+            "missing_importance": "high"
+          },
+          {
+            "name_zh": "姜",
+            "name_en": "ginger",
+            "amount": "1 piece",
+            "grocery_match": {
+              "product_id": "94449",
+              "name": "Organic Fresh Ginger 8 oz",
+              "category": "vegetables"
+            }
+          },
+          {
+            "name_zh": "蒜",
+            "name_en": "garlic",
+            "amount": "2 cloves",
+            "grocery_match": null,
+            "missing_importance": "high"
+          }
         ],
         "seasonings": [
-          { "name_zh": "豆瓣酱", "name_en": "doubanjiang (broad bean paste)", "amount": "1-2 tbsp" },
-          { "name_zh": "盐", "name_en": "salt", "amount": "2g" },
-          { "name_zh": "糖", "name_en": "sugar", "amount": "3g" },
-          { "name_zh": "白胡椒粉", "name_en": "white pepper powder", "amount": "2g" },
-          { "name_zh": "鸡精", "name_en": "chicken bouillon", "amount": "1 tsp" },
-          { "name_zh": "生抽", "name_en": "light soy sauce", "amount": "2 tbsp" },
-          { "name_zh": "蚝油", "name_en": "oyster sauce", "amount": "1 tbsp" },
-          { "name_zh": "玉米淀粉", "name_en": "corn starch", "amount": "to taste" }
+          {
+            "name_zh": "豆瓣酱",
+            "name_en": "doubanjiang (broad bean paste)",
+            "amount": "1-2 tbsp",
+            "grocery_match": null,
+            "missing_importance": "high"
+          },
+          {
+            "name_zh": "盐",
+            "name_en": "salt",
+            "amount": "2g",
+            "grocery_match": null,
+            "missing_importance": "low"
+          },
+          {
+            "name_zh": "糖",
+            "name_en": "sugar",
+            "amount": "3g",
+            "grocery_match": null,
+            "missing_importance": "low"
+          },
+          {
+            "name_zh": "白胡椒粉",
+            "name_en": "white pepper powder",
+            "amount": "2g",
+            "grocery_match": {
+              "product_id": "whitepep1",
+              "name": "White Pepper Powder 32 g",
+              "category": "seasoning_healthy_picks"
+            }
+          },
+          {
+            "name_zh": "鸡精",
+            "name_en": "chicken bouillon",
+            "amount": "1 tsp",
+            "grocery_match": null,
+            "missing_importance": "low"
+          },
+          {
+            "name_zh": "生抽",
+            "name_en": "light soy sauce",
+            "amount": "2 tbsp",
+            "grocery_match": {
+              "product_id": "leekumkee_reduced",
+              "name": "Lee Kum Kee Sodium Reduced Seasoning Soy Sauce 16.9 g",
+              "category": "seasoning_healthy_picks"
+            }
+          },
+          {
+            "name_zh": "蚝油",
+            "name_en": "oyster sauce",
+            "amount": "1 tbsp",
+            "grocery_match": null,
+            "missing_importance": "high"
+          },
+          {
+            "name_zh": "玉米淀粉",
+            "name_en": "corn starch",
+            "amount": "to taste",
+            "grocery_match": null,
+            "missing_importance": "low"
+          }
         ]
       }
     },
@@ -150,29 +465,167 @@
       "difficulty": "普通",
       "ingredients": {
         "main": [
-          { "name_zh": "里脊肉", "name_en": "pork tenderloin", "amount": "400g" }
+          {
+            "name_zh": "里脊肉",
+            "name_en": "pork tenderloin",
+            "amount": "400g",
+            "grocery_match": {
+              "product_id": "105407",
+              "name": "Pork Tenderloin, Frozen 2-2.5 lb",
+              "category": "meat_lean_options"
+            }
+          }
         ],
         "auxiliary": [
-          { "name_zh": "胡萝卜", "name_en": "carrot", "amount": "half" },
-          { "name_zh": "绿彩椒", "name_en": "green bell pepper", "amount": "half" },
-          { "name_zh": "红彩椒", "name_en": "red bell pepper", "amount": "1/3" },
-          { "name_zh": "木耳", "name_en": "wood ear mushroom", "amount": "to taste" },
-          { "name_zh": "葱", "name_en": "green onion", "amount": "3 tbsp" },
-          { "name_zh": "生姜", "name_en": "ginger", "amount": "to taste" },
-          { "name_zh": "蛋清", "name_en": "egg white", "amount": "1" }
+          {
+            "name_zh": "胡萝卜",
+            "name_en": "carrot",
+            "amount": "half",
+            "grocery_match": {
+              "product_id": "88064",
+              "name": "Baby French Carrot 1 bunch",
+              "category": "vegetables"
+            }
+          },
+          {
+            "name_zh": "绿彩椒",
+            "name_en": "green bell pepper",
+            "amount": "half",
+            "grocery_match": null,
+            "missing_importance": "med"
+          },
+          {
+            "name_zh": "红彩椒",
+            "name_en": "red bell pepper",
+            "amount": "1/3",
+            "grocery_match": null,
+            "missing_importance": "med"
+          },
+          {
+            "name_zh": "木耳",
+            "name_en": "wood ear mushroom",
+            "amount": "to taste",
+            "grocery_match": {
+              "product_id": "97092",
+              "name": "Black Wood Ear Mushroom Fungus 6 oz",
+              "category": "vegetables"
+            }
+          },
+          {
+            "name_zh": "葱",
+            "name_en": "green onion",
+            "amount": "3 tbsp",
+            "grocery_match": null,
+            "missing_importance": "high"
+          },
+          {
+            "name_zh": "生姜",
+            "name_en": "ginger",
+            "amount": "to taste",
+            "grocery_match": {
+              "product_id": "94449",
+              "name": "Organic Fresh Ginger 8 oz",
+              "category": "vegetables"
+            }
+          },
+          {
+            "name_zh": "蛋清",
+            "name_en": "egg white",
+            "amount": "1",
+            "grocery_match": {
+              "product_id": "vitalfarms1",
+              "name": "Vital Farms Organic Pasture-Raised Eggs 18 ct",
+              "category": "dairy_and_eggs"
+            }
+          }
         ],
         "seasonings": [
-          { "name_zh": "盐", "name_en": "salt", "amount": "half tsp" },
-          { "name_zh": "生抽", "name_en": "light soy sauce", "amount": "1 tbsp" },
-          { "name_zh": "料酒", "name_en": "cooking wine", "amount": "to taste" },
-          { "name_zh": "蚝油", "name_en": "oyster sauce", "amount": "1 tbsp" },
-          { "name_zh": "香醋", "name_en": "Chinkiang vinegar", "amount": "1 tbsp" },
-          { "name_zh": "郫县豆瓣酱", "name_en": "Pixian doubanjiang", "amount": "1 tbsp" },
-          { "name_zh": "味精", "name_en": "MSG", "amount": "to taste" },
-          { "name_zh": "白糖", "name_en": "white sugar", "amount": "to taste" },
-          { "name_zh": "淀粉", "name_en": "starch", "amount": "to taste" },
-          { "name_zh": "清水", "name_en": "water", "amount": "to taste" },
-          { "name_zh": "花生油", "name_en": "peanut oil", "amount": "to taste" }
+          {
+            "name_zh": "盐",
+            "name_en": "salt",
+            "amount": "half tsp",
+            "grocery_match": null,
+            "missing_importance": "low"
+          },
+          {
+            "name_zh": "生抽",
+            "name_en": "light soy sauce",
+            "amount": "1 tbsp",
+            "grocery_match": {
+              "product_id": "leekumkee_reduced",
+              "name": "Lee Kum Kee Sodium Reduced Seasoning Soy Sauce 16.9 g",
+              "category": "seasoning_healthy_picks"
+            }
+          },
+          {
+            "name_zh": "料酒",
+            "name_en": "cooking wine",
+            "amount": "to taste",
+            "grocery_match": null,
+            "missing_importance": "high"
+          },
+          {
+            "name_zh": "蚝油",
+            "name_en": "oyster sauce",
+            "amount": "1 tbsp",
+            "grocery_match": null,
+            "missing_importance": "high"
+          },
+          {
+            "name_zh": "香醋",
+            "name_en": "Chinkiang vinegar",
+            "amount": "1 tbsp",
+            "grocery_match": {
+              "product_id": "goldplum1",
+              "name": "Gold-Plum Chinkiang Vinegar 550 ml",
+              "category": "seasoning_healthy_picks"
+            }
+          },
+          {
+            "name_zh": "郫县豆瓣酱",
+            "name_en": "Pixian doubanjiang",
+            "amount": "1 tbsp",
+            "grocery_match": null,
+            "missing_importance": "high"
+          },
+          {
+            "name_zh": "味精",
+            "name_en": "MSG",
+            "amount": "to taste",
+            "grocery_match": null,
+            "missing_importance": "low"
+          },
+          {
+            "name_zh": "白糖",
+            "name_en": "white sugar",
+            "amount": "to taste",
+            "grocery_match": null,
+            "missing_importance": "low"
+          },
+          {
+            "name_zh": "淀粉",
+            "name_en": "starch",
+            "amount": "to taste",
+            "grocery_match": null,
+            "missing_importance": "low"
+          },
+          {
+            "name_zh": "清水",
+            "name_en": "water",
+            "amount": "to taste",
+            "grocery_match": null,
+            "missing_importance": "low"
+          },
+          {
+            "name_zh": "花生油",
+            "name_en": "peanut oil",
+            "amount": "to taste",
+            "grocery_match": {
+              "product_id": "arowana1",
+              "name": "Arowana Brand Golden Ratio Vegetable Cooking Oil 900 ml",
+              "category": "seasoning_healthy_picks"
+            }
+          }
         ]
       }
     },
@@ -190,20 +643,98 @@
       "difficulty": "普通",
       "ingredients": {
         "main": [
-          { "name_zh": "嫩豆腐", "name_en": "soft tofu", "amount": "400g" },
-          { "name_zh": "牛肉末", "name_en": "ground beef", "amount": "100g" }
+          {
+            "name_zh": "嫩豆腐",
+            "name_en": "soft tofu",
+            "amount": "400g",
+            "grocery_match": {
+              "product_id": "9819",
+              "name": "Sansui Silken Tofu 454 g",
+              "category": "tofu_and_vegan"
+            }
+          },
+          {
+            "name_zh": "牛肉末",
+            "name_en": "ground beef",
+            "amount": "100g",
+            "grocery_match": null,
+            "missing_importance": "med"
+          }
         ],
         "auxiliary": [
-          { "name_zh": "郫县豆瓣", "name_en": "Pixian doubanjiang", "amount": "30g" },
-          { "name_zh": "料酒", "name_en": "cooking wine", "amount": "10g" },
-          { "name_zh": "酱油", "name_en": "soy sauce", "amount": "10g" },
-          { "name_zh": "葱姜蒜末", "name_en": "minced green onion, ginger & garlic", "amount": "to taste" },
-          { "name_zh": "豆豉", "name_en": "fermented black beans", "amount": "5g" },
-          { "name_zh": "辣椒面", "name_en": "chili flakes", "amount": "5g" },
-          { "name_zh": "糖", "name_en": "sugar", "amount": "5g" },
-          { "name_zh": "花椒", "name_en": "Sichuan peppercorn", "amount": "2g" },
-          { "name_zh": "蒜苗", "name_en": "garlic sprouts", "amount": "1 stalk" },
-          { "name_zh": "盐", "name_en": "salt", "amount": "to taste" }
+          {
+            "name_zh": "郫县豆瓣",
+            "name_en": "Pixian doubanjiang",
+            "amount": "30g",
+            "grocery_match": null,
+            "missing_importance": "high"
+          },
+          {
+            "name_zh": "料酒",
+            "name_en": "cooking wine",
+            "amount": "10g",
+            "grocery_match": null,
+            "missing_importance": "high"
+          },
+          {
+            "name_zh": "酱油",
+            "name_en": "soy sauce",
+            "amount": "10g",
+            "grocery_match": {
+              "product_id": "leekumkee_reduced",
+              "name": "Lee Kum Kee Sodium Reduced Seasoning Soy Sauce 16.9 g",
+              "category": "seasoning_healthy_picks"
+            }
+          },
+          {
+            "name_zh": "葱姜蒜末",
+            "name_en": "minced green onion, ginger & garlic",
+            "amount": "to taste",
+            "grocery_match": null,
+            "missing_importance": "med"
+          },
+          {
+            "name_zh": "豆豉",
+            "name_en": "fermented black beans",
+            "amount": "5g",
+            "grocery_match": null,
+            "missing_importance": "low"
+          },
+          {
+            "name_zh": "辣椒面",
+            "name_en": "chili flakes",
+            "amount": "5g",
+            "grocery_match": null,
+            "missing_importance": "low"
+          },
+          {
+            "name_zh": "糖",
+            "name_en": "sugar",
+            "amount": "5g",
+            "grocery_match": null,
+            "missing_importance": "low"
+          },
+          {
+            "name_zh": "花椒",
+            "name_en": "Sichuan peppercorn",
+            "amount": "2g",
+            "grocery_match": null,
+            "missing_importance": "high"
+          },
+          {
+            "name_zh": "蒜苗",
+            "name_en": "garlic sprouts",
+            "amount": "1 stalk",
+            "grocery_match": null,
+            "missing_importance": "med"
+          },
+          {
+            "name_zh": "盐",
+            "name_en": "salt",
+            "amount": "to taste",
+            "grocery_match": null,
+            "missing_importance": "low"
+          }
         ]
       }
     },
@@ -221,12 +752,39 @@
       "difficulty": "简单",
       "ingredients": {
         "main": [
-          { "name_zh": "鸡蛋", "name_en": "eggs", "amount": "3" },
-          { "name_zh": "番茄", "name_en": "tomato", "amount": "2" }
+          {
+            "name_zh": "鸡蛋",
+            "name_en": "eggs",
+            "amount": "3",
+            "grocery_match": {
+              "product_id": "vitalfarms1",
+              "name": "Vital Farms Organic Pasture-Raised Eggs 18 ct",
+              "category": "dairy_and_eggs"
+            }
+          },
+          {
+            "name_zh": "番茄",
+            "name_en": "tomato",
+            "amount": "2",
+            "grocery_match": null,
+            "missing_importance": "high"
+          }
         ],
         "auxiliary": [
-          { "name_zh": "盐", "name_en": "salt", "amount": "a pinch" },
-          { "name_zh": "糖", "name_en": "sugar", "amount": "to taste" }
+          {
+            "name_zh": "盐",
+            "name_en": "salt",
+            "amount": "a pinch",
+            "grocery_match": null,
+            "missing_importance": "low"
+          },
+          {
+            "name_zh": "糖",
+            "name_en": "sugar",
+            "amount": "to taste",
+            "grocery_match": null,
+            "missing_importance": "low"
+          }
         ]
       }
     },
@@ -244,15 +802,60 @@
       "difficulty": "简单",
       "ingredients": {
         "main": [
-          { "name_zh": "土豆", "name_en": "potato", "amount": "1" }
+          {
+            "name_zh": "土豆",
+            "name_en": "potato",
+            "amount": "1",
+            "grocery_match": null,
+            "missing_importance": "high"
+          }
         ],
         "auxiliary": [
-          { "name_zh": "葱", "name_en": "green onion", "amount": "a little" },
-          { "name_zh": "干辣椒", "name_en": "dried chili pepper", "amount": "1" },
-          { "name_zh": "花椒", "name_en": "Sichuan peppercorn", "amount": "a little" },
-          { "name_zh": "蒜头", "name_en": "garlic", "amount": "2 cloves" },
-          { "name_zh": "醋", "name_en": "vinegar", "amount": "1 tbsp" },
-          { "name_zh": "白糖", "name_en": "white sugar", "amount": "1 tbsp" }
+          {
+            "name_zh": "葱",
+            "name_en": "green onion",
+            "amount": "a little",
+            "grocery_match": null,
+            "missing_importance": "high"
+          },
+          {
+            "name_zh": "干辣椒",
+            "name_en": "dried chili pepper",
+            "amount": "1",
+            "grocery_match": null,
+            "missing_importance": "high"
+          },
+          {
+            "name_zh": "花椒",
+            "name_en": "Sichuan peppercorn",
+            "amount": "a little",
+            "grocery_match": null,
+            "missing_importance": "high"
+          },
+          {
+            "name_zh": "蒜头",
+            "name_en": "garlic",
+            "amount": "2 cloves",
+            "grocery_match": null,
+            "missing_importance": "high"
+          },
+          {
+            "name_zh": "醋",
+            "name_en": "vinegar",
+            "amount": "1 tbsp",
+            "grocery_match": {
+              "product_id": "hengshun1",
+              "name": "Hengshun Zhenjiang Vinegar 18.6 fl.oz",
+              "category": "seasoning_healthy_picks"
+            }
+          },
+          {
+            "name_zh": "白糖",
+            "name_en": "white sugar",
+            "amount": "1 tbsp",
+            "grocery_match": null,
+            "missing_importance": "low"
+          }
         ]
       }
     },
@@ -270,23 +873,119 @@
       "difficulty": "普通",
       "ingredients": {
         "main": [
-          { "name_zh": "五花肉", "name_en": "pork belly", "amount": "to taste" }
+          {
+            "name_zh": "五花肉",
+            "name_en": "pork belly",
+            "amount": "to taste",
+            "grocery_match": null,
+            "missing_importance": "high"
+          }
         ],
         "auxiliary": [
-          { "name_zh": "青椒", "name_en": "green pepper", "amount": "to taste" },
-          { "name_zh": "豆瓣酱", "name_en": "doubanjiang (broad bean paste)", "amount": "to taste" },
-          { "name_zh": "花椒", "name_en": "Sichuan peppercorn", "amount": "to taste" },
-          { "name_zh": "料酒", "name_en": "cooking wine", "amount": "to taste" },
-          { "name_zh": "味精", "name_en": "MSG", "amount": "to taste" },
-          { "name_zh": "蒜苗", "name_en": "garlic sprouts", "amount": "to taste" },
-          { "name_zh": "葱", "name_en": "green onion", "amount": "to taste" },
-          { "name_zh": "姜", "name_en": "ginger", "amount": "to taste" },
-          { "name_zh": "蒜", "name_en": "garlic", "amount": "to taste" },
-          { "name_zh": "老抽", "name_en": "dark soy sauce", "amount": "to taste" },
-          { "name_zh": "白糖", "name_en": "white sugar", "amount": "to taste" },
-          { "name_zh": "盐", "name_en": "salt", "amount": "to taste" },
-          { "name_zh": "油", "name_en": "cooking oil", "amount": "to taste" },
-          { "name_zh": "红椒", "name_en": "red pepper", "amount": "to taste" }
+          {
+            "name_zh": "青椒",
+            "name_en": "green pepper",
+            "amount": "to taste",
+            "grocery_match": null,
+            "missing_importance": "med"
+          },
+          {
+            "name_zh": "豆瓣酱",
+            "name_en": "doubanjiang (broad bean paste)",
+            "amount": "to taste",
+            "grocery_match": null,
+            "missing_importance": "high"
+          },
+          {
+            "name_zh": "花椒",
+            "name_en": "Sichuan peppercorn",
+            "amount": "to taste",
+            "grocery_match": null,
+            "missing_importance": "high"
+          },
+          {
+            "name_zh": "料酒",
+            "name_en": "cooking wine",
+            "amount": "to taste",
+            "grocery_match": null,
+            "missing_importance": "high"
+          },
+          {
+            "name_zh": "味精",
+            "name_en": "MSG",
+            "amount": "to taste",
+            "grocery_match": null,
+            "missing_importance": "low"
+          },
+          {
+            "name_zh": "蒜苗",
+            "name_en": "garlic sprouts",
+            "amount": "to taste",
+            "grocery_match": null,
+            "missing_importance": "med"
+          },
+          {
+            "name_zh": "葱",
+            "name_en": "green onion",
+            "amount": "to taste",
+            "grocery_match": null,
+            "missing_importance": "high"
+          },
+          {
+            "name_zh": "姜",
+            "name_en": "ginger",
+            "amount": "to taste",
+            "grocery_match": {
+              "product_id": "94449",
+              "name": "Organic Fresh Ginger 8 oz",
+              "category": "vegetables"
+            }
+          },
+          {
+            "name_zh": "蒜",
+            "name_en": "garlic",
+            "amount": "to taste",
+            "grocery_match": null,
+            "missing_importance": "high"
+          },
+          {
+            "name_zh": "老抽",
+            "name_en": "dark soy sauce",
+            "amount": "to taste",
+            "grocery_match": null,
+            "missing_importance": "high"
+          },
+          {
+            "name_zh": "白糖",
+            "name_en": "white sugar",
+            "amount": "to taste",
+            "grocery_match": null,
+            "missing_importance": "low"
+          },
+          {
+            "name_zh": "盐",
+            "name_en": "salt",
+            "amount": "to taste",
+            "grocery_match": null,
+            "missing_importance": "low"
+          },
+          {
+            "name_zh": "油",
+            "name_en": "cooking oil",
+            "amount": "to taste",
+            "grocery_match": {
+              "product_id": "arowana1",
+              "name": "Arowana Brand Golden Ratio Vegetable Cooking Oil 900 ml",
+              "category": "seasoning_healthy_picks"
+            }
+          },
+          {
+            "name_zh": "红椒",
+            "name_en": "red pepper",
+            "amount": "to taste",
+            "grocery_match": null,
+            "missing_importance": "med"
+          }
         ]
       }
     },
@@ -304,25 +1003,154 @@
       "difficulty": "简单",
       "ingredients": {
         "main": [
-          { "name_zh": "冰鲜青花椒", "name_en": "fresh green Sichuan peppercorn", "amount": "to taste" },
-          { "name_zh": "黑鱼片", "name_en": "snakehead fish fillet", "amount": "to taste" },
-          { "name_zh": "金针菇", "name_en": "enoki mushroom", "amount": "to taste" },
-          { "name_zh": "黄豆芽", "name_en": "soybean sprouts", "amount": "to taste" },
-          { "name_zh": "莴笋", "name_en": "lettuce stem (celtuce)", "amount": "to taste" },
-          { "name_zh": "千张", "name_en": "tofu skin sheets", "amount": "1 sheet" }
+          {
+            "name_zh": "冰鲜青花椒",
+            "name_en": "fresh green Sichuan peppercorn",
+            "amount": "to taste",
+            "grocery_match": null,
+            "missing_importance": "med"
+          },
+          {
+            "name_zh": "黑鱼片",
+            "name_en": "snakehead fish fillet",
+            "amount": "to taste",
+            "grocery_match": {
+              "product_id": "51248",
+              "name": "Evergreen Food Snakehead Fish Slices Frozen 250 g",
+              "category": "seafood"
+            }
+          },
+          {
+            "name_zh": "金针菇",
+            "name_en": "enoki mushroom",
+            "amount": "to taste",
+            "grocery_match": {
+              "product_id": "38441",
+              "name": "Enoki Mushrooms 200 g",
+              "category": "vegetables"
+            }
+          },
+          {
+            "name_zh": "黄豆芽",
+            "name_en": "soybean sprouts",
+            "amount": "to taste",
+            "grocery_match": {
+              "product_id": "97338",
+              "name": "Soy Bean Sprouts 1 lb",
+              "category": "vegetables"
+            }
+          },
+          {
+            "name_zh": "莴笋",
+            "name_en": "lettuce stem (celtuce)",
+            "amount": "to taste",
+            "grocery_match": {
+              "product_id": "95272",
+              "name": "A Choy Sum 2.3-2.6 lb",
+              "category": "vegetables"
+            }
+          },
+          {
+            "name_zh": "千张",
+            "name_en": "tofu skin sheets",
+            "amount": "1 sheet",
+            "grocery_match": {
+              "product_id": "49005",
+              "name": "Watson Dried Tofu Sheets 250 g",
+              "category": "tofu_and_vegan"
+            }
+          }
         ],
         "auxiliary": [
-          { "name_zh": "葱", "name_en": "green onion", "amount": "to taste" },
-          { "name_zh": "花椒", "name_en": "Sichuan peppercorn", "amount": "to taste" },
-          { "name_zh": "辣椒", "name_en": "chili pepper", "amount": "to taste" },
-          { "name_zh": "小米椒", "name_en": "bird's eye chili", "amount": "to taste" },
-          { "name_zh": "山茶油", "name_en": "camellia oil", "amount": "to taste" },
-          { "name_zh": "郫县豆瓣酱", "name_en": "Pixian doubanjiang", "amount": "to taste" },
-          { "name_zh": "火锅底料", "name_en": "hotpot base", "amount": "to taste" },
-          { "name_zh": "盐", "name_en": "salt", "amount": "to taste" },
-          { "name_zh": "生抽", "name_en": "light soy sauce", "amount": "to taste" },
-          { "name_zh": "鸡精", "name_en": "chicken bouillon", "amount": "optional" },
-          { "name_zh": "姜", "name_en": "ginger", "amount": "to taste" }
+          {
+            "name_zh": "葱",
+            "name_en": "green onion",
+            "amount": "to taste",
+            "grocery_match": null,
+            "missing_importance": "high"
+          },
+          {
+            "name_zh": "花椒",
+            "name_en": "Sichuan peppercorn",
+            "amount": "to taste",
+            "grocery_match": null,
+            "missing_importance": "high"
+          },
+          {
+            "name_zh": "辣椒",
+            "name_en": "chili pepper",
+            "amount": "to taste",
+            "grocery_match": null,
+            "missing_importance": "med"
+          },
+          {
+            "name_zh": "小米椒",
+            "name_en": "bird's eye chili",
+            "amount": "to taste",
+            "grocery_match": null,
+            "missing_importance": "med"
+          },
+          {
+            "name_zh": "山茶油",
+            "name_en": "camellia oil",
+            "amount": "to taste",
+            "grocery_match": {
+              "product_id": "arowana1",
+              "name": "Arowana Brand Golden Ratio Vegetable Cooking Oil 900 ml",
+              "category": "seasoning_healthy_picks"
+            }
+          },
+          {
+            "name_zh": "郫县豆瓣酱",
+            "name_en": "Pixian doubanjiang",
+            "amount": "to taste",
+            "grocery_match": null,
+            "missing_importance": "high"
+          },
+          {
+            "name_zh": "火锅底料",
+            "name_en": "hotpot base",
+            "amount": "to taste",
+            "grocery_match": {
+              "product_id": "haidilao_mushroom",
+              "name": "Haidilao Hot Pot Mushroom Soup Base 150 g",
+              "category": "seasoning_healthy_picks"
+            }
+          },
+          {
+            "name_zh": "盐",
+            "name_en": "salt",
+            "amount": "to taste",
+            "grocery_match": null,
+            "missing_importance": "low"
+          },
+          {
+            "name_zh": "生抽",
+            "name_en": "light soy sauce",
+            "amount": "to taste",
+            "grocery_match": {
+              "product_id": "leekumkee_reduced",
+              "name": "Lee Kum Kee Sodium Reduced Seasoning Soy Sauce 16.9 g",
+              "category": "seasoning_healthy_picks"
+            }
+          },
+          {
+            "name_zh": "鸡精",
+            "name_en": "chicken bouillon",
+            "amount": "optional",
+            "grocery_match": null,
+            "missing_importance": "low"
+          },
+          {
+            "name_zh": "姜",
+            "name_en": "ginger",
+            "amount": "to taste",
+            "grocery_match": {
+              "product_id": "94449",
+              "name": "Organic Fresh Ginger 8 oz",
+              "category": "vegetables"
+            }
+          }
         ]
       }
     },
@@ -340,19 +1168,88 @@
       "difficulty": "普通",
       "ingredients": {
         "main": [
-          { "name_zh": "圆茄子", "name_en": "round eggplant", "amount": "1" },
-          { "name_zh": "西红柿", "name_en": "tomato", "amount": "1" },
-          { "name_zh": "青椒", "name_en": "green pepper", "amount": "half" },
-          { "name_zh": "红柿子椒", "name_en": "red bell pepper", "amount": "half" }
+          {
+            "name_zh": "圆茄子",
+            "name_en": "round eggplant",
+            "amount": "1",
+            "grocery_match": null,
+            "missing_importance": "med"
+          },
+          {
+            "name_zh": "西红柿",
+            "name_en": "tomato",
+            "amount": "1",
+            "grocery_match": null,
+            "missing_importance": "high"
+          },
+          {
+            "name_zh": "青椒",
+            "name_en": "green pepper",
+            "amount": "half",
+            "grocery_match": null,
+            "missing_importance": "med"
+          },
+          {
+            "name_zh": "红柿子椒",
+            "name_en": "red bell pepper",
+            "amount": "half",
+            "grocery_match": null,
+            "missing_importance": "med"
+          }
         ],
         "auxiliary": [
-          { "name_zh": "大蒜", "name_en": "garlic", "amount": "4 cloves" },
-          { "name_zh": "番茄酱", "name_en": "ketchup / tomato paste", "amount": "20g" },
-          { "name_zh": "白砂糖", "name_en": "white sugar", "amount": "15g" },
-          { "name_zh": "红烧酱油", "name_en": "braising soy sauce (or dark soy sauce)", "amount": "10ml" },
-          { "name_zh": "玉米淀粉", "name_en": "corn starch", "amount": "to taste" },
-          { "name_zh": "盐", "name_en": "salt", "amount": "to taste" },
-          { "name_zh": "食用油", "name_en": "cooking oil", "amount": "to taste" }
+          {
+            "name_zh": "大蒜",
+            "name_en": "garlic",
+            "amount": "4 cloves",
+            "grocery_match": null,
+            "missing_importance": "high"
+          },
+          {
+            "name_zh": "番茄酱",
+            "name_en": "ketchup / tomato paste",
+            "amount": "20g",
+            "grocery_match": null,
+            "missing_importance": "med"
+          },
+          {
+            "name_zh": "白砂糖",
+            "name_en": "white sugar",
+            "amount": "15g",
+            "grocery_match": null,
+            "missing_importance": "low"
+          },
+          {
+            "name_zh": "红烧酱油",
+            "name_en": "braising soy sauce (or dark soy sauce)",
+            "amount": "10ml",
+            "grocery_match": null,
+            "missing_importance": "med"
+          },
+          {
+            "name_zh": "玉米淀粉",
+            "name_en": "corn starch",
+            "amount": "to taste",
+            "grocery_match": null,
+            "missing_importance": "low"
+          },
+          {
+            "name_zh": "盐",
+            "name_en": "salt",
+            "amount": "to taste",
+            "grocery_match": null,
+            "missing_importance": "low"
+          },
+          {
+            "name_zh": "食用油",
+            "name_en": "cooking oil",
+            "amount": "to taste",
+            "grocery_match": {
+              "product_id": "arowana1",
+              "name": "Arowana Brand Golden Ratio Vegetable Cooking Oil 900 ml",
+              "category": "seasoning_healthy_picks"
+            }
+          }
         ]
       }
     },
@@ -370,19 +1267,97 @@
       "difficulty": "简单",
       "ingredients": {
         "main": [
-          { "name_zh": "里脊肉", "name_en": "pork tenderloin", "amount": "300g" }
+          {
+            "name_zh": "里脊肉",
+            "name_en": "pork tenderloin",
+            "amount": "300g",
+            "grocery_match": {
+              "product_id": "105407",
+              "name": "Pork Tenderloin, Frozen 2-2.5 lb",
+              "category": "meat_lean_options"
+            }
+          }
         ],
         "auxiliary": [
-          { "name_zh": "小葱", "name_en": "small scallion", "amount": "2 stalks" },
-          { "name_zh": "生姜", "name_en": "ginger", "amount": "2-3 slices" },
-          { "name_zh": "大蒜", "name_en": "garlic", "amount": "3 cloves" },
-          { "name_zh": "香醋", "name_en": "Chinkiang vinegar", "amount": "to taste" },
-          { "name_zh": "白砂糖", "name_en": "white sugar", "amount": "to taste" },
-          { "name_zh": "生抽", "name_en": "light soy sauce", "amount": "to taste" },
-          { "name_zh": "番茄酱", "name_en": "ketchup / tomato paste", "amount": "to taste" },
-          { "name_zh": "盐", "name_en": "salt", "amount": "to taste" },
-          { "name_zh": "玉米淀粉", "name_en": "corn starch", "amount": "to taste" },
-          { "name_zh": "熟白芝麻", "name_en": "roasted white sesame seeds", "amount": "to taste" }
+          {
+            "name_zh": "小葱",
+            "name_en": "small scallion",
+            "amount": "2 stalks",
+            "grocery_match": null,
+            "missing_importance": "high"
+          },
+          {
+            "name_zh": "生姜",
+            "name_en": "ginger",
+            "amount": "2-3 slices",
+            "grocery_match": {
+              "product_id": "94449",
+              "name": "Organic Fresh Ginger 8 oz",
+              "category": "vegetables"
+            }
+          },
+          {
+            "name_zh": "大蒜",
+            "name_en": "garlic",
+            "amount": "3 cloves",
+            "grocery_match": null,
+            "missing_importance": "high"
+          },
+          {
+            "name_zh": "香醋",
+            "name_en": "Chinkiang vinegar",
+            "amount": "to taste",
+            "grocery_match": {
+              "product_id": "goldplum1",
+              "name": "Gold-Plum Chinkiang Vinegar 550 ml",
+              "category": "seasoning_healthy_picks"
+            }
+          },
+          {
+            "name_zh": "白砂糖",
+            "name_en": "white sugar",
+            "amount": "to taste",
+            "grocery_match": null,
+            "missing_importance": "low"
+          },
+          {
+            "name_zh": "生抽",
+            "name_en": "light soy sauce",
+            "amount": "to taste",
+            "grocery_match": {
+              "product_id": "leekumkee_reduced",
+              "name": "Lee Kum Kee Sodium Reduced Seasoning Soy Sauce 16.9 g",
+              "category": "seasoning_healthy_picks"
+            }
+          },
+          {
+            "name_zh": "番茄酱",
+            "name_en": "ketchup / tomato paste",
+            "amount": "to taste",
+            "grocery_match": null,
+            "missing_importance": "med"
+          },
+          {
+            "name_zh": "盐",
+            "name_en": "salt",
+            "amount": "to taste",
+            "grocery_match": null,
+            "missing_importance": "low"
+          },
+          {
+            "name_zh": "玉米淀粉",
+            "name_en": "corn starch",
+            "amount": "to taste",
+            "grocery_match": null,
+            "missing_importance": "low"
+          },
+          {
+            "name_zh": "熟白芝麻",
+            "name_en": "roasted white sesame seeds",
+            "amount": "to taste",
+            "grocery_match": null,
+            "missing_importance": "low"
+          }
         ]
       }
     },
@@ -400,20 +1375,98 @@
       "difficulty": "普通",
       "ingredients": {
         "main": [
-          { "name_zh": "鱼", "name_en": "fish (grass carp)", "amount": "1 whole" },
-          { "name_zh": "酸菜", "name_en": "pickled mustard greens", "amount": "1 handful" },
-          { "name_zh": "菜籽油", "name_en": "rapeseed oil", "amount": "1 bowl" }
+          {
+            "name_zh": "鱼",
+            "name_en": "fish (grass carp)",
+            "amount": "1 whole",
+            "grocery_match": null,
+            "missing_importance": "high"
+          },
+          {
+            "name_zh": "酸菜",
+            "name_en": "pickled mustard greens",
+            "amount": "1 handful",
+            "grocery_match": null,
+            "missing_importance": "high"
+          },
+          {
+            "name_zh": "菜籽油",
+            "name_en": "rapeseed oil",
+            "amount": "1 bowl",
+            "grocery_match": {
+              "product_id": "arowana1",
+              "name": "Arowana Brand Golden Ratio Vegetable Cooking Oil 900 ml",
+              "category": "seasoning_healthy_picks"
+            }
+          }
         ],
         "auxiliary": [
-          { "name_zh": "泡姜", "name_en": "pickled ginger", "amount": "to taste" },
-          { "name_zh": "泡辣椒", "name_en": "pickled chili pepper", "amount": "to taste" },
-          { "name_zh": "葱", "name_en": "green onion", "amount": "3 stalks" },
-          { "name_zh": "胡椒粉", "name_en": "pepper powder", "amount": "1 tsp" },
-          { "name_zh": "干花椒粒", "name_en": "dried Sichuan peppercorn", "amount": "1 small handful" },
-          { "name_zh": "干辣椒", "name_en": "dried chili pepper", "amount": "1 small handful" },
-          { "name_zh": "大蒜", "name_en": "garlic", "amount": "to taste" },
-          { "name_zh": "水淀粉", "name_en": "starch water slurry", "amount": "half bowl" },
-          { "name_zh": "白酒", "name_en": "Chinese baijiu", "amount": "2 tbsp" }
+          {
+            "name_zh": "泡姜",
+            "name_en": "pickled ginger",
+            "amount": "to taste",
+            "grocery_match": null,
+            "missing_importance": "low"
+          },
+          {
+            "name_zh": "泡辣椒",
+            "name_en": "pickled chili pepper",
+            "amount": "to taste",
+            "grocery_match": null,
+            "missing_importance": "low"
+          },
+          {
+            "name_zh": "葱",
+            "name_en": "green onion",
+            "amount": "3 stalks",
+            "grocery_match": null,
+            "missing_importance": "high"
+          },
+          {
+            "name_zh": "胡椒粉",
+            "name_en": "pepper powder",
+            "amount": "1 tsp",
+            "grocery_match": {
+              "product_id": "whitepep1",
+              "name": "White Pepper Powder 32 g",
+              "category": "seasoning_healthy_picks"
+            }
+          },
+          {
+            "name_zh": "干花椒粒",
+            "name_en": "dried Sichuan peppercorn",
+            "amount": "1 small handful",
+            "grocery_match": null,
+            "missing_importance": "high"
+          },
+          {
+            "name_zh": "干辣椒",
+            "name_en": "dried chili pepper",
+            "amount": "1 small handful",
+            "grocery_match": null,
+            "missing_importance": "high"
+          },
+          {
+            "name_zh": "大蒜",
+            "name_en": "garlic",
+            "amount": "to taste",
+            "grocery_match": null,
+            "missing_importance": "high"
+          },
+          {
+            "name_zh": "水淀粉",
+            "name_en": "starch water slurry",
+            "amount": "half bowl",
+            "grocery_match": null,
+            "missing_importance": "low"
+          },
+          {
+            "name_zh": "白酒",
+            "name_en": "Chinese baijiu",
+            "amount": "2 tbsp",
+            "grocery_match": null,
+            "missing_importance": "low"
+          }
         ]
       }
     },
@@ -431,21 +1484,117 @@
       "difficulty": "神级",
       "ingredients": {
         "main": [
-          { "name_zh": "猪里脊肉", "name_en": "pork tenderloin", "amount": "200g" }
+          {
+            "name_zh": "猪里脊肉",
+            "name_en": "pork tenderloin",
+            "amount": "200g",
+            "grocery_match": {
+              "product_id": "105407",
+              "name": "Pork Tenderloin, Frozen 2-2.5 lb",
+              "category": "meat_lean_options"
+            }
+          }
         ],
         "auxiliary": [
-          { "name_zh": "生抽", "name_en": "light soy sauce", "amount": "to taste" },
-          { "name_zh": "白糖", "name_en": "white sugar", "amount": "half tsp" },
-          { "name_zh": "胡萝卜", "name_en": "carrot", "amount": "1/4" },
-          { "name_zh": "大蒜", "name_en": "garlic", "amount": "4 cloves" },
-          { "name_zh": "生姜", "name_en": "ginger", "amount": "1 small piece" },
-          { "name_zh": "香葱", "name_en": "scallion", "amount": "1 stalk" },
-          { "name_zh": "花生油", "name_en": "peanut oil", "amount": "to taste" },
-          { "name_zh": "清水", "name_en": "water", "amount": "to taste" },
-          { "name_zh": "玉米淀粉", "name_en": "corn starch", "amount": "to taste" },
-          { "name_zh": "白醋", "name_en": "white vinegar", "amount": "to taste" },
-          { "name_zh": "蚝油", "name_en": "oyster sauce", "amount": "to taste" },
-          { "name_zh": "盐", "name_en": "salt", "amount": "to taste" }
+          {
+            "name_zh": "生抽",
+            "name_en": "light soy sauce",
+            "amount": "to taste",
+            "grocery_match": {
+              "product_id": "leekumkee_reduced",
+              "name": "Lee Kum Kee Sodium Reduced Seasoning Soy Sauce 16.9 g",
+              "category": "seasoning_healthy_picks"
+            }
+          },
+          {
+            "name_zh": "白糖",
+            "name_en": "white sugar",
+            "amount": "half tsp",
+            "grocery_match": null,
+            "missing_importance": "low"
+          },
+          {
+            "name_zh": "胡萝卜",
+            "name_en": "carrot",
+            "amount": "1/4",
+            "grocery_match": {
+              "product_id": "88064",
+              "name": "Baby French Carrot 1 bunch",
+              "category": "vegetables"
+            }
+          },
+          {
+            "name_zh": "大蒜",
+            "name_en": "garlic",
+            "amount": "4 cloves",
+            "grocery_match": null,
+            "missing_importance": "high"
+          },
+          {
+            "name_zh": "生姜",
+            "name_en": "ginger",
+            "amount": "1 small piece",
+            "grocery_match": {
+              "product_id": "94449",
+              "name": "Organic Fresh Ginger 8 oz",
+              "category": "vegetables"
+            }
+          },
+          {
+            "name_zh": "香葱",
+            "name_en": "scallion",
+            "amount": "1 stalk",
+            "grocery_match": null,
+            "missing_importance": "high"
+          },
+          {
+            "name_zh": "花生油",
+            "name_en": "peanut oil",
+            "amount": "to taste",
+            "grocery_match": {
+              "product_id": "arowana1",
+              "name": "Arowana Brand Golden Ratio Vegetable Cooking Oil 900 ml",
+              "category": "seasoning_healthy_picks"
+            }
+          },
+          {
+            "name_zh": "清水",
+            "name_en": "water",
+            "amount": "to taste",
+            "grocery_match": null,
+            "missing_importance": "low"
+          },
+          {
+            "name_zh": "玉米淀粉",
+            "name_en": "corn starch",
+            "amount": "to taste",
+            "grocery_match": null,
+            "missing_importance": "low"
+          },
+          {
+            "name_zh": "白醋",
+            "name_en": "white vinegar",
+            "amount": "to taste",
+            "grocery_match": {
+              "product_id": "kongyen1",
+              "name": "Kong Yen Rice Vinegar 20.2 fl.oz",
+              "category": "seasoning_healthy_picks"
+            }
+          },
+          {
+            "name_zh": "蚝油",
+            "name_en": "oyster sauce",
+            "amount": "to taste",
+            "grocery_match": null,
+            "missing_importance": "high"
+          },
+          {
+            "name_zh": "盐",
+            "name_en": "salt",
+            "amount": "to taste",
+            "grocery_match": null,
+            "missing_importance": "low"
+          }
         ]
       }
     },
@@ -463,15 +1612,51 @@
       "difficulty": "普通",
       "ingredients": {
         "main": [
-          { "name_zh": "隔夜米饭", "name_en": "day-old steamed rice", "amount": "1 bowl" },
-          { "name_zh": "鸡蛋", "name_en": "eggs", "amount": "3" }
+          {
+            "name_zh": "隔夜米饭",
+            "name_en": "day-old steamed rice",
+            "amount": "1 bowl",
+            "grocery_match": {
+              "product_id": "87333",
+              "name": "Kokuho Calrose Rice California Premium 15 lb",
+              "category": "dry_goods"
+            }
+          },
+          {
+            "name_zh": "鸡蛋",
+            "name_en": "eggs",
+            "amount": "3",
+            "grocery_match": {
+              "product_id": "vitalfarms1",
+              "name": "Vital Farms Organic Pasture-Raised Eggs 18 ct",
+              "category": "dairy_and_eggs"
+            }
+          }
         ],
         "auxiliary": [
-          { "name_zh": "青椒", "name_en": "green pepper", "amount": "1/4" },
-          { "name_zh": "火腿肠", "name_en": "ham sausage", "amount": "1" }
+          {
+            "name_zh": "青椒",
+            "name_en": "green pepper",
+            "amount": "1/4",
+            "grocery_match": null,
+            "missing_importance": "med"
+          },
+          {
+            "name_zh": "火腿肠",
+            "name_en": "ham sausage",
+            "amount": "1",
+            "grocery_match": null,
+            "missing_importance": "low"
+          }
         ],
         "seasonings": [
-          { "name_zh": "盐", "name_en": "salt", "amount": "a pinch" }
+          {
+            "name_zh": "盐",
+            "name_en": "salt",
+            "amount": "a pinch",
+            "grocery_match": null,
+            "missing_importance": "low"
+          }
         ]
       }
     },
@@ -489,17 +1674,80 @@
       "difficulty": "高级",
       "ingredients": {
         "main": [
-          { "name_zh": "排骨", "name_en": "pork ribs", "amount": "600g" }
+          {
+            "name_zh": "排骨",
+            "name_en": "pork ribs",
+            "amount": "600g",
+            "grocery_match": null,
+            "missing_importance": "high"
+          }
         ],
         "auxiliary": [
-          { "name_zh": "冰糖", "name_en": "rock sugar", "amount": "40g" },
-          { "name_zh": "酱油", "name_en": "soy sauce", "amount": "15ml" },
-          { "name_zh": "料酒", "name_en": "cooking wine", "amount": "15ml" },
-          { "name_zh": "花椒", "name_en": "Sichuan peppercorn", "amount": "1g" },
-          { "name_zh": "生姜", "name_en": "ginger", "amount": "4 slices" },
-          { "name_zh": "大葱", "name_en": "green onion", "amount": "to taste" },
-          { "name_zh": "盐", "name_en": "salt", "amount": "to taste" },
-          { "name_zh": "食用油", "name_en": "cooking oil", "amount": "to taste" }
+          {
+            "name_zh": "冰糖",
+            "name_en": "rock sugar",
+            "amount": "40g",
+            "grocery_match": null,
+            "missing_importance": "low"
+          },
+          {
+            "name_zh": "酱油",
+            "name_en": "soy sauce",
+            "amount": "15ml",
+            "grocery_match": {
+              "product_id": "leekumkee_reduced",
+              "name": "Lee Kum Kee Sodium Reduced Seasoning Soy Sauce 16.9 g",
+              "category": "seasoning_healthy_picks"
+            }
+          },
+          {
+            "name_zh": "料酒",
+            "name_en": "cooking wine",
+            "amount": "15ml",
+            "grocery_match": null,
+            "missing_importance": "high"
+          },
+          {
+            "name_zh": "花椒",
+            "name_en": "Sichuan peppercorn",
+            "amount": "1g",
+            "grocery_match": null,
+            "missing_importance": "high"
+          },
+          {
+            "name_zh": "生姜",
+            "name_en": "ginger",
+            "amount": "4 slices",
+            "grocery_match": {
+              "product_id": "94449",
+              "name": "Organic Fresh Ginger 8 oz",
+              "category": "vegetables"
+            }
+          },
+          {
+            "name_zh": "大葱",
+            "name_en": "green onion",
+            "amount": "to taste",
+            "grocery_match": null,
+            "missing_importance": "high"
+          },
+          {
+            "name_zh": "盐",
+            "name_en": "salt",
+            "amount": "to taste",
+            "grocery_match": null,
+            "missing_importance": "low"
+          },
+          {
+            "name_zh": "食用油",
+            "name_en": "cooking oil",
+            "amount": "to taste",
+            "grocery_match": {
+              "product_id": "arowana1",
+              "name": "Arowana Brand Golden Ratio Vegetable Cooking Oil 900 ml",
+              "category": "seasoning_healthy_picks"
+            }
+          }
         ]
       }
     },
@@ -517,23 +1765,140 @@
       "difficulty": "高级",
       "ingredients": {
         "main": [
-          { "name_zh": "里脊肉", "name_en": "pork tenderloin", "amount": "1 piece" },
-          { "name_zh": "豆芽菜", "name_en": "bean sprouts", "amount": "a little" },
-          { "name_zh": "青菜", "name_en": "leafy greens", "amount": "a little" }
+          {
+            "name_zh": "里脊肉",
+            "name_en": "pork tenderloin",
+            "amount": "1 piece",
+            "grocery_match": {
+              "product_id": "105407",
+              "name": "Pork Tenderloin, Frozen 2-2.5 lb",
+              "category": "meat_lean_options"
+            }
+          },
+          {
+            "name_zh": "豆芽菜",
+            "name_en": "bean sprouts",
+            "amount": "a little",
+            "grocery_match": {
+              "product_id": "97338",
+              "name": "Soy Bean Sprouts 1 lb",
+              "category": "vegetables"
+            }
+          },
+          {
+            "name_zh": "青菜",
+            "name_en": "leafy greens",
+            "amount": "a little",
+            "grocery_match": {
+              "product_id": "94800",
+              "name": "Shanghai Bok Choy 2 lb",
+              "category": "vegetables"
+            }
+          }
         ],
         "auxiliary": [
-          { "name_zh": "姜末", "name_en": "minced ginger", "amount": "1 tbsp" },
-          { "name_zh": "料酒", "name_en": "cooking wine", "amount": "1 tbsp" },
-          { "name_zh": "生抽", "name_en": "light soy sauce", "amount": "1 tbsp" },
-          { "name_zh": "鸡蛋清", "name_en": "egg white", "amount": "1" },
-          { "name_zh": "淀粉", "name_en": "starch", "amount": "1 tbsp" },
-          { "name_zh": "盐", "name_en": "salt", "amount": "a little" },
-          { "name_zh": "火锅底料", "name_en": "hotpot base", "amount": "to taste" },
-          { "name_zh": "花椒", "name_en": "Sichuan peppercorn", "amount": "to taste" },
-          { "name_zh": "蒜末", "name_en": "minced garlic", "amount": "1 tbsp" },
-          { "name_zh": "油", "name_en": "cooking oil", "amount": "a little" },
-          { "name_zh": "辣椒段", "name_en": "dried chili segments", "amount": "to taste" },
-          { "name_zh": "胡椒粉", "name_en": "pepper powder", "amount": "to taste" }
+          {
+            "name_zh": "姜末",
+            "name_en": "minced ginger",
+            "amount": "1 tbsp",
+            "grocery_match": {
+              "product_id": "94449",
+              "name": "Organic Fresh Ginger 8 oz",
+              "category": "vegetables"
+            }
+          },
+          {
+            "name_zh": "料酒",
+            "name_en": "cooking wine",
+            "amount": "1 tbsp",
+            "grocery_match": null,
+            "missing_importance": "high"
+          },
+          {
+            "name_zh": "生抽",
+            "name_en": "light soy sauce",
+            "amount": "1 tbsp",
+            "grocery_match": {
+              "product_id": "leekumkee_reduced",
+              "name": "Lee Kum Kee Sodium Reduced Seasoning Soy Sauce 16.9 g",
+              "category": "seasoning_healthy_picks"
+            }
+          },
+          {
+            "name_zh": "鸡蛋清",
+            "name_en": "egg white",
+            "amount": "1",
+            "grocery_match": {
+              "product_id": "vitalfarms1",
+              "name": "Vital Farms Organic Pasture-Raised Eggs 18 ct",
+              "category": "dairy_and_eggs"
+            }
+          },
+          {
+            "name_zh": "淀粉",
+            "name_en": "starch",
+            "amount": "1 tbsp",
+            "grocery_match": null,
+            "missing_importance": "low"
+          },
+          {
+            "name_zh": "盐",
+            "name_en": "salt",
+            "amount": "a little",
+            "grocery_match": null,
+            "missing_importance": "low"
+          },
+          {
+            "name_zh": "火锅底料",
+            "name_en": "hotpot base",
+            "amount": "to taste",
+            "grocery_match": {
+              "product_id": "haidilao_mushroom",
+              "name": "Haidilao Hot Pot Mushroom Soup Base 150 g",
+              "category": "seasoning_healthy_picks"
+            }
+          },
+          {
+            "name_zh": "花椒",
+            "name_en": "Sichuan peppercorn",
+            "amount": "to taste",
+            "grocery_match": null,
+            "missing_importance": "high"
+          },
+          {
+            "name_zh": "蒜末",
+            "name_en": "minced garlic",
+            "amount": "1 tbsp",
+            "grocery_match": null,
+            "missing_importance": "high"
+          },
+          {
+            "name_zh": "油",
+            "name_en": "cooking oil",
+            "amount": "a little",
+            "grocery_match": {
+              "product_id": "arowana1",
+              "name": "Arowana Brand Golden Ratio Vegetable Cooking Oil 900 ml",
+              "category": "seasoning_healthy_picks"
+            }
+          },
+          {
+            "name_zh": "辣椒段",
+            "name_en": "dried chili segments",
+            "amount": "to taste",
+            "grocery_match": null,
+            "missing_importance": "med"
+          },
+          {
+            "name_zh": "胡椒粉",
+            "name_en": "pepper powder",
+            "amount": "to taste",
+            "grocery_match": {
+              "product_id": "whitepep1",
+              "name": "White Pepper Powder 32 g",
+              "category": "seasoning_healthy_picks"
+            }
+          }
         ]
       }
     },
@@ -551,23 +1916,131 @@
       "difficulty": "普通",
       "ingredients": {
         "main": [
-          { "name_zh": "三黄鸡", "name_en": "free-range yellow chicken", "amount": "1 whole" }
+          {
+            "name_zh": "三黄鸡",
+            "name_en": "free-range yellow chicken",
+            "amount": "1 whole",
+            "grocery_match": {
+              "product_id": "460",
+              "name": "The Original B&B Stewing Hen, Frozen 1.5-2.5 lb",
+              "category": "meat_lean_options"
+            }
+          }
         ],
         "auxiliary": [
-          { "name_zh": "盐", "name_en": "salt", "amount": "5g" },
-          { "name_zh": "生抽", "name_en": "light soy sauce", "amount": "12g" },
-          { "name_zh": "白糖", "name_en": "white sugar", "amount": "8g" },
-          { "name_zh": "红油", "name_en": "chili oil", "amount": "1 large tbsp" },
-          { "name_zh": "花椒油", "name_en": "Sichuan peppercorn oil", "amount": "half tbsp" },
-          { "name_zh": "白胡椒粉", "name_en": "white pepper powder", "amount": "a pinch" },
-          { "name_zh": "芝麻油", "name_en": "sesame oil", "amount": "a pinch" },
-          { "name_zh": "葱", "name_en": "green onion", "amount": "to taste" },
-          { "name_zh": "小米椒", "name_en": "bird's eye chili", "amount": "a few" },
-          { "name_zh": "熟芝麻", "name_en": "roasted sesame seeds", "amount": "a pinch" },
-          { "name_zh": "熟花生碎", "name_en": "crushed roasted peanuts", "amount": "a pinch" },
-          { "name_zh": "冰水", "name_en": "ice water", "amount": "to taste" },
-          { "name_zh": "姜", "name_en": "ginger", "amount": "to taste" },
-          { "name_zh": "蒜", "name_en": "garlic", "amount": "to taste" }
+          {
+            "name_zh": "盐",
+            "name_en": "salt",
+            "amount": "5g",
+            "grocery_match": null,
+            "missing_importance": "low"
+          },
+          {
+            "name_zh": "生抽",
+            "name_en": "light soy sauce",
+            "amount": "12g",
+            "grocery_match": {
+              "product_id": "leekumkee_reduced",
+              "name": "Lee Kum Kee Sodium Reduced Seasoning Soy Sauce 16.9 g",
+              "category": "seasoning_healthy_picks"
+            }
+          },
+          {
+            "name_zh": "白糖",
+            "name_en": "white sugar",
+            "amount": "8g",
+            "grocery_match": null,
+            "missing_importance": "low"
+          },
+          {
+            "name_zh": "红油",
+            "name_en": "chili oil",
+            "amount": "1 large tbsp",
+            "grocery_match": null,
+            "missing_importance": "med"
+          },
+          {
+            "name_zh": "花椒油",
+            "name_en": "Sichuan peppercorn oil",
+            "amount": "half tbsp",
+            "grocery_match": null,
+            "missing_importance": "med"
+          },
+          {
+            "name_zh": "白胡椒粉",
+            "name_en": "white pepper powder",
+            "amount": "a pinch",
+            "grocery_match": {
+              "product_id": "whitepep1",
+              "name": "White Pepper Powder 32 g",
+              "category": "seasoning_healthy_picks"
+            }
+          },
+          {
+            "name_zh": "芝麻油",
+            "name_en": "sesame oil",
+            "amount": "a pinch",
+            "grocery_match": {
+              "product_id": "kadoya1",
+              "name": "Kadoya Roasted Sesame Oil 163 ml",
+              "category": "seasoning_healthy_picks"
+            }
+          },
+          {
+            "name_zh": "葱",
+            "name_en": "green onion",
+            "amount": "to taste",
+            "grocery_match": null,
+            "missing_importance": "high"
+          },
+          {
+            "name_zh": "小米椒",
+            "name_en": "bird's eye chili",
+            "amount": "a few",
+            "grocery_match": null,
+            "missing_importance": "med"
+          },
+          {
+            "name_zh": "熟芝麻",
+            "name_en": "roasted sesame seeds",
+            "amount": "a pinch",
+            "grocery_match": null,
+            "missing_importance": "low"
+          },
+          {
+            "name_zh": "熟花生碎",
+            "name_en": "crushed roasted peanuts",
+            "amount": "a pinch",
+            "grocery_match": {
+              "product_id": "65145",
+              "name": "Shuang Li Dried Skin Peanuts 12 oz",
+              "category": "dry_goods"
+            }
+          },
+          {
+            "name_zh": "冰水",
+            "name_en": "ice water",
+            "amount": "to taste",
+            "grocery_match": null,
+            "missing_importance": "low"
+          },
+          {
+            "name_zh": "姜",
+            "name_en": "ginger",
+            "amount": "to taste",
+            "grocery_match": {
+              "product_id": "94449",
+              "name": "Organic Fresh Ginger 8 oz",
+              "category": "vegetables"
+            }
+          },
+          {
+            "name_zh": "蒜",
+            "name_en": "garlic",
+            "amount": "to taste",
+            "grocery_match": null,
+            "missing_importance": "high"
+          }
         ]
       }
     },
@@ -585,16 +2058,73 @@
       "difficulty": "简单",
       "ingredients": {
         "main": [
-          { "name_zh": "大米", "name_en": "rice", "amount": "150g" },
-          { "name_zh": "皮蛋", "name_en": "century egg (preserved egg)", "amount": "1" },
-          { "name_zh": "精肉", "name_en": "lean pork", "amount": "50g" }
+          {
+            "name_zh": "大米",
+            "name_en": "rice",
+            "amount": "150g",
+            "grocery_match": {
+              "product_id": "87333",
+              "name": "Kokuho Calrose Rice California Premium 15 lb",
+              "category": "dry_goods"
+            }
+          },
+          {
+            "name_zh": "皮蛋",
+            "name_en": "century egg (preserved egg)",
+            "amount": "1",
+            "grocery_match": null,
+            "missing_importance": "med"
+          },
+          {
+            "name_zh": "精肉",
+            "name_en": "lean pork",
+            "amount": "50g",
+            "grocery_match": {
+              "product_id": "105407",
+              "name": "Pork Tenderloin, Frozen 2-2.5 lb",
+              "category": "meat_lean_options"
+            }
+          }
         ],
         "auxiliary": [
-          { "name_zh": "胡椒粉", "name_en": "pepper powder", "amount": "to taste" },
-          { "name_zh": "料酒", "name_en": "cooking wine", "amount": "a little" },
-          { "name_zh": "盐", "name_en": "salt", "amount": "a little" },
-          { "name_zh": "淀粉", "name_en": "starch", "amount": "a little" },
-          { "name_zh": "葱花", "name_en": "chopped green onion", "amount": "a little" }
+          {
+            "name_zh": "胡椒粉",
+            "name_en": "pepper powder",
+            "amount": "to taste",
+            "grocery_match": {
+              "product_id": "whitepep1",
+              "name": "White Pepper Powder 32 g",
+              "category": "seasoning_healthy_picks"
+            }
+          },
+          {
+            "name_zh": "料酒",
+            "name_en": "cooking wine",
+            "amount": "a little",
+            "grocery_match": null,
+            "missing_importance": "high"
+          },
+          {
+            "name_zh": "盐",
+            "name_en": "salt",
+            "amount": "a little",
+            "grocery_match": null,
+            "missing_importance": "low"
+          },
+          {
+            "name_zh": "淀粉",
+            "name_en": "starch",
+            "amount": "a little",
+            "grocery_match": null,
+            "missing_importance": "low"
+          },
+          {
+            "name_zh": "葱花",
+            "name_en": "chopped green onion",
+            "amount": "a little",
+            "grocery_match": null,
+            "missing_importance": "high"
+          }
         ]
       }
     },
@@ -612,17 +2142,80 @@
       "difficulty": "普通",
       "ingredients": {
         "main": [
-          { "name_zh": "鲫鱼", "name_en": "crucian carp", "amount": "2" }
+          {
+            "name_zh": "鲫鱼",
+            "name_en": "crucian carp",
+            "amount": "2",
+            "grocery_match": null,
+            "missing_importance": "high"
+          }
         ],
         "auxiliary": [
-          { "name_zh": "生抽", "name_en": "light soy sauce", "amount": "to taste" },
-          { "name_zh": "老抽", "name_en": "dark soy sauce", "amount": "1 tbsp" },
-          { "name_zh": "料酒", "name_en": "cooking wine", "amount": "to taste" },
-          { "name_zh": "糖", "name_en": "sugar", "amount": "to taste" },
-          { "name_zh": "葱", "name_en": "green onion", "amount": "to taste" },
-          { "name_zh": "油", "name_en": "cooking oil", "amount": "to taste" },
-          { "name_zh": "蒜", "name_en": "garlic", "amount": "to taste" },
-          { "name_zh": "姜", "name_en": "ginger", "amount": "to taste" }
+          {
+            "name_zh": "生抽",
+            "name_en": "light soy sauce",
+            "amount": "to taste",
+            "grocery_match": {
+              "product_id": "leekumkee_reduced",
+              "name": "Lee Kum Kee Sodium Reduced Seasoning Soy Sauce 16.9 g",
+              "category": "seasoning_healthy_picks"
+            }
+          },
+          {
+            "name_zh": "老抽",
+            "name_en": "dark soy sauce",
+            "amount": "1 tbsp",
+            "grocery_match": null,
+            "missing_importance": "high"
+          },
+          {
+            "name_zh": "料酒",
+            "name_en": "cooking wine",
+            "amount": "to taste",
+            "grocery_match": null,
+            "missing_importance": "high"
+          },
+          {
+            "name_zh": "糖",
+            "name_en": "sugar",
+            "amount": "to taste",
+            "grocery_match": null,
+            "missing_importance": "low"
+          },
+          {
+            "name_zh": "葱",
+            "name_en": "green onion",
+            "amount": "to taste",
+            "grocery_match": null,
+            "missing_importance": "high"
+          },
+          {
+            "name_zh": "油",
+            "name_en": "cooking oil",
+            "amount": "to taste",
+            "grocery_match": {
+              "product_id": "arowana1",
+              "name": "Arowana Brand Golden Ratio Vegetable Cooking Oil 900 ml",
+              "category": "seasoning_healthy_picks"
+            }
+          },
+          {
+            "name_zh": "蒜",
+            "name_en": "garlic",
+            "amount": "to taste",
+            "grocery_match": null,
+            "missing_importance": "high"
+          },
+          {
+            "name_zh": "姜",
+            "name_en": "ginger",
+            "amount": "to taste",
+            "grocery_match": {
+              "product_id": "94449",
+              "name": "Organic Fresh Ginger 8 oz",
+              "category": "vegetables"
+            }
+          }
         ]
       }
     },
@@ -640,21 +2233,99 @@
       "difficulty": "简单",
       "ingredients": {
         "main": [
-          { "name_zh": "包菜", "name_en": "cabbage", "amount": "to taste" },
-          { "name_zh": "肉片", "name_en": "sliced pork", "amount": "to taste" }
+          {
+            "name_zh": "包菜",
+            "name_en": "cabbage",
+            "amount": "to taste",
+            "grocery_match": {
+              "product_id": "62662",
+              "name": "Green Cabbage 1 count",
+              "category": "vegetables"
+            }
+          },
+          {
+            "name_zh": "肉片",
+            "name_en": "sliced pork",
+            "amount": "to taste",
+            "grocery_match": null,
+            "missing_importance": "med"
+          }
         ],
         "auxiliary": [
-          { "name_zh": "花生油", "name_en": "peanut oil", "amount": "to taste" },
-          { "name_zh": "酱油", "name_en": "soy sauce", "amount": "to taste" },
-          { "name_zh": "盐", "name_en": "salt", "amount": "to taste" },
-          { "name_zh": "料酒", "name_en": "cooking wine", "amount": "to taste" }
+          {
+            "name_zh": "花生油",
+            "name_en": "peanut oil",
+            "amount": "to taste",
+            "grocery_match": {
+              "product_id": "arowana1",
+              "name": "Arowana Brand Golden Ratio Vegetable Cooking Oil 900 ml",
+              "category": "seasoning_healthy_picks"
+            }
+          },
+          {
+            "name_zh": "酱油",
+            "name_en": "soy sauce",
+            "amount": "to taste",
+            "grocery_match": {
+              "product_id": "leekumkee_reduced",
+              "name": "Lee Kum Kee Sodium Reduced Seasoning Soy Sauce 16.9 g",
+              "category": "seasoning_healthy_picks"
+            }
+          },
+          {
+            "name_zh": "盐",
+            "name_en": "salt",
+            "amount": "to taste",
+            "grocery_match": null,
+            "missing_importance": "low"
+          },
+          {
+            "name_zh": "料酒",
+            "name_en": "cooking wine",
+            "amount": "to taste",
+            "grocery_match": null,
+            "missing_importance": "high"
+          }
         ],
         "seasonings": [
-          { "name_zh": "干辣椒", "name_en": "dried chili pepper", "amount": "to taste" },
-          { "name_zh": "姜末", "name_en": "minced ginger", "amount": "to taste" },
-          { "name_zh": "葱末", "name_en": "minced green onion", "amount": "to taste" },
-          { "name_zh": "花椒", "name_en": "Sichuan peppercorn", "amount": "to taste" },
-          { "name_zh": "蒜末", "name_en": "minced garlic", "amount": "to taste" }
+          {
+            "name_zh": "干辣椒",
+            "name_en": "dried chili pepper",
+            "amount": "to taste",
+            "grocery_match": null,
+            "missing_importance": "high"
+          },
+          {
+            "name_zh": "姜末",
+            "name_en": "minced ginger",
+            "amount": "to taste",
+            "grocery_match": {
+              "product_id": "94449",
+              "name": "Organic Fresh Ginger 8 oz",
+              "category": "vegetables"
+            }
+          },
+          {
+            "name_zh": "葱末",
+            "name_en": "minced green onion",
+            "amount": "to taste",
+            "grocery_match": null,
+            "missing_importance": "high"
+          },
+          {
+            "name_zh": "花椒",
+            "name_en": "Sichuan peppercorn",
+            "amount": "to taste",
+            "grocery_match": null,
+            "missing_importance": "high"
+          },
+          {
+            "name_zh": "蒜末",
+            "name_en": "minced garlic",
+            "amount": "to taste",
+            "grocery_match": null,
+            "missing_importance": "high"
+          }
         ]
       }
     },
@@ -672,19 +2343,97 @@
       "difficulty": "普通",
       "ingredients": {
         "main": [
-          { "name_zh": "胖头鱼头", "name_en": "bighead carp head", "amount": "650g" },
-          { "name_zh": "盐", "name_en": "salt", "amount": "to taste" },
-          { "name_zh": "胡椒粉", "name_en": "pepper powder", "amount": "a pinch" },
-          { "name_zh": "黄酒", "name_en": "yellow rice wine", "amount": "10g" },
-          { "name_zh": "姜丝", "name_en": "shredded ginger", "amount": "to taste" }
+          {
+            "name_zh": "胖头鱼头",
+            "name_en": "bighead carp head",
+            "amount": "650g",
+            "grocery_match": null,
+            "missing_importance": "high"
+          },
+          {
+            "name_zh": "盐",
+            "name_en": "salt",
+            "amount": "to taste",
+            "grocery_match": null,
+            "missing_importance": "low"
+          },
+          {
+            "name_zh": "胡椒粉",
+            "name_en": "pepper powder",
+            "amount": "a pinch",
+            "grocery_match": {
+              "product_id": "whitepep1",
+              "name": "White Pepper Powder 32 g",
+              "category": "seasoning_healthy_picks"
+            }
+          },
+          {
+            "name_zh": "黄酒",
+            "name_en": "yellow rice wine",
+            "amount": "10g",
+            "grocery_match": null,
+            "missing_importance": "high"
+          },
+          {
+            "name_zh": "姜丝",
+            "name_en": "shredded ginger",
+            "amount": "to taste",
+            "grocery_match": {
+              "product_id": "94449",
+              "name": "Organic Fresh Ginger 8 oz",
+              "category": "vegetables"
+            }
+          }
         ],
         "auxiliary": [
-          { "name_zh": "剁椒贡菜", "name_en": "chopped chili with preserved vegetables", "amount": "2 large tbsp" },
-          { "name_zh": "豆豉油剁椒", "name_en": "fermented black bean chili sauce", "amount": "2 large tbsp" },
-          { "name_zh": "姜片", "name_en": "ginger slices", "amount": "to taste" },
-          { "name_zh": "香葱白", "name_en": "scallion whites", "amount": "to taste" },
-          { "name_zh": "香葱叶", "name_en": "scallion greens", "amount": "to taste" },
-          { "name_zh": "玉米油", "name_en": "corn oil", "amount": "to taste" }
+          {
+            "name_zh": "剁椒贡菜",
+            "name_en": "chopped chili with preserved vegetables",
+            "amount": "2 large tbsp",
+            "grocery_match": null,
+            "missing_importance": "med"
+          },
+          {
+            "name_zh": "豆豉油剁椒",
+            "name_en": "fermented black bean chili sauce",
+            "amount": "2 large tbsp",
+            "grocery_match": null,
+            "missing_importance": "med"
+          },
+          {
+            "name_zh": "姜片",
+            "name_en": "ginger slices",
+            "amount": "to taste",
+            "grocery_match": {
+              "product_id": "94449",
+              "name": "Organic Fresh Ginger 8 oz",
+              "category": "vegetables"
+            }
+          },
+          {
+            "name_zh": "香葱白",
+            "name_en": "scallion whites",
+            "amount": "to taste",
+            "grocery_match": null,
+            "missing_importance": "high"
+          },
+          {
+            "name_zh": "香葱叶",
+            "name_en": "scallion greens",
+            "amount": "to taste",
+            "grocery_match": null,
+            "missing_importance": "high"
+          },
+          {
+            "name_zh": "玉米油",
+            "name_en": "corn oil",
+            "amount": "to taste",
+            "grocery_match": {
+              "product_id": "arowana1",
+              "name": "Arowana Brand Golden Ratio Vegetable Cooking Oil 900 ml",
+              "category": "seasoning_healthy_picks"
+            }
+          }
         ]
       }
     },
@@ -702,17 +2451,80 @@
       "difficulty": "普通",
       "ingredients": {
         "main": [
-          { "name_zh": "五花肉", "name_en": "pork belly", "amount": "500g" },
-          { "name_zh": "蒸肉米粉", "name_en": "steamed pork rice flour", "amount": "1 packet" }
+          {
+            "name_zh": "五花肉",
+            "name_en": "pork belly",
+            "amount": "500g",
+            "grocery_match": null,
+            "missing_importance": "high"
+          },
+          {
+            "name_zh": "蒸肉米粉",
+            "name_en": "steamed pork rice flour",
+            "amount": "1 packet",
+            "grocery_match": null,
+            "missing_importance": "med"
+          }
         ],
         "auxiliary": [
-          { "name_zh": "生姜", "name_en": "ginger", "amount": "3g" },
-          { "name_zh": "生抽", "name_en": "light soy sauce", "amount": "2 tbsp" },
-          { "name_zh": "老抽", "name_en": "dark soy sauce", "amount": "half tbsp" },
-          { "name_zh": "胡椒粉", "name_en": "pepper powder", "amount": "1g" },
-          { "name_zh": "腐乳", "name_en": "fermented tofu", "amount": "to taste" },
-          { "name_zh": "生粉", "name_en": "starch", "amount": "to taste" },
-          { "name_zh": "土豆", "name_en": "potato", "amount": "1" }
+          {
+            "name_zh": "生姜",
+            "name_en": "ginger",
+            "amount": "3g",
+            "grocery_match": {
+              "product_id": "94449",
+              "name": "Organic Fresh Ginger 8 oz",
+              "category": "vegetables"
+            }
+          },
+          {
+            "name_zh": "生抽",
+            "name_en": "light soy sauce",
+            "amount": "2 tbsp",
+            "grocery_match": {
+              "product_id": "leekumkee_reduced",
+              "name": "Lee Kum Kee Sodium Reduced Seasoning Soy Sauce 16.9 g",
+              "category": "seasoning_healthy_picks"
+            }
+          },
+          {
+            "name_zh": "老抽",
+            "name_en": "dark soy sauce",
+            "amount": "half tbsp",
+            "grocery_match": null,
+            "missing_importance": "high"
+          },
+          {
+            "name_zh": "胡椒粉",
+            "name_en": "pepper powder",
+            "amount": "1g",
+            "grocery_match": {
+              "product_id": "whitepep1",
+              "name": "White Pepper Powder 32 g",
+              "category": "seasoning_healthy_picks"
+            }
+          },
+          {
+            "name_zh": "腐乳",
+            "name_en": "fermented tofu",
+            "amount": "to taste",
+            "grocery_match": null,
+            "missing_importance": "low"
+          },
+          {
+            "name_zh": "生粉",
+            "name_en": "starch",
+            "amount": "to taste",
+            "grocery_match": null,
+            "missing_importance": "low"
+          },
+          {
+            "name_zh": "土豆",
+            "name_en": "potato",
+            "amount": "1",
+            "grocery_match": null,
+            "missing_importance": "high"
+          }
         ]
       }
     },
@@ -730,30 +2542,183 @@
       "difficulty": "普通",
       "ingredients": {
         "main": [
-          { "name_zh": "猪肉", "name_en": "pork", "amount": "to taste" },
-          { "name_zh": "基围虾", "name_en": "shrimp", "amount": "to taste" },
-          { "name_zh": "腐竹", "name_en": "dried tofu skin sticks", "amount": "to taste" },
-          { "name_zh": "香菇", "name_en": "shiitake mushroom", "amount": "to taste" },
-          { "name_zh": "黄瓜", "name_en": "cucumber", "amount": "to taste" },
-          { "name_zh": "玉米", "name_en": "corn", "amount": "to taste" },
-          { "name_zh": "土豆", "name_en": "potato", "amount": "to taste" },
-          { "name_zh": "豇豆", "name_en": "long bean", "amount": "to taste" },
-          { "name_zh": "四季豆", "name_en": "green bean", "amount": "to taste" },
-          { "name_zh": "扁豆", "name_en": "flat bean", "amount": "to taste" },
-          { "name_zh": "米椒", "name_en": "bird's eye chili", "amount": "to taste" },
-          { "name_zh": "鱼豆腐", "name_en": "fish tofu", "amount": "to taste" }
+          {
+            "name_zh": "猪肉",
+            "name_en": "pork",
+            "amount": "to taste",
+            "grocery_match": {
+              "product_id": "105407",
+              "name": "Pork Tenderloin, Frozen 2-2.5 lb",
+              "category": "meat_lean_options"
+            }
+          },
+          {
+            "name_zh": "基围虾",
+            "name_en": "shrimp",
+            "amount": "to taste",
+            "grocery_match": {
+              "product_id": "15684",
+              "name": "Wild Argentine Red Shrimp, Peeled and Deveined 16-30ct, Frozen 1 lb",
+              "category": "seafood"
+            }
+          },
+          {
+            "name_zh": "腐竹",
+            "name_en": "dried tofu skin sticks",
+            "amount": "to taste",
+            "grocery_match": {
+              "product_id": "49005",
+              "name": "Watson Dried Tofu Sheets 250 g",
+              "category": "tofu_and_vegan"
+            }
+          },
+          {
+            "name_zh": "香菇",
+            "name_en": "shiitake mushroom",
+            "amount": "to taste",
+            "grocery_match": null,
+            "missing_importance": "med"
+          },
+          {
+            "name_zh": "黄瓜",
+            "name_en": "cucumber",
+            "amount": "to taste",
+            "grocery_match": null,
+            "missing_importance": "med"
+          },
+          {
+            "name_zh": "玉米",
+            "name_en": "corn",
+            "amount": "to taste",
+            "grocery_match": null,
+            "missing_importance": "med"
+          },
+          {
+            "name_zh": "土豆",
+            "name_en": "potato",
+            "amount": "to taste",
+            "grocery_match": null,
+            "missing_importance": "high"
+          },
+          {
+            "name_zh": "豇豆",
+            "name_en": "long bean",
+            "amount": "to taste",
+            "grocery_match": {
+              "product_id": "97012",
+              "name": "Wei-Chuan Flat Beans, Frozen 1 lb",
+              "category": "frozen_healthy_picks"
+            }
+          },
+          {
+            "name_zh": "四季豆",
+            "name_en": "green bean",
+            "amount": "to taste",
+            "grocery_match": {
+              "product_id": "97012",
+              "name": "Wei-Chuan Flat Beans, Frozen 1 lb",
+              "category": "frozen_healthy_picks"
+            }
+          },
+          {
+            "name_zh": "扁豆",
+            "name_en": "flat bean",
+            "amount": "to taste",
+            "grocery_match": {
+              "product_id": "97012",
+              "name": "Wei-Chuan Flat Beans, Frozen 1 lb",
+              "category": "frozen_healthy_picks"
+            }
+          },
+          {
+            "name_zh": "米椒",
+            "name_en": "bird's eye chili",
+            "amount": "to taste",
+            "grocery_match": null,
+            "missing_importance": "med"
+          },
+          {
+            "name_zh": "鱼豆腐",
+            "name_en": "fish tofu",
+            "amount": "to taste",
+            "grocery_match": null,
+            "missing_importance": "med"
+          }
         ],
         "auxiliary": [
-          { "name_zh": "八角", "name_en": "star anise", "amount": "to taste" },
-          { "name_zh": "桂皮", "name_en": "cinnamon bark", "amount": "to taste" },
-          { "name_zh": "香叶", "name_en": "bay leaf", "amount": "to taste" },
-          { "name_zh": "大蒜头", "name_en": "garlic head", "amount": "to taste" },
-          { "name_zh": "火锅底料", "name_en": "hotpot base", "amount": "to taste" },
-          { "name_zh": "花椒", "name_en": "Sichuan peppercorn", "amount": "to taste" },
-          { "name_zh": "鸡精", "name_en": "chicken bouillon", "amount": "to taste" },
-          { "name_zh": "料酒", "name_en": "cooking wine", "amount": "to taste" },
-          { "name_zh": "熟白芝麻", "name_en": "roasted white sesame seeds", "amount": "to taste" },
-          { "name_zh": "葱", "name_en": "green onion", "amount": "to taste" }
+          {
+            "name_zh": "八角",
+            "name_en": "star anise",
+            "amount": "to taste",
+            "grocery_match": null,
+            "missing_importance": "low"
+          },
+          {
+            "name_zh": "桂皮",
+            "name_en": "cinnamon bark",
+            "amount": "to taste",
+            "grocery_match": null,
+            "missing_importance": "low"
+          },
+          {
+            "name_zh": "香叶",
+            "name_en": "bay leaf",
+            "amount": "to taste",
+            "grocery_match": null,
+            "missing_importance": "low"
+          },
+          {
+            "name_zh": "大蒜头",
+            "name_en": "garlic head",
+            "amount": "to taste",
+            "grocery_match": null,
+            "missing_importance": "high"
+          },
+          {
+            "name_zh": "火锅底料",
+            "name_en": "hotpot base",
+            "amount": "to taste",
+            "grocery_match": {
+              "product_id": "haidilao_mushroom",
+              "name": "Haidilao Hot Pot Mushroom Soup Base 150 g",
+              "category": "seasoning_healthy_picks"
+            }
+          },
+          {
+            "name_zh": "花椒",
+            "name_en": "Sichuan peppercorn",
+            "amount": "to taste",
+            "grocery_match": null,
+            "missing_importance": "high"
+          },
+          {
+            "name_zh": "鸡精",
+            "name_en": "chicken bouillon",
+            "amount": "to taste",
+            "grocery_match": null,
+            "missing_importance": "low"
+          },
+          {
+            "name_zh": "料酒",
+            "name_en": "cooking wine",
+            "amount": "to taste",
+            "grocery_match": null,
+            "missing_importance": "high"
+          },
+          {
+            "name_zh": "熟白芝麻",
+            "name_en": "roasted white sesame seeds",
+            "amount": "to taste",
+            "grocery_match": null,
+            "missing_importance": "low"
+          },
+          {
+            "name_zh": "葱",
+            "name_en": "green onion",
+            "amount": "to taste",
+            "grocery_match": null,
+            "missing_importance": "high"
+          }
         ]
       }
     },
@@ -771,26 +2736,143 @@
       "difficulty": "普通",
       "ingredients": {
         "main": [
-          { "name_zh": "鸡腿", "name_en": "chicken leg", "amount": "4" }
+          {
+            "name_zh": "鸡腿",
+            "name_en": "chicken leg",
+            "amount": "4",
+            "grocery_match": {
+              "product_id": "37447",
+              "name": "Boneless & Skinless Chicken Thighs Frozen 1.5 lb",
+              "category": "meat_lean_options"
+            }
+          }
         ],
         "auxiliary": [
-          { "name_zh": "炸花生米", "name_en": "fried peanuts", "amount": "1 small bowl" }
+          {
+            "name_zh": "炸花生米",
+            "name_en": "fried peanuts",
+            "amount": "1 small bowl",
+            "grocery_match": {
+              "product_id": "65145",
+              "name": "Shuang Li Dried Skin Peanuts 12 oz",
+              "category": "dry_goods"
+            }
+          }
         ],
         "seasonings": [
-          { "name_zh": "花椒", "name_en": "Sichuan peppercorn", "amount": "1 tsp" },
-          { "name_zh": "干红辣椒", "name_en": "dried red chili", "amount": "1 small bowl" },
-          { "name_zh": "葱", "name_en": "green onion", "amount": "3 stalks" },
-          { "name_zh": "姜", "name_en": "ginger", "amount": "3 slices" },
-          { "name_zh": "蒜", "name_en": "garlic", "amount": "4 cloves" },
-          { "name_zh": "生抽", "name_en": "light soy sauce", "amount": "1 tsp" },
-          { "name_zh": "蚝油", "name_en": "oyster sauce", "amount": "1 tsp" },
-          { "name_zh": "料酒", "name_en": "cooking wine", "amount": "1/2 tsp" },
-          { "name_zh": "白胡椒粉", "name_en": "white pepper powder", "amount": "a pinch" },
-          { "name_zh": "盐", "name_en": "salt", "amount": "a pinch" },
-          { "name_zh": "淀粉", "name_en": "starch", "amount": "1 large tbsp" },
-          { "name_zh": "蛋清", "name_en": "egg white", "amount": "1" },
-          { "name_zh": "熟芝麻", "name_en": "roasted sesame seeds", "amount": "1 large tbsp" },
-          { "name_zh": "油", "name_en": "cooking oil", "amount": "to taste" }
+          {
+            "name_zh": "花椒",
+            "name_en": "Sichuan peppercorn",
+            "amount": "1 tsp",
+            "grocery_match": null,
+            "missing_importance": "high"
+          },
+          {
+            "name_zh": "干红辣椒",
+            "name_en": "dried red chili",
+            "amount": "1 small bowl",
+            "grocery_match": null,
+            "missing_importance": "high"
+          },
+          {
+            "name_zh": "葱",
+            "name_en": "green onion",
+            "amount": "3 stalks",
+            "grocery_match": null,
+            "missing_importance": "high"
+          },
+          {
+            "name_zh": "姜",
+            "name_en": "ginger",
+            "amount": "3 slices",
+            "grocery_match": {
+              "product_id": "94449",
+              "name": "Organic Fresh Ginger 8 oz",
+              "category": "vegetables"
+            }
+          },
+          {
+            "name_zh": "蒜",
+            "name_en": "garlic",
+            "amount": "4 cloves",
+            "grocery_match": null,
+            "missing_importance": "high"
+          },
+          {
+            "name_zh": "生抽",
+            "name_en": "light soy sauce",
+            "amount": "1 tsp",
+            "grocery_match": {
+              "product_id": "leekumkee_reduced",
+              "name": "Lee Kum Kee Sodium Reduced Seasoning Soy Sauce 16.9 g",
+              "category": "seasoning_healthy_picks"
+            }
+          },
+          {
+            "name_zh": "蚝油",
+            "name_en": "oyster sauce",
+            "amount": "1 tsp",
+            "grocery_match": null,
+            "missing_importance": "high"
+          },
+          {
+            "name_zh": "料酒",
+            "name_en": "cooking wine",
+            "amount": "1/2 tsp",
+            "grocery_match": null,
+            "missing_importance": "high"
+          },
+          {
+            "name_zh": "白胡椒粉",
+            "name_en": "white pepper powder",
+            "amount": "a pinch",
+            "grocery_match": {
+              "product_id": "whitepep1",
+              "name": "White Pepper Powder 32 g",
+              "category": "seasoning_healthy_picks"
+            }
+          },
+          {
+            "name_zh": "盐",
+            "name_en": "salt",
+            "amount": "a pinch",
+            "grocery_match": null,
+            "missing_importance": "low"
+          },
+          {
+            "name_zh": "淀粉",
+            "name_en": "starch",
+            "amount": "1 large tbsp",
+            "grocery_match": null,
+            "missing_importance": "low"
+          },
+          {
+            "name_zh": "蛋清",
+            "name_en": "egg white",
+            "amount": "1",
+            "grocery_match": {
+              "product_id": "vitalfarms1",
+              "name": "Vital Farms Organic Pasture-Raised Eggs 18 ct",
+              "category": "dairy_and_eggs"
+            }
+          },
+          {
+            "name_zh": "熟芝麻",
+            "name_en": "roasted sesame seeds",
+            "amount": "1 large tbsp",
+            "grocery_match": null,
+            "missing_importance": "low"
+          },
+          {
+            "name_zh": "油",
+            "name_en": "cooking oil",
+            "amount": "to taste",
+            "grocery_match": {
+              "product_id": "arowana1",
+              "name": "Arowana Brand Golden Ratio Vegetable Cooking Oil 900 ml",
+              "category": "seasoning_healthy_picks"
+            }
+          }
         ]
       }
     },
@@ -808,18 +2890,84 @@
       "difficulty": "普通",
       "ingredients": {
         "main": [
-          { "name_zh": "豆角", "name_en": "green beans (long beans)", "amount": "400g" },
-          { "name_zh": "五花肉末", "name_en": "minced pork belly", "amount": "150g" }
+          {
+            "name_zh": "豆角",
+            "name_en": "green beans (long beans)",
+            "amount": "400g",
+            "grocery_match": {
+              "product_id": "97012",
+              "name": "Wei-Chuan Flat Beans, Frozen 1 lb",
+              "category": "frozen_healthy_picks"
+            }
+          },
+          {
+            "name_zh": "五花肉末",
+            "name_en": "minced pork belly",
+            "amount": "150g",
+            "grocery_match": null,
+            "missing_importance": "high"
+          }
         ],
         "auxiliary": [
-          { "name_zh": "干辣椒", "name_en": "dried chili pepper", "amount": "6" },
-          { "name_zh": "葱", "name_en": "green onion", "amount": "1 stalk" },
-          { "name_zh": "姜", "name_en": "ginger", "amount": "1 piece" },
-          { "name_zh": "大蒜粒", "name_en": "garlic cloves", "amount": "4" },
-          { "name_zh": "盐", "name_en": "salt", "amount": "1 tsp" },
-          { "name_zh": "鸡精", "name_en": "chicken bouillon", "amount": "1 tsp" },
-          { "name_zh": "白糖", "name_en": "white sugar", "amount": "1 tbsp" },
-          { "name_zh": "白芝麻", "name_en": "white sesame seeds", "amount": "to taste" }
+          {
+            "name_zh": "干辣椒",
+            "name_en": "dried chili pepper",
+            "amount": "6",
+            "grocery_match": null,
+            "missing_importance": "high"
+          },
+          {
+            "name_zh": "葱",
+            "name_en": "green onion",
+            "amount": "1 stalk",
+            "grocery_match": null,
+            "missing_importance": "high"
+          },
+          {
+            "name_zh": "姜",
+            "name_en": "ginger",
+            "amount": "1 piece",
+            "grocery_match": {
+              "product_id": "94449",
+              "name": "Organic Fresh Ginger 8 oz",
+              "category": "vegetables"
+            }
+          },
+          {
+            "name_zh": "大蒜粒",
+            "name_en": "garlic cloves",
+            "amount": "4",
+            "grocery_match": null,
+            "missing_importance": "high"
+          },
+          {
+            "name_zh": "盐",
+            "name_en": "salt",
+            "amount": "1 tsp",
+            "grocery_match": null,
+            "missing_importance": "low"
+          },
+          {
+            "name_zh": "鸡精",
+            "name_en": "chicken bouillon",
+            "amount": "1 tsp",
+            "grocery_match": null,
+            "missing_importance": "low"
+          },
+          {
+            "name_zh": "白糖",
+            "name_en": "white sugar",
+            "amount": "1 tbsp",
+            "grocery_match": null,
+            "missing_importance": "low"
+          },
+          {
+            "name_zh": "白芝麻",
+            "name_en": "white sesame seeds",
+            "amount": "to taste",
+            "grocery_match": null,
+            "missing_importance": "low"
+          }
         ]
       }
     },
@@ -837,21 +2985,105 @@
       "difficulty": "普通",
       "ingredients": {
         "main": [
-          { "name_zh": "鸡蛋", "name_en": "eggs", "amount": "2" },
-          { "name_zh": "猪里脊", "name_en": "pork tenderloin", "amount": "1 piece" },
-          { "name_zh": "干黄花菜", "name_en": "dried lily flower (daylily)", "amount": "1 handful" },
-          { "name_zh": "黑木耳", "name_en": "black wood ear mushroom", "amount": "1 handful" },
-          { "name_zh": "黄瓜", "name_en": "cucumber", "amount": "1" },
-          { "name_zh": "胡萝卜", "name_en": "carrot", "amount": "half" }
+          {
+            "name_zh": "鸡蛋",
+            "name_en": "eggs",
+            "amount": "2",
+            "grocery_match": {
+              "product_id": "vitalfarms1",
+              "name": "Vital Farms Organic Pasture-Raised Eggs 18 ct",
+              "category": "dairy_and_eggs"
+            }
+          },
+          {
+            "name_zh": "猪里脊",
+            "name_en": "pork tenderloin",
+            "amount": "1 piece",
+            "grocery_match": {
+              "product_id": "105407",
+              "name": "Pork Tenderloin, Frozen 2-2.5 lb",
+              "category": "meat_lean_options"
+            }
+          },
+          {
+            "name_zh": "干黄花菜",
+            "name_en": "dried lily flower (daylily)",
+            "amount": "1 handful",
+            "grocery_match": null,
+            "missing_importance": "med"
+          },
+          {
+            "name_zh": "黑木耳",
+            "name_en": "black wood ear mushroom",
+            "amount": "1 handful",
+            "grocery_match": {
+              "product_id": "97092",
+              "name": "Black Wood Ear Mushroom Fungus 6 oz",
+              "category": "vegetables"
+            }
+          },
+          {
+            "name_zh": "黄瓜",
+            "name_en": "cucumber",
+            "amount": "1",
+            "grocery_match": null,
+            "missing_importance": "med"
+          },
+          {
+            "name_zh": "胡萝卜",
+            "name_en": "carrot",
+            "amount": "half",
+            "grocery_match": {
+              "product_id": "88064",
+              "name": "Baby French Carrot 1 bunch",
+              "category": "vegetables"
+            }
+          }
         ],
         "auxiliary": [
-          { "name_zh": "淀粉", "name_en": "starch", "amount": "a little" },
-          { "name_zh": "葱花", "name_en": "chopped green onion", "amount": "to taste" },
-          { "name_zh": "姜末", "name_en": "minced ginger", "amount": "a little" }
+          {
+            "name_zh": "淀粉",
+            "name_en": "starch",
+            "amount": "a little",
+            "grocery_match": null,
+            "missing_importance": "low"
+          },
+          {
+            "name_zh": "葱花",
+            "name_en": "chopped green onion",
+            "amount": "to taste",
+            "grocery_match": null,
+            "missing_importance": "high"
+          },
+          {
+            "name_zh": "姜末",
+            "name_en": "minced ginger",
+            "amount": "a little",
+            "grocery_match": {
+              "product_id": "94449",
+              "name": "Organic Fresh Ginger 8 oz",
+              "category": "vegetables"
+            }
+          }
         ],
         "seasonings": [
-          { "name_zh": "酱油", "name_en": "soy sauce", "amount": "20g" },
-          { "name_zh": "盐", "name_en": "salt", "amount": "to taste" }
+          {
+            "name_zh": "酱油",
+            "name_en": "soy sauce",
+            "amount": "20g",
+            "grocery_match": {
+              "product_id": "leekumkee_reduced",
+              "name": "Lee Kum Kee Sodium Reduced Seasoning Soy Sauce 16.9 g",
+              "category": "seasoning_healthy_picks"
+            }
+          },
+          {
+            "name_zh": "盐",
+            "name_en": "salt",
+            "amount": "to taste",
+            "grocery_match": null,
+            "missing_importance": "low"
+          }
         ]
       }
     },
@@ -869,32 +3101,191 @@
       "difficulty": "高级",
       "ingredients": {
         "main": [
-          { "name_zh": "猪肉", "name_en": "pork", "amount": "500g" },
-          { "name_zh": "荸荠", "name_en": "water chestnut", "amount": "8" },
-          { "name_zh": "香菇", "name_en": "shiitake mushroom", "amount": "5" },
-          { "name_zh": "油菜", "name_en": "baby bok choy", "amount": "7 stalks" },
-          { "name_zh": "生姜", "name_en": "ginger", "amount": "to taste" },
-          { "name_zh": "大葱", "name_en": "green onion", "amount": "to taste" }
+          {
+            "name_zh": "猪肉",
+            "name_en": "pork",
+            "amount": "500g",
+            "grocery_match": {
+              "product_id": "105407",
+              "name": "Pork Tenderloin, Frozen 2-2.5 lb",
+              "category": "meat_lean_options"
+            }
+          },
+          {
+            "name_zh": "荸荠",
+            "name_en": "water chestnut",
+            "amount": "8",
+            "grocery_match": null,
+            "missing_importance": "med"
+          },
+          {
+            "name_zh": "香菇",
+            "name_en": "shiitake mushroom",
+            "amount": "5",
+            "grocery_match": null,
+            "missing_importance": "med"
+          },
+          {
+            "name_zh": "油菜",
+            "name_en": "baby bok choy",
+            "amount": "7 stalks",
+            "grocery_match": {
+              "product_id": "94800",
+              "name": "Shanghai Bok Choy 2 lb",
+              "category": "vegetables"
+            }
+          },
+          {
+            "name_zh": "生姜",
+            "name_en": "ginger",
+            "amount": "to taste",
+            "grocery_match": {
+              "product_id": "94449",
+              "name": "Organic Fresh Ginger 8 oz",
+              "category": "vegetables"
+            }
+          },
+          {
+            "name_zh": "大葱",
+            "name_en": "green onion",
+            "amount": "to taste",
+            "grocery_match": null,
+            "missing_importance": "high"
+          }
         ],
         "auxiliary": [
-          { "name_zh": "鸡蛋", "name_en": "egg", "amount": "1" },
-          { "name_zh": "蚝油", "name_en": "oyster sauce", "amount": "15g" },
-          { "name_zh": "生抽", "name_en": "light soy sauce", "amount": "15g" },
-          { "name_zh": "黄酒", "name_en": "yellow rice wine", "amount": "15g" },
-          { "name_zh": "淀粉", "name_en": "starch", "amount": "10g" },
-          { "name_zh": "水", "name_en": "water", "amount": "30g" },
-          { "name_zh": "胡椒粉", "name_en": "pepper powder", "amount": "to taste" },
-          { "name_zh": "盐", "name_en": "salt", "amount": "to taste" },
-          { "name_zh": "香油", "name_en": "sesame oil", "amount": "to taste" }
+          {
+            "name_zh": "鸡蛋",
+            "name_en": "egg",
+            "amount": "1",
+            "grocery_match": {
+              "product_id": "vitalfarms1",
+              "name": "Vital Farms Organic Pasture-Raised Eggs 18 ct",
+              "category": "dairy_and_eggs"
+            }
+          },
+          {
+            "name_zh": "蚝油",
+            "name_en": "oyster sauce",
+            "amount": "15g",
+            "grocery_match": null,
+            "missing_importance": "high"
+          },
+          {
+            "name_zh": "生抽",
+            "name_en": "light soy sauce",
+            "amount": "15g",
+            "grocery_match": {
+              "product_id": "leekumkee_reduced",
+              "name": "Lee Kum Kee Sodium Reduced Seasoning Soy Sauce 16.9 g",
+              "category": "seasoning_healthy_picks"
+            }
+          },
+          {
+            "name_zh": "黄酒",
+            "name_en": "yellow rice wine",
+            "amount": "15g",
+            "grocery_match": null,
+            "missing_importance": "high"
+          },
+          {
+            "name_zh": "淀粉",
+            "name_en": "starch",
+            "amount": "10g",
+            "grocery_match": null,
+            "missing_importance": "low"
+          },
+          {
+            "name_zh": "水",
+            "name_en": "water",
+            "amount": "30g",
+            "grocery_match": null,
+            "missing_importance": "low"
+          },
+          {
+            "name_zh": "胡椒粉",
+            "name_en": "pepper powder",
+            "amount": "to taste",
+            "grocery_match": {
+              "product_id": "whitepep1",
+              "name": "White Pepper Powder 32 g",
+              "category": "seasoning_healthy_picks"
+            }
+          },
+          {
+            "name_zh": "盐",
+            "name_en": "salt",
+            "amount": "to taste",
+            "grocery_match": null,
+            "missing_importance": "low"
+          },
+          {
+            "name_zh": "香油",
+            "name_en": "sesame oil",
+            "amount": "to taste",
+            "grocery_match": {
+              "product_id": "kadoya1",
+              "name": "Kadoya Roasted Sesame Oil 163 ml",
+              "category": "seasoning_healthy_picks"
+            }
+          }
         ],
         "seasonings": [
-          { "name_zh": "大葱", "name_en": "green onion", "amount": "to taste" },
-          { "name_zh": "生姜", "name_en": "ginger", "amount": "to taste" },
-          { "name_zh": "蚝油", "name_en": "oyster sauce", "amount": "15g" },
-          { "name_zh": "老抽", "name_en": "dark soy sauce", "amount": "15g" },
-          { "name_zh": "白砂糖", "name_en": "white sugar", "amount": "to taste" },
-          { "name_zh": "生抽", "name_en": "light soy sauce", "amount": "15g" },
-          { "name_zh": "高汤", "name_en": "stock / broth", "amount": "500ml" }
+          {
+            "name_zh": "大葱",
+            "name_en": "green onion",
+            "amount": "to taste",
+            "grocery_match": null,
+            "missing_importance": "high"
+          },
+          {
+            "name_zh": "生姜",
+            "name_en": "ginger",
+            "amount": "to taste",
+            "grocery_match": {
+              "product_id": "94449",
+              "name": "Organic Fresh Ginger 8 oz",
+              "category": "vegetables"
+            }
+          },
+          {
+            "name_zh": "蚝油",
+            "name_en": "oyster sauce",
+            "amount": "15g",
+            "grocery_match": null,
+            "missing_importance": "high"
+          },
+          {
+            "name_zh": "老抽",
+            "name_en": "dark soy sauce",
+            "amount": "15g",
+            "grocery_match": null,
+            "missing_importance": "high"
+          },
+          {
+            "name_zh": "白砂糖",
+            "name_en": "white sugar",
+            "amount": "to taste",
+            "grocery_match": null,
+            "missing_importance": "low"
+          },
+          {
+            "name_zh": "生抽",
+            "name_en": "light soy sauce",
+            "amount": "15g",
+            "grocery_match": {
+              "product_id": "leekumkee_reduced",
+              "name": "Lee Kum Kee Sodium Reduced Seasoning Soy Sauce 16.9 g",
+              "category": "seasoning_healthy_picks"
+            }
+          },
+          {
+            "name_zh": "高汤",
+            "name_en": "stock / broth",
+            "amount": "500ml",
+            "grocery_match": null,
+            "missing_importance": "low"
+          }
         ]
       }
     },
@@ -912,22 +3303,118 @@
       "difficulty": "普通",
       "ingredients": {
         "main": [
-          { "name_zh": "鸡", "name_en": "chicken", "amount": "half" },
-          { "name_zh": "干花菇", "name_en": "dried shiitake mushroom", "amount": "to taste" },
-          { "name_zh": "土豆", "name_en": "potato", "amount": "1" },
-          { "name_zh": "胡萝卜", "name_en": "carrot", "amount": "1" },
-          { "name_zh": "山药", "name_en": "Chinese yam", "amount": "half" }
+          {
+            "name_zh": "鸡",
+            "name_en": "chicken",
+            "amount": "half",
+            "grocery_match": {
+              "product_id": "460",
+              "name": "The Original B&B Stewing Hen, Frozen 1.5-2.5 lb",
+              "category": "meat_lean_options"
+            }
+          },
+          {
+            "name_zh": "干花菇",
+            "name_en": "dried shiitake mushroom",
+            "amount": "to taste",
+            "grocery_match": null,
+            "missing_importance": "med"
+          },
+          {
+            "name_zh": "土豆",
+            "name_en": "potato",
+            "amount": "1",
+            "grocery_match": null,
+            "missing_importance": "high"
+          },
+          {
+            "name_zh": "胡萝卜",
+            "name_en": "carrot",
+            "amount": "1",
+            "grocery_match": {
+              "product_id": "88064",
+              "name": "Baby French Carrot 1 bunch",
+              "category": "vegetables"
+            }
+          },
+          {
+            "name_zh": "山药",
+            "name_en": "Chinese yam",
+            "amount": "half",
+            "grocery_match": null,
+            "missing_importance": "med"
+          }
         ],
         "auxiliary": [
-          { "name_zh": "姜", "name_en": "ginger", "amount": "1 large piece" },
-          { "name_zh": "蒜", "name_en": "garlic", "amount": "4 cloves" },
-          { "name_zh": "辣椒", "name_en": "chili pepper", "amount": "to taste" },
-          { "name_zh": "盐", "name_en": "salt", "amount": "1 tbsp" },
-          { "name_zh": "生抽", "name_en": "light soy sauce", "amount": "1 tbsp" },
-          { "name_zh": "老抽", "name_en": "dark soy sauce", "amount": "1 tbsp" },
-          { "name_zh": "鸡精", "name_en": "chicken bouillon", "amount": "1 tsp" },
-          { "name_zh": "花椒", "name_en": "Sichuan peppercorn", "amount": "about 10" },
-          { "name_zh": "葱", "name_en": "green onion", "amount": "1 stalk" }
+          {
+            "name_zh": "姜",
+            "name_en": "ginger",
+            "amount": "1 large piece",
+            "grocery_match": {
+              "product_id": "94449",
+              "name": "Organic Fresh Ginger 8 oz",
+              "category": "vegetables"
+            }
+          },
+          {
+            "name_zh": "蒜",
+            "name_en": "garlic",
+            "amount": "4 cloves",
+            "grocery_match": null,
+            "missing_importance": "high"
+          },
+          {
+            "name_zh": "辣椒",
+            "name_en": "chili pepper",
+            "amount": "to taste",
+            "grocery_match": null,
+            "missing_importance": "med"
+          },
+          {
+            "name_zh": "盐",
+            "name_en": "salt",
+            "amount": "1 tbsp",
+            "grocery_match": null,
+            "missing_importance": "low"
+          },
+          {
+            "name_zh": "生抽",
+            "name_en": "light soy sauce",
+            "amount": "1 tbsp",
+            "grocery_match": {
+              "product_id": "leekumkee_reduced",
+              "name": "Lee Kum Kee Sodium Reduced Seasoning Soy Sauce 16.9 g",
+              "category": "seasoning_healthy_picks"
+            }
+          },
+          {
+            "name_zh": "老抽",
+            "name_en": "dark soy sauce",
+            "amount": "1 tbsp",
+            "grocery_match": null,
+            "missing_importance": "high"
+          },
+          {
+            "name_zh": "鸡精",
+            "name_en": "chicken bouillon",
+            "amount": "1 tsp",
+            "grocery_match": null,
+            "missing_importance": "low"
+          },
+          {
+            "name_zh": "花椒",
+            "name_en": "Sichuan peppercorn",
+            "amount": "about 10",
+            "grocery_match": null,
+            "missing_importance": "high"
+          },
+          {
+            "name_zh": "葱",
+            "name_en": "green onion",
+            "amount": "1 stalk",
+            "grocery_match": null,
+            "missing_importance": "high"
+          }
         ]
       }
     },
@@ -945,18 +3432,84 @@
       "difficulty": "简单",
       "ingredients": {
         "main": [
-          { "name_zh": "鸭", "name_en": "duck", "amount": "500g" },
-          { "name_zh": "啤酒", "name_en": "beer", "amount": "500ml" }
+          {
+            "name_zh": "鸭",
+            "name_en": "duck",
+            "amount": "500g",
+            "grocery_match": null,
+            "missing_importance": "med"
+          },
+          {
+            "name_zh": "啤酒",
+            "name_en": "beer",
+            "amount": "500ml",
+            "grocery_match": null,
+            "missing_importance": "med"
+          }
         ],
         "auxiliary": [
-          { "name_zh": "蒜瓣", "name_en": "garlic cloves", "amount": "1 head" },
-          { "name_zh": "姜片", "name_en": "ginger slices", "amount": "4 slices" },
-          { "name_zh": "葱段", "name_en": "green onion sections", "amount": "2 sections" },
-          { "name_zh": "花椒", "name_en": "Sichuan peppercorn", "amount": "10 pieces" },
-          { "name_zh": "干辣椒", "name_en": "dried chili pepper", "amount": "2" },
-          { "name_zh": "生抽", "name_en": "light soy sauce", "amount": "2 tbsp" },
-          { "name_zh": "老抽", "name_en": "dark soy sauce", "amount": "half tbsp" },
-          { "name_zh": "盐", "name_en": "salt", "amount": "to taste" }
+          {
+            "name_zh": "蒜瓣",
+            "name_en": "garlic cloves",
+            "amount": "1 head",
+            "grocery_match": null,
+            "missing_importance": "high"
+          },
+          {
+            "name_zh": "姜片",
+            "name_en": "ginger slices",
+            "amount": "4 slices",
+            "grocery_match": {
+              "product_id": "94449",
+              "name": "Organic Fresh Ginger 8 oz",
+              "category": "vegetables"
+            }
+          },
+          {
+            "name_zh": "葱段",
+            "name_en": "green onion sections",
+            "amount": "2 sections",
+            "grocery_match": null,
+            "missing_importance": "high"
+          },
+          {
+            "name_zh": "花椒",
+            "name_en": "Sichuan peppercorn",
+            "amount": "10 pieces",
+            "grocery_match": null,
+            "missing_importance": "high"
+          },
+          {
+            "name_zh": "干辣椒",
+            "name_en": "dried chili pepper",
+            "amount": "2",
+            "grocery_match": null,
+            "missing_importance": "high"
+          },
+          {
+            "name_zh": "生抽",
+            "name_en": "light soy sauce",
+            "amount": "2 tbsp",
+            "grocery_match": {
+              "product_id": "leekumkee_reduced",
+              "name": "Lee Kum Kee Sodium Reduced Seasoning Soy Sauce 16.9 g",
+              "category": "seasoning_healthy_picks"
+            }
+          },
+          {
+            "name_zh": "老抽",
+            "name_en": "dark soy sauce",
+            "amount": "half tbsp",
+            "grocery_match": null,
+            "missing_importance": "high"
+          },
+          {
+            "name_zh": "盐",
+            "name_en": "salt",
+            "amount": "to taste",
+            "grocery_match": null,
+            "missing_importance": "low"
+          }
         ]
       }
     }

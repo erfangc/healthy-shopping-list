@@ -1,73 +1,68 @@
-# React + TypeScript + Vite
+# Healthy Shopping List
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A bilingual (English/Chinese) web app that curates healthy grocery items from [Weee!](https://www.sayweee.com), an Asian grocery platform. Products are selected based on health-conscious criteria: low LDL cholesterol impact, low glycemic index, low sodium, and low saturated fat — suitable for managing borderline high LDL, hypertension, and fatty liver.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+- **Bilingual interface** — toggle between English and Simplified Chinese
+- **156 products across 12 categories** — vegetables, fruits, tofu & vegan, seafood, lean meat, frozen picks, dry goods, instant & packaged, beverages, snacks, dairy & eggs, seasonings
+- **Search** — real-time filtering across product names and health notes in both languages
+- **Health benefit notes** — each product includes a note explaining why it was selected
+- **Responsive design** — sidebar navigation on desktop, horizontal scroll tabs on mobile, 1–4 column grid
+- **Dark mode** support
+- **Direct links** to product pages on Weee!
 
-## React Compiler
+## Tech Stack
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- **React 19** + **TypeScript** + **Vite**
+- **Tailwind CSS** for styling
+- **Cheerio** for data enrichment scripts (scraping product images and Chinese names)
 
-## Expanding the ESLint configuration
+## Getting Started
 
-If you are developing a production application, we recommend updating the configuration to enable type-aware lint rules:
+```bash
+# Install dependencies
+npm install
 
-```js
-export default defineConfig([
-  globalIgnores(['dist']),
-  {
-    files: ['**/*.{ts,tsx}'],
-    extends: [
-      // Other configs...
+# Start dev server (with HMR)
+npm run dev
 
-      // Remove tseslint.configs.recommended and replace with this
-      tseslint.configs.recommendedTypeChecked,
-      // Alternatively, use this for stricter rules
-      tseslint.configs.strictTypeChecked,
-      // Optionally, add this for stylistic rules
-      tseslint.configs.stylisticTypeChecked,
+# Build for production
+npm run build
 
-      // Other configs...
-    ],
-    languageOptions: {
-      parserOptions: {
-        project: ['./tsconfig.node.json', './tsconfig.app.json'],
-        tsconfigRootDir: import.meta.dirname,
-      },
-      // other options...
-    },
-  },
-])
+# Preview production build
+npm run preview
 ```
 
-You can also install [eslint-plugin-react-x](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-x) and [eslint-plugin-react-dom](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-dom) for React-specific lint rules:
+## Scripts
 
-```js
-// eslint.config.js
-import reactX from 'eslint-plugin-react-x'
-import reactDom from 'eslint-plugin-react-dom'
+| Command | Description |
+|---|---|
+| `npm run dev` | Start development server |
+| `npm run build` | TypeScript check + Vite production build |
+| `npm run preview` | Preview the production build locally |
+| `npm run lint` | Run ESLint |
+| `npm run scrape` | Enrich product data (fetch images & Chinese names from Weee!) |
+| `npm run scrape:force` | Force re-scrape all products |
 
-export default defineConfig([
-  globalIgnores(['dist']),
-  {
-    files: ['**/*.{ts,tsx}'],
-    extends: [
-      // Other configs...
-      // Enable lint rules for React
-      reactX.configs['recommended-typescript'],
-      // Enable lint rules for React DOM
-      reactDom.configs.recommended,
-    ],
-    languageOptions: {
-      parserOptions: {
-        project: ['./tsconfig.node.json', './tsconfig.app.json'],
-        tsconfigRootDir: import.meta.dirname,
-      },
-      // other options...
-    },
-  },
-])
+## Project Structure
+
+```
+src/
+  components/       # React UI components
+    Header.tsx      # Sticky header with search & language toggle
+    Sidebar.tsx     # Category navigation
+    ProductGrid.tsx # Product grid layout
+    ProductCard.tsx # Individual product card
+    Footer.tsx      # Footer with disclaimers
+  data/
+    grocery-items.json  # Product database
+    classic-dishes.json # Classic dishes data
+    categories.ts       # Category labels & metadata
+    types.ts            # TypeScript interfaces
+  App.tsx           # Main app (state management, filtering)
+  main.tsx          # Entry point
+  index.css         # Tailwind config & custom theme
+scripts/
+  enrich-data.ts    # Web scraper for product enrichment
 ```

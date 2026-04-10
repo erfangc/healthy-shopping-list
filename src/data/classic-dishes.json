@@ -1,0 +1,964 @@
+{
+  "metadata": {
+    "source_url": "https://www.meishichina.com",
+    "source_name": "美食天下 (Meishi China)",
+    "scraped_date": "2026-04-10",
+    "description": "Popular classic Chinese dishes with detailed ingredients, sourced from the ranked 家常菜 (home-cooking) section",
+    "total_dishes": 30,
+    "selection_criteria": "Top-ranked dishes from the site's 最常见的家常菜 list (most common home-cooking dishes), selecting the first/top recipe variant for each"
+  },
+  "dishes": [
+    {
+      "id": "hongshaorou",
+      "name_zh": "红烧肉",
+      "name_en": "Red Braised Pork Belly",
+      "description_zh": "红烧肉是热菜菜谱之一。以五花肉为制作主料，最好选用肥瘦相间的三层肉来做。红烧肉的烹饪技巧以砂锅为主，肥瘦相间，香甜松软，入口即化。红烧肉在我国各地流传甚广，是一道著名的大众菜肴。",
+      "recipe_url": "https://home.meishichina.com/recipe-561308.html",
+      "topic_url": "https://www.meishichina.com/mofang/hongshaorou/",
+      "category": "热菜",
+      "flavor": "咸甜",
+      "cooking_method": "炖",
+      "time_required": "数小时",
+      "difficulty": "普通",
+      "ingredients": {
+        "main": [
+          { "name_zh": "五花肉", "name_en": "pork belly", "amount": "500g" }
+        ],
+        "seasonings": [
+          { "name_zh": "冰糖", "name_en": "rock sugar", "amount": "50g" },
+          { "name_zh": "花雕酒", "name_en": "Shaoxing wine", "amount": "1 bowl" },
+          { "name_zh": "生抽", "name_en": "light soy sauce", "amount": "50g" },
+          { "name_zh": "老抽", "name_en": "dark soy sauce", "amount": "20g" },
+          { "name_zh": "八角", "name_en": "star anise", "amount": "2 pieces" },
+          { "name_zh": "桂皮", "name_en": "cinnamon bark", "amount": "1 small piece" },
+          { "name_zh": "红曲米", "name_en": "red yeast rice", "amount": "10g" },
+          { "name_zh": "香葱", "name_en": "scallion", "amount": "1 bunch" },
+          { "name_zh": "葱", "name_en": "green onion", "amount": "to taste" },
+          { "name_zh": "姜", "name_en": "ginger", "amount": "to taste" }
+        ]
+      }
+    },
+    {
+      "id": "tangcupaigu",
+      "name_zh": "糖醋排骨",
+      "name_en": "Sweet & Sour Ribs",
+      "description_zh": "糖醋排骨是川菜糖醋味型中具有代表性的一道大众喜爱的传统菜，因为口味香脆酸甜，颇受江浙沪人士喜爱。",
+      "recipe_url": "https://home.meishichina.com/recipe-559270.html",
+      "topic_url": "https://www.meishichina.com/mofang/tangcupaigu/",
+      "category": "热菜",
+      "flavor": "酸甜",
+      "cooking_method": "烧",
+      "time_required": "半小时",
+      "difficulty": "高级",
+      "ingredients": {
+        "main": [
+          { "name_zh": "排骨", "name_en": "pork ribs", "amount": "500g" }
+        ],
+        "auxiliary": [
+          { "name_zh": "姜", "name_en": "ginger", "amount": "1 piece" },
+          { "name_zh": "大葱", "name_en": "green onion", "amount": "1 stalk" }
+        ],
+        "seasonings": [
+          { "name_zh": "精盐", "name_en": "salt", "amount": "to taste" },
+          { "name_zh": "冰糖", "name_en": "rock sugar", "amount": "50g" },
+          { "name_zh": "陈醋", "name_en": "aged vinegar", "amount": "50g" },
+          { "name_zh": "料酒", "name_en": "cooking wine", "amount": "to taste" },
+          { "name_zh": "白砂糖", "name_en": "white sugar", "amount": "50g" }
+        ]
+      }
+    },
+    {
+      "id": "kelejichi",
+      "name_zh": "可乐鸡翅",
+      "name_en": "Cola Chicken Wings",
+      "description_zh": "可乐鸡翅，以鸡翅和可乐为主料制作而成。味道鲜美，色泽艳丽，鸡翅嫩滑，咸甜适中，又保留了可乐的香气，深受大众喜欢。",
+      "recipe_url": "https://home.meishichina.com/recipe-581685.html",
+      "topic_url": "https://www.meishichina.com/mofang/kelejichi/",
+      "category": "热菜",
+      "flavor": "咸鲜",
+      "cooking_method": "炖",
+      "time_required": "三刻钟",
+      "difficulty": "简单",
+      "ingredients": {
+        "main": [
+          { "name_zh": "鸡翅", "name_en": "chicken wings", "amount": "to taste" },
+          { "name_zh": "百事可乐", "name_en": "Pepsi Cola", "amount": "600ml" }
+        ],
+        "auxiliary": [
+          { "name_zh": "葱", "name_en": "green onion", "amount": "to taste" },
+          { "name_zh": "姜", "name_en": "ginger", "amount": "to taste" },
+          { "name_zh": "白芝麻", "name_en": "white sesame seeds", "amount": "to taste" }
+        ],
+        "seasonings": [
+          { "name_zh": "油", "name_en": "cooking oil", "amount": "to taste" },
+          { "name_zh": "盐", "name_en": "salt", "amount": "to taste" },
+          { "name_zh": "冰糖", "name_en": "rock sugar", "amount": "to taste" },
+          { "name_zh": "酱油", "name_en": "soy sauce", "amount": "to taste" },
+          { "name_zh": "料酒", "name_en": "cooking wine", "amount": "to taste" },
+          { "name_zh": "老抽", "name_en": "dark soy sauce", "amount": "to taste" },
+          { "name_zh": "白酒", "name_en": "Chinese baijiu", "amount": "to taste" }
+        ]
+      }
+    },
+    {
+      "id": "gongbaojiding",
+      "name_zh": "宫保鸡丁",
+      "name_en": "Kung Pao Chicken",
+      "description_zh": "宫保鸡丁是汉族传统经典的名菜，属川菜名菜。创始人为四川地区居民，后被宫保丁宝桢改良发扬光大，流传至今。此道菜也被归纳为北京宫廷菜。红而不辣、辣而不猛、香辣味浓、肉质滑脆。",
+      "recipe_url": "https://home.meishichina.com/recipe-586593.html",
+      "topic_url": "https://www.meishichina.com/mofang/gongbaojiding/",
+      "category": "热菜",
+      "flavor": "甜辣",
+      "cooking_method": "炒",
+      "time_required": "半小时",
+      "difficulty": "普通",
+      "ingredients": {
+        "main": [
+          { "name_zh": "鸡胸肉", "name_en": "chicken breast", "amount": "1 piece" },
+          { "name_zh": "胡萝卜", "name_en": "carrot", "amount": "0.5" },
+          { "name_zh": "花生", "name_en": "peanuts", "amount": "1 handful" },
+          { "name_zh": "黄瓜", "name_en": "cucumber", "amount": "0.5" }
+        ],
+        "auxiliary": [
+          { "name_zh": "葱", "name_en": "green onion", "amount": "1 stalk" },
+          { "name_zh": "姜", "name_en": "ginger", "amount": "1 piece" },
+          { "name_zh": "蒜", "name_en": "garlic", "amount": "2 cloves" }
+        ],
+        "seasonings": [
+          { "name_zh": "豆瓣酱", "name_en": "doubanjiang (broad bean paste)", "amount": "1-2 tbsp" },
+          { "name_zh": "盐", "name_en": "salt", "amount": "2g" },
+          { "name_zh": "糖", "name_en": "sugar", "amount": "3g" },
+          { "name_zh": "白胡椒粉", "name_en": "white pepper powder", "amount": "2g" },
+          { "name_zh": "鸡精", "name_en": "chicken bouillon", "amount": "1 tsp" },
+          { "name_zh": "生抽", "name_en": "light soy sauce", "amount": "2 tbsp" },
+          { "name_zh": "蚝油", "name_en": "oyster sauce", "amount": "1 tbsp" },
+          { "name_zh": "玉米淀粉", "name_en": "corn starch", "amount": "to taste" }
+        ]
+      }
+    },
+    {
+      "id": "yuxiangrousi",
+      "name_zh": "鱼香肉丝",
+      "name_en": "Yu Xiang Shredded Pork",
+      "description_zh": "鱼香肉丝是一道经典的中国汉族传统名菜，具有咸、酸、甜、辣、香、鲜和浓郁的葱、姜、蒜味的特色。",
+      "recipe_url": "https://home.meishichina.com/recipe-569542.html",
+      "topic_url": "https://www.meishichina.com/mofang/yuxiangrousi/",
+      "category": "热菜",
+      "flavor": "鱼香",
+      "cooking_method": "炒",
+      "time_required": "廿分钟",
+      "difficulty": "普通",
+      "ingredients": {
+        "main": [
+          { "name_zh": "里脊肉", "name_en": "pork tenderloin", "amount": "400g" }
+        ],
+        "auxiliary": [
+          { "name_zh": "胡萝卜", "name_en": "carrot", "amount": "half" },
+          { "name_zh": "绿彩椒", "name_en": "green bell pepper", "amount": "half" },
+          { "name_zh": "红彩椒", "name_en": "red bell pepper", "amount": "1/3" },
+          { "name_zh": "木耳", "name_en": "wood ear mushroom", "amount": "to taste" },
+          { "name_zh": "葱", "name_en": "green onion", "amount": "3 tbsp" },
+          { "name_zh": "生姜", "name_en": "ginger", "amount": "to taste" },
+          { "name_zh": "蛋清", "name_en": "egg white", "amount": "1" }
+        ],
+        "seasonings": [
+          { "name_zh": "盐", "name_en": "salt", "amount": "half tsp" },
+          { "name_zh": "生抽", "name_en": "light soy sauce", "amount": "1 tbsp" },
+          { "name_zh": "料酒", "name_en": "cooking wine", "amount": "to taste" },
+          { "name_zh": "蚝油", "name_en": "oyster sauce", "amount": "1 tbsp" },
+          { "name_zh": "香醋", "name_en": "Chinkiang vinegar", "amount": "1 tbsp" },
+          { "name_zh": "郫县豆瓣酱", "name_en": "Pixian doubanjiang", "amount": "1 tbsp" },
+          { "name_zh": "味精", "name_en": "MSG", "amount": "to taste" },
+          { "name_zh": "白糖", "name_en": "white sugar", "amount": "to taste" },
+          { "name_zh": "淀粉", "name_en": "starch", "amount": "to taste" },
+          { "name_zh": "清水", "name_en": "water", "amount": "to taste" },
+          { "name_zh": "花生油", "name_en": "peanut oil", "amount": "to taste" }
+        ]
+      }
+    },
+    {
+      "id": "mapodoufu",
+      "name_zh": "麻婆豆腐",
+      "name_en": "Mapo Tofu",
+      "description_zh": "麻婆豆腐是四川省汉族传统名菜之一，属于川菜系。主要原料为配料和豆腐，材料主要有豆腐、牛肉末（也可以用猪肉）、辣椒和花椒等。麻来自花椒，辣来自辣椒，这道菜突出了川菜「麻辣」的特点。",
+      "recipe_url": "https://home.meishichina.com/recipe-459741.html",
+      "topic_url": "https://www.meishichina.com/mofang/mapodoufu/",
+      "category": "热菜",
+      "flavor": "麻辣",
+      "cooking_method": "炸",
+      "time_required": "十分钟",
+      "difficulty": "普通",
+      "ingredients": {
+        "main": [
+          { "name_zh": "嫩豆腐", "name_en": "soft tofu", "amount": "400g" },
+          { "name_zh": "牛肉末", "name_en": "ground beef", "amount": "100g" }
+        ],
+        "auxiliary": [
+          { "name_zh": "郫县豆瓣", "name_en": "Pixian doubanjiang", "amount": "30g" },
+          { "name_zh": "料酒", "name_en": "cooking wine", "amount": "10g" },
+          { "name_zh": "酱油", "name_en": "soy sauce", "amount": "10g" },
+          { "name_zh": "葱姜蒜末", "name_en": "minced green onion, ginger & garlic", "amount": "to taste" },
+          { "name_zh": "豆豉", "name_en": "fermented black beans", "amount": "5g" },
+          { "name_zh": "辣椒面", "name_en": "chili flakes", "amount": "5g" },
+          { "name_zh": "糖", "name_en": "sugar", "amount": "5g" },
+          { "name_zh": "花椒", "name_en": "Sichuan peppercorn", "amount": "2g" },
+          { "name_zh": "蒜苗", "name_en": "garlic sprouts", "amount": "1 stalk" },
+          { "name_zh": "盐", "name_en": "salt", "amount": "to taste" }
+        ]
+      }
+    },
+    {
+      "id": "xihongshichaojidan",
+      "name_zh": "西红柿炒鸡蛋",
+      "name_en": "Tomato & Egg Stir-Fry",
+      "description_zh": "西红柿炒鸡蛋，又名番茄炒蛋。是许多百姓家庭中一道普通的大众菜肴。它的烹调方法简单易学，营养搭配合理。在口感方面，它色泽鲜艳，口味宜人，爽口、开胃，深受大众喜爱。",
+      "recipe_url": "https://home.meishichina.com/recipe-478637.html",
+      "topic_url": "https://www.meishichina.com/mofang/xihongshichaojidan/",
+      "category": "热菜",
+      "flavor": "酸甜",
+      "cooking_method": "炒",
+      "time_required": "十分钟",
+      "difficulty": "简单",
+      "ingredients": {
+        "main": [
+          { "name_zh": "鸡蛋", "name_en": "eggs", "amount": "3" },
+          { "name_zh": "番茄", "name_en": "tomato", "amount": "2" }
+        ],
+        "auxiliary": [
+          { "name_zh": "盐", "name_en": "salt", "amount": "a pinch" },
+          { "name_zh": "糖", "name_en": "sugar", "amount": "to taste" }
+        ]
+      }
+    },
+    {
+      "id": "suanlatudousi",
+      "name_zh": "酸辣土豆丝",
+      "name_en": "Hot & Sour Shredded Potato",
+      "description_zh": "酸辣土豆丝是一道色香味俱全的汉族菜式。此菜是老百姓餐桌上最常见的家常菜。其主料土豆性平和胃，有改善肠胃功能、预防高血压的功效。辅料辣椒富含维生素C，可增强体力。",
+      "recipe_url": "https://home.meishichina.com/recipe-450206.html",
+      "topic_url": "https://www.meishichina.com/mofang/suanlatudousi/",
+      "category": "热菜",
+      "flavor": "酸辣",
+      "cooking_method": "炒",
+      "time_required": "十分钟",
+      "difficulty": "简单",
+      "ingredients": {
+        "main": [
+          { "name_zh": "土豆", "name_en": "potato", "amount": "1" }
+        ],
+        "auxiliary": [
+          { "name_zh": "葱", "name_en": "green onion", "amount": "a little" },
+          { "name_zh": "干辣椒", "name_en": "dried chili pepper", "amount": "1" },
+          { "name_zh": "花椒", "name_en": "Sichuan peppercorn", "amount": "a little" },
+          { "name_zh": "蒜头", "name_en": "garlic", "amount": "2 cloves" },
+          { "name_zh": "醋", "name_en": "vinegar", "amount": "1 tbsp" },
+          { "name_zh": "白糖", "name_en": "white sugar", "amount": "1 tbsp" }
+        ]
+      }
+    },
+    {
+      "id": "huiguorou",
+      "name_zh": "回锅肉",
+      "name_en": "Twice-Cooked Pork",
+      "description_zh": "回锅肉是汉族特色菜肴。属中国八大菜系川菜中一种烹调猪肉的传统菜式，川西成都一带称作熬锅肉，川东重庆一带称为回锅肉。川渝地区家家户户都能制作。回锅肉的特点是：口味独特，色泽红亮，肥而不腻，入口浓香。",
+      "recipe_url": "https://home.meishichina.com/recipe-454107.html",
+      "topic_url": "https://www.meishichina.com/mofang/huiguorou/",
+      "category": "热菜",
+      "flavor": "微辣",
+      "cooking_method": "爆",
+      "time_required": "廿分钟",
+      "difficulty": "普通",
+      "ingredients": {
+        "main": [
+          { "name_zh": "五花肉", "name_en": "pork belly", "amount": "to taste" }
+        ],
+        "auxiliary": [
+          { "name_zh": "青椒", "name_en": "green pepper", "amount": "to taste" },
+          { "name_zh": "豆瓣酱", "name_en": "doubanjiang (broad bean paste)", "amount": "to taste" },
+          { "name_zh": "花椒", "name_en": "Sichuan peppercorn", "amount": "to taste" },
+          { "name_zh": "料酒", "name_en": "cooking wine", "amount": "to taste" },
+          { "name_zh": "味精", "name_en": "MSG", "amount": "to taste" },
+          { "name_zh": "蒜苗", "name_en": "garlic sprouts", "amount": "to taste" },
+          { "name_zh": "葱", "name_en": "green onion", "amount": "to taste" },
+          { "name_zh": "姜", "name_en": "ginger", "amount": "to taste" },
+          { "name_zh": "蒜", "name_en": "garlic", "amount": "to taste" },
+          { "name_zh": "老抽", "name_en": "dark soy sauce", "amount": "to taste" },
+          { "name_zh": "白糖", "name_en": "white sugar", "amount": "to taste" },
+          { "name_zh": "盐", "name_en": "salt", "amount": "to taste" },
+          { "name_zh": "油", "name_en": "cooking oil", "amount": "to taste" },
+          { "name_zh": "红椒", "name_en": "red pepper", "amount": "to taste" }
+        ]
+      }
+    },
+    {
+      "id": "shuizhuyu",
+      "name_zh": "水煮鱼",
+      "name_en": "Sichuan Boiled Fish",
+      "description_zh": "实际做工考究——选新鲜生猛活鱼，又充分发挥辣椒御寒、益气养血功效，烹调出来的肉质一点也不会变韧，口感滑嫩，油而不腻。既去除了鱼的腥味，又保持了鱼的鲜嫩。",
+      "recipe_url": "https://home.meishichina.com/recipe-591841.html",
+      "topic_url": "https://www.meishichina.com/mofang/shuizhuyu/",
+      "category": "热菜",
+      "flavor": "麻辣",
+      "cooking_method": "煮",
+      "time_required": "廿分钟",
+      "difficulty": "简单",
+      "ingredients": {
+        "main": [
+          { "name_zh": "冰鲜青花椒", "name_en": "fresh green Sichuan peppercorn", "amount": "to taste" },
+          { "name_zh": "黑鱼片", "name_en": "snakehead fish fillet", "amount": "to taste" },
+          { "name_zh": "金针菇", "name_en": "enoki mushroom", "amount": "to taste" },
+          { "name_zh": "黄豆芽", "name_en": "soybean sprouts", "amount": "to taste" },
+          { "name_zh": "莴笋", "name_en": "lettuce stem (celtuce)", "amount": "to taste" },
+          { "name_zh": "千张", "name_en": "tofu skin sheets", "amount": "1 sheet" }
+        ],
+        "auxiliary": [
+          { "name_zh": "葱", "name_en": "green onion", "amount": "to taste" },
+          { "name_zh": "花椒", "name_en": "Sichuan peppercorn", "amount": "to taste" },
+          { "name_zh": "辣椒", "name_en": "chili pepper", "amount": "to taste" },
+          { "name_zh": "小米椒", "name_en": "bird's eye chili", "amount": "to taste" },
+          { "name_zh": "山茶油", "name_en": "camellia oil", "amount": "to taste" },
+          { "name_zh": "郫县豆瓣酱", "name_en": "Pixian doubanjiang", "amount": "to taste" },
+          { "name_zh": "火锅底料", "name_en": "hotpot base", "amount": "to taste" },
+          { "name_zh": "盐", "name_en": "salt", "amount": "to taste" },
+          { "name_zh": "生抽", "name_en": "light soy sauce", "amount": "to taste" },
+          { "name_zh": "鸡精", "name_en": "chicken bouillon", "amount": "optional" },
+          { "name_zh": "姜", "name_en": "ginger", "amount": "to taste" }
+        ]
+      }
+    },
+    {
+      "id": "hongshaoqiezi",
+      "name_zh": "红烧茄子",
+      "name_en": "Red Braised Eggplant",
+      "description_zh": "红烧茄子是一道历史久远的汉族传统佳肴，此菜是素菜中的精细者。鲜香适口，外酥里嫩，味美多汁，大众食品。",
+      "recipe_url": "https://home.meishichina.com/recipe-434031.html",
+      "topic_url": "https://www.meishichina.com/mofang/hongshaoqiezi/",
+      "category": "热菜",
+      "flavor": "微辣",
+      "cooking_method": "烧",
+      "time_required": "廿分钟",
+      "difficulty": "普通",
+      "ingredients": {
+        "main": [
+          { "name_zh": "圆茄子", "name_en": "round eggplant", "amount": "1" },
+          { "name_zh": "西红柿", "name_en": "tomato", "amount": "1" },
+          { "name_zh": "青椒", "name_en": "green pepper", "amount": "half" },
+          { "name_zh": "红柿子椒", "name_en": "red bell pepper", "amount": "half" }
+        ],
+        "auxiliary": [
+          { "name_zh": "大蒜", "name_en": "garlic", "amount": "4 cloves" },
+          { "name_zh": "番茄酱", "name_en": "ketchup / tomato paste", "amount": "20g" },
+          { "name_zh": "白砂糖", "name_en": "white sugar", "amount": "15g" },
+          { "name_zh": "红烧酱油", "name_en": "braising soy sauce (or dark soy sauce)", "amount": "10ml" },
+          { "name_zh": "玉米淀粉", "name_en": "corn starch", "amount": "to taste" },
+          { "name_zh": "盐", "name_en": "salt", "amount": "to taste" },
+          { "name_zh": "食用油", "name_en": "cooking oil", "amount": "to taste" }
+        ]
+      }
+    },
+    {
+      "id": "tangculiji",
+      "name_zh": "糖醋里脊",
+      "name_en": "Sweet & Sour Pork Tenderloin",
+      "description_zh": "糖醋里脊是经典汉族名菜之一。在浙江菜、鲁菜、川菜、粤菜和淮菜里都有此菜，以鲁菜的糖醋里脊最负盛名。糖醋里脊以猪里脊肉为主材，配以面粉，淀粉，醋等作料，酸甜可口，让人食欲大开。",
+      "recipe_url": "https://home.meishichina.com/recipe-442379.html",
+      "topic_url": "https://www.meishichina.com/mofang/tangculiji/",
+      "category": "热菜",
+      "flavor": "酸甜",
+      "cooking_method": "炸",
+      "time_required": "廿分钟",
+      "difficulty": "简单",
+      "ingredients": {
+        "main": [
+          { "name_zh": "里脊肉", "name_en": "pork tenderloin", "amount": "300g" }
+        ],
+        "auxiliary": [
+          { "name_zh": "小葱", "name_en": "small scallion", "amount": "2 stalks" },
+          { "name_zh": "生姜", "name_en": "ginger", "amount": "2-3 slices" },
+          { "name_zh": "大蒜", "name_en": "garlic", "amount": "3 cloves" },
+          { "name_zh": "香醋", "name_en": "Chinkiang vinegar", "amount": "to taste" },
+          { "name_zh": "白砂糖", "name_en": "white sugar", "amount": "to taste" },
+          { "name_zh": "生抽", "name_en": "light soy sauce", "amount": "to taste" },
+          { "name_zh": "番茄酱", "name_en": "ketchup / tomato paste", "amount": "to taste" },
+          { "name_zh": "盐", "name_en": "salt", "amount": "to taste" },
+          { "name_zh": "玉米淀粉", "name_en": "corn starch", "amount": "to taste" },
+          { "name_zh": "熟白芝麻", "name_en": "roasted white sesame seeds", "amount": "to taste" }
+        ]
+      }
+    },
+    {
+      "id": "suancaiyu",
+      "name_zh": "酸菜鱼",
+      "name_en": "Sour Cabbage Fish",
+      "description_zh": "酸菜鱼属四川菜系，以其特有的调味和独特的烹调技法而著称，各地也有称之为「酸汤鱼」，主要以鲜草鱼为主料，配以四川泡菜煮制而成。",
+      "recipe_url": "https://home.meishichina.com/recipe-384673.html",
+      "topic_url": "https://www.meishichina.com/mofang/suancaiyu/",
+      "category": "热菜",
+      "flavor": "咸鲜",
+      "cooking_method": "煮",
+      "time_required": "廿分钟",
+      "difficulty": "普通",
+      "ingredients": {
+        "main": [
+          { "name_zh": "鱼", "name_en": "fish (grass carp)", "amount": "1 whole" },
+          { "name_zh": "酸菜", "name_en": "pickled mustard greens", "amount": "1 handful" },
+          { "name_zh": "菜籽油", "name_en": "rapeseed oil", "amount": "1 bowl" }
+        ],
+        "auxiliary": [
+          { "name_zh": "泡姜", "name_en": "pickled ginger", "amount": "to taste" },
+          { "name_zh": "泡辣椒", "name_en": "pickled chili pepper", "amount": "to taste" },
+          { "name_zh": "葱", "name_en": "green onion", "amount": "3 stalks" },
+          { "name_zh": "胡椒粉", "name_en": "pepper powder", "amount": "1 tsp" },
+          { "name_zh": "干花椒粒", "name_en": "dried Sichuan peppercorn", "amount": "1 small handful" },
+          { "name_zh": "干辣椒", "name_en": "dried chili pepper", "amount": "1 small handful" },
+          { "name_zh": "大蒜", "name_en": "garlic", "amount": "to taste" },
+          { "name_zh": "水淀粉", "name_en": "starch water slurry", "amount": "half bowl" },
+          { "name_zh": "白酒", "name_en": "Chinese baijiu", "amount": "2 tbsp" }
+        ]
+      }
+    },
+    {
+      "id": "guobaorou",
+      "name_zh": "锅包肉",
+      "name_en": "Guobaorou (Crispy Sweet Pork)",
+      "description_zh": "锅包肉是一道东北风味菜，即将猪里脊肉切片腌入味，裹上炸浆下锅炸至金黄色捞起，再下锅拌炒勾芡即成。成菜色泽金黄，口味酸甜。",
+      "recipe_url": "https://home.meishichina.com/recipe-494608.html",
+      "topic_url": "https://www.meishichina.com/mofang/guobaorou/",
+      "category": "热菜",
+      "flavor": "原味",
+      "cooking_method": "炸",
+      "time_required": null,
+      "difficulty": "神级",
+      "ingredients": {
+        "main": [
+          { "name_zh": "猪里脊肉", "name_en": "pork tenderloin", "amount": "200g" }
+        ],
+        "auxiliary": [
+          { "name_zh": "生抽", "name_en": "light soy sauce", "amount": "to taste" },
+          { "name_zh": "白糖", "name_en": "white sugar", "amount": "half tsp" },
+          { "name_zh": "胡萝卜", "name_en": "carrot", "amount": "1/4" },
+          { "name_zh": "大蒜", "name_en": "garlic", "amount": "4 cloves" },
+          { "name_zh": "生姜", "name_en": "ginger", "amount": "1 small piece" },
+          { "name_zh": "香葱", "name_en": "scallion", "amount": "1 stalk" },
+          { "name_zh": "花生油", "name_en": "peanut oil", "amount": "to taste" },
+          { "name_zh": "清水", "name_en": "water", "amount": "to taste" },
+          { "name_zh": "玉米淀粉", "name_en": "corn starch", "amount": "to taste" },
+          { "name_zh": "白醋", "name_en": "white vinegar", "amount": "to taste" },
+          { "name_zh": "蚝油", "name_en": "oyster sauce", "amount": "to taste" },
+          { "name_zh": "盐", "name_en": "salt", "amount": "to taste" }
+        ]
+      }
+    },
+    {
+      "id": "danchaofan",
+      "name_zh": "蛋炒饭",
+      "name_en": "Egg Fried Rice",
+      "description_zh": "蛋炒饭是一道家常菜，口感松软，样式丰富，口味多样，深受大家喜爱。",
+      "recipe_url": "https://home.meishichina.com/recipe-605227.html",
+      "topic_url": "https://www.meishichina.com/mofang/danchaofan/",
+      "category": "主食",
+      "flavor": "咸香",
+      "cooking_method": "炒",
+      "time_required": "廿分钟",
+      "difficulty": "普通",
+      "ingredients": {
+        "main": [
+          { "name_zh": "隔夜米饭", "name_en": "day-old steamed rice", "amount": "1 bowl" },
+          { "name_zh": "鸡蛋", "name_en": "eggs", "amount": "3" }
+        ],
+        "auxiliary": [
+          { "name_zh": "青椒", "name_en": "green pepper", "amount": "1/4" },
+          { "name_zh": "火腿肠", "name_en": "ham sausage", "amount": "1" }
+        ],
+        "seasonings": [
+          { "name_zh": "盐", "name_en": "salt", "amount": "a pinch" }
+        ]
+      }
+    },
+    {
+      "id": "hongshaopaigu",
+      "name_zh": "红烧排骨",
+      "name_en": "Red Braised Ribs",
+      "description_zh": "红烧排骨，家常菜。此菜味道香咸，排骨酥烂，色泽金红。男女老少人都可食用。",
+      "recipe_url": "https://home.meishichina.com/recipe-432425.html",
+      "topic_url": "https://www.meishichina.com/mofang/hongshaopaigu/",
+      "category": "热菜",
+      "flavor": "咸甜",
+      "cooking_method": "烧",
+      "time_required": "一小时",
+      "difficulty": "高级",
+      "ingredients": {
+        "main": [
+          { "name_zh": "排骨", "name_en": "pork ribs", "amount": "600g" }
+        ],
+        "auxiliary": [
+          { "name_zh": "冰糖", "name_en": "rock sugar", "amount": "40g" },
+          { "name_zh": "酱油", "name_en": "soy sauce", "amount": "15ml" },
+          { "name_zh": "料酒", "name_en": "cooking wine", "amount": "15ml" },
+          { "name_zh": "花椒", "name_en": "Sichuan peppercorn", "amount": "1g" },
+          { "name_zh": "生姜", "name_en": "ginger", "amount": "4 slices" },
+          { "name_zh": "大葱", "name_en": "green onion", "amount": "to taste" },
+          { "name_zh": "盐", "name_en": "salt", "amount": "to taste" },
+          { "name_zh": "食用油", "name_en": "cooking oil", "amount": "to taste" }
+        ]
+      }
+    },
+    {
+      "id": "shuizhuroupian",
+      "name_zh": "水煮肉片",
+      "name_en": "Sichuan Boiled Pork Slices",
+      "description_zh": "水煮肉片是一道汉族新创名菜，属于渝菜，肉味香辣，软嫩，易嚼。吃时肉嫩菜鲜，汤红油亮，麻辣味浓，最宜下饭，为家常美食之一。",
+      "recipe_url": "https://home.meishichina.com/recipe-481583.html",
+      "topic_url": "https://www.meishichina.com/mofang/shuizhuroupian/",
+      "category": "热菜",
+      "flavor": "原味",
+      "cooking_method": "煮",
+      "time_required": null,
+      "difficulty": "高级",
+      "ingredients": {
+        "main": [
+          { "name_zh": "里脊肉", "name_en": "pork tenderloin", "amount": "1 piece" },
+          { "name_zh": "豆芽菜", "name_en": "bean sprouts", "amount": "a little" },
+          { "name_zh": "青菜", "name_en": "leafy greens", "amount": "a little" }
+        ],
+        "auxiliary": [
+          { "name_zh": "姜末", "name_en": "minced ginger", "amount": "1 tbsp" },
+          { "name_zh": "料酒", "name_en": "cooking wine", "amount": "1 tbsp" },
+          { "name_zh": "生抽", "name_en": "light soy sauce", "amount": "1 tbsp" },
+          { "name_zh": "鸡蛋清", "name_en": "egg white", "amount": "1" },
+          { "name_zh": "淀粉", "name_en": "starch", "amount": "1 tbsp" },
+          { "name_zh": "盐", "name_en": "salt", "amount": "a little" },
+          { "name_zh": "火锅底料", "name_en": "hotpot base", "amount": "to taste" },
+          { "name_zh": "花椒", "name_en": "Sichuan peppercorn", "amount": "to taste" },
+          { "name_zh": "蒜末", "name_en": "minced garlic", "amount": "1 tbsp" },
+          { "name_zh": "油", "name_en": "cooking oil", "amount": "a little" },
+          { "name_zh": "辣椒段", "name_en": "dried chili segments", "amount": "to taste" },
+          { "name_zh": "胡椒粉", "name_en": "pepper powder", "amount": "to taste" }
+        ]
+      }
+    },
+    {
+      "id": "koushuiji",
+      "name_zh": "口水鸡",
+      "name_en": "Mouth-Watering Chicken",
+      "description_zh": "口水鸡是中国四川地区汉族特色菜肴，属于川菜系中的凉菜，佐料丰富，集麻辣鲜香嫩爽于一身。在烹制时，煮鸡用的汤料很有讲究，需要恰到好处。",
+      "recipe_url": "https://home.meishichina.com/recipe-423786.html",
+      "topic_url": "https://www.meishichina.com/mofang/koushuiji/",
+      "category": "凉菜",
+      "flavor": "微辣",
+      "cooking_method": "蒸",
+      "time_required": "三刻钟",
+      "difficulty": "普通",
+      "ingredients": {
+        "main": [
+          { "name_zh": "三黄鸡", "name_en": "free-range yellow chicken", "amount": "1 whole" }
+        ],
+        "auxiliary": [
+          { "name_zh": "盐", "name_en": "salt", "amount": "5g" },
+          { "name_zh": "生抽", "name_en": "light soy sauce", "amount": "12g" },
+          { "name_zh": "白糖", "name_en": "white sugar", "amount": "8g" },
+          { "name_zh": "红油", "name_en": "chili oil", "amount": "1 large tbsp" },
+          { "name_zh": "花椒油", "name_en": "Sichuan peppercorn oil", "amount": "half tbsp" },
+          { "name_zh": "白胡椒粉", "name_en": "white pepper powder", "amount": "a pinch" },
+          { "name_zh": "芝麻油", "name_en": "sesame oil", "amount": "a pinch" },
+          { "name_zh": "葱", "name_en": "green onion", "amount": "to taste" },
+          { "name_zh": "小米椒", "name_en": "bird's eye chili", "amount": "a few" },
+          { "name_zh": "熟芝麻", "name_en": "roasted sesame seeds", "amount": "a pinch" },
+          { "name_zh": "熟花生碎", "name_en": "crushed roasted peanuts", "amount": "a pinch" },
+          { "name_zh": "冰水", "name_en": "ice water", "amount": "to taste" },
+          { "name_zh": "姜", "name_en": "ginger", "amount": "to taste" },
+          { "name_zh": "蒜", "name_en": "garlic", "amount": "to taste" }
+        ]
+      }
+    },
+    {
+      "id": "pidanshourouzhou",
+      "name_zh": "皮蛋瘦肉粥",
+      "name_en": "Century Egg & Lean Pork Congee",
+      "description_zh": "皮蛋瘦肉粥是广东省的一道汉族传统名菜，属于粤菜系。皮蛋瘦肉粥以切成小块的皮蛋及咸瘦肉为配料。",
+      "recipe_url": "https://home.meishichina.com/recipe-374463.html",
+      "topic_url": "https://www.meishichina.com/mofang/pidanshourouzhou/",
+      "category": "主食",
+      "flavor": "咸鲜",
+      "cooking_method": "煮",
+      "time_required": "一小时",
+      "difficulty": "简单",
+      "ingredients": {
+        "main": [
+          { "name_zh": "大米", "name_en": "rice", "amount": "150g" },
+          { "name_zh": "皮蛋", "name_en": "century egg (preserved egg)", "amount": "1" },
+          { "name_zh": "精肉", "name_en": "lean pork", "amount": "50g" }
+        ],
+        "auxiliary": [
+          { "name_zh": "胡椒粉", "name_en": "pepper powder", "amount": "to taste" },
+          { "name_zh": "料酒", "name_en": "cooking wine", "amount": "a little" },
+          { "name_zh": "盐", "name_en": "salt", "amount": "a little" },
+          { "name_zh": "淀粉", "name_en": "starch", "amount": "a little" },
+          { "name_zh": "葱花", "name_en": "chopped green onion", "amount": "a little" }
+        ]
+      }
+    },
+    {
+      "id": "hongshaoyu",
+      "name_zh": "红烧鱼",
+      "name_en": "Red Braised Fish",
+      "description_zh": "鱼肉中脂肪含量虽低，但其中的脂肪酸被证实有降糖、护心和防癌的作用。鱼肉中的维生素D、钙、磷，能有效地预防骨质疏松症。",
+      "recipe_url": "https://home.meishichina.com/recipe-439132.html",
+      "topic_url": "https://www.meishichina.com/mofang/hongshaoyu/",
+      "category": "热菜",
+      "flavor": "咸鲜",
+      "cooking_method": "烧",
+      "time_required": "半小时",
+      "difficulty": "普通",
+      "ingredients": {
+        "main": [
+          { "name_zh": "鲫鱼", "name_en": "crucian carp", "amount": "2" }
+        ],
+        "auxiliary": [
+          { "name_zh": "生抽", "name_en": "light soy sauce", "amount": "to taste" },
+          { "name_zh": "老抽", "name_en": "dark soy sauce", "amount": "1 tbsp" },
+          { "name_zh": "料酒", "name_en": "cooking wine", "amount": "to taste" },
+          { "name_zh": "糖", "name_en": "sugar", "amount": "to taste" },
+          { "name_zh": "葱", "name_en": "green onion", "amount": "to taste" },
+          { "name_zh": "油", "name_en": "cooking oil", "amount": "to taste" },
+          { "name_zh": "蒜", "name_en": "garlic", "amount": "to taste" },
+          { "name_zh": "姜", "name_en": "ginger", "amount": "to taste" }
+        ]
+      }
+    },
+    {
+      "id": "shousibaocai",
+      "name_zh": "手撕包菜",
+      "name_en": "Hand-Torn Cabbage",
+      "description_zh": "手撕包菜是一道色香味俱全的汉族名菜，属于湘菜系。此菜红白相间，麻辣鲜香，爽脆清甜，除了可开胃增食欲外，还有美白祛斑、预防感冒和胃溃疡等作用。",
+      "recipe_url": "https://home.meishichina.com/recipe-530930.html",
+      "topic_url": "https://www.meishichina.com/mofang/shousibaocai/",
+      "category": "热菜",
+      "flavor": "咸香",
+      "cooking_method": "炒",
+      "time_required": "十分钟",
+      "difficulty": "简单",
+      "ingredients": {
+        "main": [
+          { "name_zh": "包菜", "name_en": "cabbage", "amount": "to taste" },
+          { "name_zh": "肉片", "name_en": "sliced pork", "amount": "to taste" }
+        ],
+        "auxiliary": [
+          { "name_zh": "花生油", "name_en": "peanut oil", "amount": "to taste" },
+          { "name_zh": "酱油", "name_en": "soy sauce", "amount": "to taste" },
+          { "name_zh": "盐", "name_en": "salt", "amount": "to taste" },
+          { "name_zh": "料酒", "name_en": "cooking wine", "amount": "to taste" }
+        ],
+        "seasonings": [
+          { "name_zh": "干辣椒", "name_en": "dried chili pepper", "amount": "to taste" },
+          { "name_zh": "姜末", "name_en": "minced ginger", "amount": "to taste" },
+          { "name_zh": "葱末", "name_en": "minced green onion", "amount": "to taste" },
+          { "name_zh": "花椒", "name_en": "Sichuan peppercorn", "amount": "to taste" },
+          { "name_zh": "蒜末", "name_en": "minced garlic", "amount": "to taste" }
+        ]
+      }
+    },
+    {
+      "id": "duojiaoyutou",
+      "name_zh": "剁椒鱼头",
+      "name_en": "Steamed Fish Head with Chopped Chili",
+      "description_zh": "剁椒鱼头是湖南湘潭以及湘赣交界地方的一道汉族传统名菜，属湘菜系。以鱼头的「味鲜」和剁辣椒的「辣」为一体，风味独具一格。",
+      "recipe_url": "https://home.meishichina.com/recipe-435432.html",
+      "topic_url": "https://www.meishichina.com/mofang/duojiaoyutou/",
+      "category": "热菜",
+      "flavor": "鱼香",
+      "cooking_method": "蒸",
+      "time_required": "半小时",
+      "difficulty": "普通",
+      "ingredients": {
+        "main": [
+          { "name_zh": "胖头鱼头", "name_en": "bighead carp head", "amount": "650g" },
+          { "name_zh": "盐", "name_en": "salt", "amount": "to taste" },
+          { "name_zh": "胡椒粉", "name_en": "pepper powder", "amount": "a pinch" },
+          { "name_zh": "黄酒", "name_en": "yellow rice wine", "amount": "10g" },
+          { "name_zh": "姜丝", "name_en": "shredded ginger", "amount": "to taste" }
+        ],
+        "auxiliary": [
+          { "name_zh": "剁椒贡菜", "name_en": "chopped chili with preserved vegetables", "amount": "2 large tbsp" },
+          { "name_zh": "豆豉油剁椒", "name_en": "fermented black bean chili sauce", "amount": "2 large tbsp" },
+          { "name_zh": "姜片", "name_en": "ginger slices", "amount": "to taste" },
+          { "name_zh": "香葱白", "name_en": "scallion whites", "amount": "to taste" },
+          { "name_zh": "香葱叶", "name_en": "scallion greens", "amount": "to taste" },
+          { "name_zh": "玉米油", "name_en": "corn oil", "amount": "to taste" }
+        ]
+      }
+    },
+    {
+      "id": "fenzhengrou",
+      "name_zh": "粉蒸肉",
+      "name_en": "Steamed Pork with Rice Flour",
+      "description_zh": "粉蒸肉（又名面面肉）是广泛流行于中国南方地区的汉族传统名菜之一，是江西名菜，另在川菜、湘菜、浙菜等中都有这一菜式。以主料带皮五花肉加米粉和其他调味料制作而成。",
+      "recipe_url": "https://home.meishichina.com/recipe-302135.html",
+      "topic_url": "https://www.meishichina.com/mofang/fenzhengrou/",
+      "category": "热菜",
+      "flavor": "咸鲜",
+      "cooking_method": "蒸",
+      "time_required": "一小时",
+      "difficulty": "普通",
+      "ingredients": {
+        "main": [
+          { "name_zh": "五花肉", "name_en": "pork belly", "amount": "500g" },
+          { "name_zh": "蒸肉米粉", "name_en": "steamed pork rice flour", "amount": "1 packet" }
+        ],
+        "auxiliary": [
+          { "name_zh": "生姜", "name_en": "ginger", "amount": "3g" },
+          { "name_zh": "生抽", "name_en": "light soy sauce", "amount": "2 tbsp" },
+          { "name_zh": "老抽", "name_en": "dark soy sauce", "amount": "half tbsp" },
+          { "name_zh": "胡椒粉", "name_en": "pepper powder", "amount": "1g" },
+          { "name_zh": "腐乳", "name_en": "fermented tofu", "amount": "to taste" },
+          { "name_zh": "生粉", "name_en": "starch", "amount": "to taste" },
+          { "name_zh": "土豆", "name_en": "potato", "amount": "1" }
+        ]
+      }
+    },
+    {
+      "id": "malaxiangguo",
+      "name_zh": "麻辣香锅",
+      "name_en": "Mala Xiang Guo (Spicy Stir-Fry Pot)",
+      "description_zh": "麻辣香锅发源于巴蜀地区，以四川、重庆等地方麻辣风味融合而来，麻辣香锅源于土家风味，是当地老百姓的家常做法，以麻、辣、鲜、香、油、混搭为特点。虽然麻辣香锅属于麻辣口味，但颇受全国食客喜爱。",
+      "recipe_url": "https://home.meishichina.com/recipe-463470.html",
+      "topic_url": "https://www.meishichina.com/mofang/malaxiangguo/",
+      "category": "热菜",
+      "flavor": "麻辣",
+      "cooking_method": "炒",
+      "time_required": "半小时",
+      "difficulty": "普通",
+      "ingredients": {
+        "main": [
+          { "name_zh": "猪肉", "name_en": "pork", "amount": "to taste" },
+          { "name_zh": "基围虾", "name_en": "shrimp", "amount": "to taste" },
+          { "name_zh": "腐竹", "name_en": "dried tofu skin sticks", "amount": "to taste" },
+          { "name_zh": "香菇", "name_en": "shiitake mushroom", "amount": "to taste" },
+          { "name_zh": "黄瓜", "name_en": "cucumber", "amount": "to taste" },
+          { "name_zh": "玉米", "name_en": "corn", "amount": "to taste" },
+          { "name_zh": "土豆", "name_en": "potato", "amount": "to taste" },
+          { "name_zh": "豇豆", "name_en": "long bean", "amount": "to taste" },
+          { "name_zh": "四季豆", "name_en": "green bean", "amount": "to taste" },
+          { "name_zh": "扁豆", "name_en": "flat bean", "amount": "to taste" },
+          { "name_zh": "米椒", "name_en": "bird's eye chili", "amount": "to taste" },
+          { "name_zh": "鱼豆腐", "name_en": "fish tofu", "amount": "to taste" }
+        ],
+        "auxiliary": [
+          { "name_zh": "八角", "name_en": "star anise", "amount": "to taste" },
+          { "name_zh": "桂皮", "name_en": "cinnamon bark", "amount": "to taste" },
+          { "name_zh": "香叶", "name_en": "bay leaf", "amount": "to taste" },
+          { "name_zh": "大蒜头", "name_en": "garlic head", "amount": "to taste" },
+          { "name_zh": "火锅底料", "name_en": "hotpot base", "amount": "to taste" },
+          { "name_zh": "花椒", "name_en": "Sichuan peppercorn", "amount": "to taste" },
+          { "name_zh": "鸡精", "name_en": "chicken bouillon", "amount": "to taste" },
+          { "name_zh": "料酒", "name_en": "cooking wine", "amount": "to taste" },
+          { "name_zh": "熟白芝麻", "name_en": "roasted white sesame seeds", "amount": "to taste" },
+          { "name_zh": "葱", "name_en": "green onion", "amount": "to taste" }
+        ]
+      }
+    },
+    {
+      "id": "laziji",
+      "name_zh": "辣子鸡",
+      "name_en": "Chongqing Chili Chicken",
+      "description_zh": "重庆辣子鸡是一道色香味俱全的汉族名肴，属于川菜系或重庆菜。将鸡块炸至外焦内酥，与花椒、干辣椒和指天椒一同拌炒而成，成菜色泽红润，麻辣鲜香，酥香爽脆。",
+      "recipe_url": "https://home.meishichina.com/recipe-583752.html",
+      "topic_url": "https://www.meishichina.com/mofang/laziji/",
+      "category": "热菜",
+      "flavor": "咸鲜",
+      "cooking_method": "炒",
+      "time_required": "廿分钟",
+      "difficulty": "普通",
+      "ingredients": {
+        "main": [
+          { "name_zh": "鸡腿", "name_en": "chicken leg", "amount": "4" }
+        ],
+        "auxiliary": [
+          { "name_zh": "炸花生米", "name_en": "fried peanuts", "amount": "1 small bowl" }
+        ],
+        "seasonings": [
+          { "name_zh": "花椒", "name_en": "Sichuan peppercorn", "amount": "1 tsp" },
+          { "name_zh": "干红辣椒", "name_en": "dried red chili", "amount": "1 small bowl" },
+          { "name_zh": "葱", "name_en": "green onion", "amount": "3 stalks" },
+          { "name_zh": "姜", "name_en": "ginger", "amount": "3 slices" },
+          { "name_zh": "蒜", "name_en": "garlic", "amount": "4 cloves" },
+          { "name_zh": "生抽", "name_en": "light soy sauce", "amount": "1 tsp" },
+          { "name_zh": "蚝油", "name_en": "oyster sauce", "amount": "1 tsp" },
+          { "name_zh": "料酒", "name_en": "cooking wine", "amount": "1/2 tsp" },
+          { "name_zh": "白胡椒粉", "name_en": "white pepper powder", "amount": "a pinch" },
+          { "name_zh": "盐", "name_en": "salt", "amount": "a pinch" },
+          { "name_zh": "淀粉", "name_en": "starch", "amount": "1 large tbsp" },
+          { "name_zh": "蛋清", "name_en": "egg white", "amount": "1" },
+          { "name_zh": "熟芝麻", "name_en": "roasted sesame seeds", "amount": "1 large tbsp" },
+          { "name_zh": "油", "name_en": "cooking oil", "amount": "to taste" }
+        ]
+      }
+    },
+    {
+      "id": "ganbiandoujiao",
+      "name_zh": "干煸豆角",
+      "name_en": "Dry-Fried Green Beans",
+      "description_zh": "干煸豆角是一道美味的菜肴，口味咸香辣，色泽嫩绿，口感脆嫩，营养丰富。",
+      "recipe_url": "https://home.meishichina.com/recipe-400274.html",
+      "topic_url": "https://www.meishichina.com/mofang/ganbiandoujiao/",
+      "category": "热菜",
+      "flavor": "微辣",
+      "cooking_method": "炸",
+      "time_required": "廿分钟",
+      "difficulty": "普通",
+      "ingredients": {
+        "main": [
+          { "name_zh": "豆角", "name_en": "green beans (long beans)", "amount": "400g" },
+          { "name_zh": "五花肉末", "name_en": "minced pork belly", "amount": "150g" }
+        ],
+        "auxiliary": [
+          { "name_zh": "干辣椒", "name_en": "dried chili pepper", "amount": "6" },
+          { "name_zh": "葱", "name_en": "green onion", "amount": "1 stalk" },
+          { "name_zh": "姜", "name_en": "ginger", "amount": "1 piece" },
+          { "name_zh": "大蒜粒", "name_en": "garlic cloves", "amount": "4" },
+          { "name_zh": "盐", "name_en": "salt", "amount": "1 tsp" },
+          { "name_zh": "鸡精", "name_en": "chicken bouillon", "amount": "1 tsp" },
+          { "name_zh": "白糖", "name_en": "white sugar", "amount": "1 tbsp" },
+          { "name_zh": "白芝麻", "name_en": "white sesame seeds", "amount": "to taste" }
+        ]
+      }
+    },
+    {
+      "id": "muxurou",
+      "name_zh": "木须肉",
+      "name_en": "Moo Shu Pork",
+      "description_zh": "木须肉原名木樨肉，是一道常见的特色传统名菜，属八大菜系之一的鲁菜-孔府菜。其菜以猪肉片与鸡蛋、木耳等混炒而成，因炒鸡蛋色黄而碎，类似木樨而得名。",
+      "recipe_url": "https://home.meishichina.com/recipe-529010.html",
+      "topic_url": "https://www.meishichina.com/mofang/muxurou/",
+      "category": "热菜",
+      "flavor": "清淡",
+      "cooking_method": "炒",
+      "time_required": "十分钟",
+      "difficulty": "普通",
+      "ingredients": {
+        "main": [
+          { "name_zh": "鸡蛋", "name_en": "eggs", "amount": "2" },
+          { "name_zh": "猪里脊", "name_en": "pork tenderloin", "amount": "1 piece" },
+          { "name_zh": "干黄花菜", "name_en": "dried lily flower (daylily)", "amount": "1 handful" },
+          { "name_zh": "黑木耳", "name_en": "black wood ear mushroom", "amount": "1 handful" },
+          { "name_zh": "黄瓜", "name_en": "cucumber", "amount": "1" },
+          { "name_zh": "胡萝卜", "name_en": "carrot", "amount": "half" }
+        ],
+        "auxiliary": [
+          { "name_zh": "淀粉", "name_en": "starch", "amount": "a little" },
+          { "name_zh": "葱花", "name_en": "chopped green onion", "amount": "to taste" },
+          { "name_zh": "姜末", "name_en": "minced ginger", "amount": "a little" }
+        ],
+        "seasonings": [
+          { "name_zh": "酱油", "name_en": "soy sauce", "amount": "20g" },
+          { "name_zh": "盐", "name_en": "salt", "amount": "to taste" }
+        ]
+      }
+    },
+    {
+      "id": "hongshaoshizitou",
+      "name_zh": "红烧狮子头",
+      "name_en": "Red Braised Lion's Head Meatballs",
+      "description_zh": "红烧狮子头是一道淮扬名菜。将有肥有瘦的肉配上荸荠、香菇等材料，做成丸子，先炸后煮，出锅后扑鼻的香味，醇香味浓的肉块与汁液，超级美味。",
+      "recipe_url": "https://home.meishichina.com/recipe-417134.html",
+      "topic_url": "https://www.meishichina.com/mofang/hongshaoshizitou/",
+      "category": "热菜",
+      "flavor": "咸鲜",
+      "cooking_method": "炖",
+      "time_required": "数小时",
+      "difficulty": "高级",
+      "ingredients": {
+        "main": [
+          { "name_zh": "猪肉", "name_en": "pork", "amount": "500g" },
+          { "name_zh": "荸荠", "name_en": "water chestnut", "amount": "8" },
+          { "name_zh": "香菇", "name_en": "shiitake mushroom", "amount": "5" },
+          { "name_zh": "油菜", "name_en": "baby bok choy", "amount": "7 stalks" },
+          { "name_zh": "生姜", "name_en": "ginger", "amount": "to taste" },
+          { "name_zh": "大葱", "name_en": "green onion", "amount": "to taste" }
+        ],
+        "auxiliary": [
+          { "name_zh": "鸡蛋", "name_en": "egg", "amount": "1" },
+          { "name_zh": "蚝油", "name_en": "oyster sauce", "amount": "15g" },
+          { "name_zh": "生抽", "name_en": "light soy sauce", "amount": "15g" },
+          { "name_zh": "黄酒", "name_en": "yellow rice wine", "amount": "15g" },
+          { "name_zh": "淀粉", "name_en": "starch", "amount": "10g" },
+          { "name_zh": "水", "name_en": "water", "amount": "30g" },
+          { "name_zh": "胡椒粉", "name_en": "pepper powder", "amount": "to taste" },
+          { "name_zh": "盐", "name_en": "salt", "amount": "to taste" },
+          { "name_zh": "香油", "name_en": "sesame oil", "amount": "to taste" }
+        ],
+        "seasonings": [
+          { "name_zh": "大葱", "name_en": "green onion", "amount": "to taste" },
+          { "name_zh": "生姜", "name_en": "ginger", "amount": "to taste" },
+          { "name_zh": "蚝油", "name_en": "oyster sauce", "amount": "15g" },
+          { "name_zh": "老抽", "name_en": "dark soy sauce", "amount": "15g" },
+          { "name_zh": "白砂糖", "name_en": "white sugar", "amount": "to taste" },
+          { "name_zh": "生抽", "name_en": "light soy sauce", "amount": "15g" },
+          { "name_zh": "高汤", "name_en": "stock / broth", "amount": "500ml" }
+        ]
+      }
+    },
+    {
+      "id": "xiaojidunmogu",
+      "name_zh": "小鸡炖蘑菇",
+      "name_en": "Braised Chicken with Mushrooms",
+      "description_zh": "小鸡炖蘑菇的来历也很有东北白山黑土的生活气息。即是用干蘑菇、鸡肉和粉条一同炖制而成。炖鸡的蘑菇最好选用野生的榛蘑，榛蘑可以最大程度衬托出鸡肉的鲜香。名副其实的山珍野味。",
+      "recipe_url": "https://home.meishichina.com/recipe-359902.html",
+      "topic_url": "https://www.meishichina.com/mofang/xiaojidunmogu/",
+      "category": "热菜",
+      "flavor": "中辣",
+      "cooking_method": "炖",
+      "time_required": "三刻钟",
+      "difficulty": "普通",
+      "ingredients": {
+        "main": [
+          { "name_zh": "鸡", "name_en": "chicken", "amount": "half" },
+          { "name_zh": "干花菇", "name_en": "dried shiitake mushroom", "amount": "to taste" },
+          { "name_zh": "土豆", "name_en": "potato", "amount": "1" },
+          { "name_zh": "胡萝卜", "name_en": "carrot", "amount": "1" },
+          { "name_zh": "山药", "name_en": "Chinese yam", "amount": "half" }
+        ],
+        "auxiliary": [
+          { "name_zh": "姜", "name_en": "ginger", "amount": "1 large piece" },
+          { "name_zh": "蒜", "name_en": "garlic", "amount": "4 cloves" },
+          { "name_zh": "辣椒", "name_en": "chili pepper", "amount": "to taste" },
+          { "name_zh": "盐", "name_en": "salt", "amount": "1 tbsp" },
+          { "name_zh": "生抽", "name_en": "light soy sauce", "amount": "1 tbsp" },
+          { "name_zh": "老抽", "name_en": "dark soy sauce", "amount": "1 tbsp" },
+          { "name_zh": "鸡精", "name_en": "chicken bouillon", "amount": "1 tsp" },
+          { "name_zh": "花椒", "name_en": "Sichuan peppercorn", "amount": "about 10" },
+          { "name_zh": "葱", "name_en": "green onion", "amount": "1 stalk" }
+        ]
+      }
+    },
+    {
+      "id": "pijiuya",
+      "name_zh": "啤酒鸭",
+      "name_en": "Beer Duck",
+      "description_zh": "啤酒鸭是一道风味独特的汉族佳肴，是深受广大食客喜爱的菜肴。其主料为鸭子、啤酒。将鸭肉与啤酒一同炖煮成菜，使滋补的鸭肉味道更加浓厚，鸭肉不仅入口鲜香，还带有一股啤酒清香。",
+      "recipe_url": "https://home.meishichina.com/recipe-396465.html",
+      "topic_url": "https://www.meishichina.com/mofang/pijiuya/",
+      "category": "热菜",
+      "flavor": "咸鲜",
+      "cooking_method": "炖",
+      "time_required": "三刻钟",
+      "difficulty": "简单",
+      "ingredients": {
+        "main": [
+          { "name_zh": "鸭", "name_en": "duck", "amount": "500g" },
+          { "name_zh": "啤酒", "name_en": "beer", "amount": "500ml" }
+        ],
+        "auxiliary": [
+          { "name_zh": "蒜瓣", "name_en": "garlic cloves", "amount": "1 head" },
+          { "name_zh": "姜片", "name_en": "ginger slices", "amount": "4 slices" },
+          { "name_zh": "葱段", "name_en": "green onion sections", "amount": "2 sections" },
+          { "name_zh": "花椒", "name_en": "Sichuan peppercorn", "amount": "10 pieces" },
+          { "name_zh": "干辣椒", "name_en": "dried chili pepper", "amount": "2" },
+          { "name_zh": "生抽", "name_en": "light soy sauce", "amount": "2 tbsp" },
+          { "name_zh": "老抽", "name_en": "dark soy sauce", "amount": "half tbsp" },
+          { "name_zh": "盐", "name_en": "salt", "amount": "to taste" }
+        ]
+      }
+    }
+  ]
+}
